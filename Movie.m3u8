@@ -1,0 +1,72 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="ifilm Arabic" tvg-name="ifilm Arabic" tvg-logo="http://2.bp.blogspot.com/-RtHYuefALoY/UqC5sSIUmJI/AAAAAAAABcE/ABQM3xkQlaA/s1600/iFilm+Arabic+Channel+Icon.JPG" group-title="ARABI",ifilm Arabic
+https://live2.presstv.com/ifilmlive/smil:ifilmar.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="MBC2" tvg-name="MBC2" tvg-logo="https://4.bp.blogspot.com/-chfyUM9wFQQ/VrSLQvDZ2rI/AAAAAAAAAhY/Qm83AVtowX4/s1600/mbc2.png" group-title="ARABI",MBC2
+http://livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8
+
+#EXTINF:-1 tvg-id="MBC2-2" tvg-name="MBC2-2" tvg-logo="https://4.bp.blogspot.com/-chfyUM9wFQQ/VrSLQvDZ2rI/AAAAAAAAAhY/Qm83AVtowX4/s1600/mbc2.png" group-title="ARABI",MBC2-2
+http://shls-mbc2-prod.shahid.net/mbc2-prod_1.m3u8
+
+#EXTINF:-1 tvg-id="MBC MAX" tvg-name="MBC MAX" tvg-logo="https://e-nautia.com/disk/thumb6736914.png" group-title="ARABI",MBC MAX
+http://shls-mbcmax-prod.shahid.net/mbcmax-prod_1.m3u8
+
+#EXTINF:-1 tvg-id="MBC MAX-2" tvg-name="MBC MAX-2" tvg-logo="https://e-nautia.com/disk/thumb6736914.png" group-title="ARABI",MBC MAX-2
+http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8
+
+#EXTINF:-1 tvg-id="MBC Action" tvg-name="MBC Action" tvg-logo="https://www.nmisr.com/wp-content/uploads/2018/11/5566656.jpg" group-title="ARABI",MBC Action
+http://livecdnh3.tvanywhere.ae/hls/mbcaction/05.m3u8
+
+#EXTINF:-1 tvg-id="MBC Action-2" tvg-name="MBC Action-2" tvg-logo="https://www.nmisr.com/wp-content/uploads/2018/11/5566656.jpg" group-title="ARABI",MBC Action-2
+http://shls-mbcaction-prod.shahid.net/mbcaction-prod_1.m3u8
+
+#EXTINF:-1 tvg-id="MBC BOLLYWOOD" tvg-name="MBC BOLLYWOOD" tvg-logo="https://pbs.twimg.com/profile_images/378800000502363621/fdd8dd8a31bf82c1dc16f2c927f88ac9_400x400.jpeg" group-title="ARABI",MBC BOLLYWOOD
+http://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod_1.m3u8
+
+#EXTINF:-1 tvg-id="MBC BOLLYWOOD-2" tvg-name="MBC BOLLYWOOD-2" tvg-logo="https://pbs.twimg.com/profile_images/378800000502363621/fdd8dd8a31bf82c1dc16f2c927f88ac9_400x400.jpeg" group-title="ARABI",MBC BOLLYWOOD-2
+http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
+
+#EXTINF:-1 tvg-id="B4U Aflam" tvg-name="B4U Aflam" tvg-logo="https://plsadaptive.s3.amazonaws.com/eco/images/partners/7DIoUsmRKd0XVgHEYUF5R1bUmaeSo9JGT3tBAXZh.png" group-title="ARABI",B4U Aflam
+http://livecdnh3.tvanywhere.ae/hls/b4uaflam/index.m3u8
+
+#EXTINF:-1 tvg-id="Zee Aflam" tvg-name="Zee Aflam" tvg-logo="https://pbs.twimg.com/profile_images/605784268728434690/HhJAqR21_400x400.jpg" group-title="ARABI",Zee Aflam
+http://livecdnh3.tvanywhere.ae/hls/zeeaflam/index.m3u8
+
+#EXTINF:-1 tvg-id="Star Movies" tvg-name="Star Movies" tvg-logo="http://pluspng.com/img-png/star-movies-logo-png-star-movies-hd-star-movies-png-300.png" group-title="ARABI",Star Movies
+http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
+
+#EXTINF:-1 tvg-id="Star Movies-2" tvg-name="Star Movies-2" tvg-logo="http://pluspng.com/img-png/star-movies-logo-png-star-movies-hd-star-movies-png-300.png" group-title="ARABI",Star Movies-2
+http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8
+
+#EXTINF:-1 tvg-id="Canadian Arab TV" tvg-name="Canadian Arab TV" tvg-logo="https://assets.streamtest.in/logo/398/41_canadian-arab-tv.jpg?v=1542799446" group-title="ARABI",Canadian Arab TV
+http://142.112.39.133:8080/catv.mp4
+
+#EXTINF:-1 tvg-id="Dubai One" tvg-name="Dubai One" tvg-logo="http://www.digitalstudiome.com/pictures/Dubai%20One%20Logo.jpg" group-title="ARABI",Dubai One
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dubai One-2" tvg-name="Dubai One-2" tvg-logo="http://www.digitalstudiome.com/pictures/Dubai%20One%20Logo.jpg" group-title="ARABI",Dubai One-2
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/FluxusTV.m3u8
+
+#EXTINF:-1 tvg-id="Rotana Cinema" tvg-name="Rotana Cinema" tvg-logo="https://static.filmon.com/assets/channels/2618/extra_big_logo.png" group-title="ARABI",Rotana Cinema
+http://livecdnh3.tvanywhere.ae/hls/rotcinema/04.m3u8
+
+#EXTINF:-1 tvg-id="Rotana Comedy" tvg-name="Rotana Comedy" tvg-logo="https://i1.wp.com/www.saudi24.news/wp-content/uploads/2020/04/5e91a04ae131b.jpeg?fit=700%2C525&ssl=1&w=640" group-title="ARABI",Rotana Comedy
+http://rotana.hibridmedia.com/rotana/comedy_dabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Rotana Comedy-2" tvg-name="Rotana Comedy-2" tvg-logo="https://i1.wp.com/www.saudi24.news/wp-content/uploads/2020/04/5e91a04ae131b.jpeg?fit=700%2C525&ssl=1&w=640" group-title="ARABI",Rotana Comedy-2
+http://livecdnh3.tvanywhere.ae/hls/rotaflam/04.m3u8
+
+#EXTINF:-1 tvg-id="Rotana Classic" tvg-name="Rotana Classic" tvg-logo="https://i1.sndcdn.com/avatars-000019574161-45t2e1-t500x500.jpg" group-title="ARABI",Rotana Classic
+http://livecdnh3.tvanywhere.ae/hls/rotclassic/04.m3u8
+
+#EXTINF:-1 tvg-id="Cinema 1" tvg-name="Cinema 1" tvg-logo="http://arabictvs.com/video-elements/files/2009/10/cinema1.jpg" group-title="ARABI",Cinema 1
+http://livecdnh1.tvanywhere.ae/hls/cin1/04.m3u8
+
+#EXTINF:-1 tvg-id="Nile Cinema" tvg-name="Nile Cinema" tvg-logo="http://arabictvs.com/video-elements/files/2009/10/cinema1.jpg" group-title="ARABI",Nile Cinema
+http://livecdnh2.tvanywhere.ae/hls/nile_cin/index.m3u8
+
+#EXTINF:-1 tvg-id="4k Channel" tvg-name="4k Channel" tvg-logo="http://www.astra2sat.com/wp-content/uploads/2016/04/Channel-4K-e1459592500530.jpg" group-title="AJNABI",4k Channel
+http://bozztv.com/36bay2/gin/giniko_4kchannel_8000kb_36bay2/index.m3u8
+
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/51.m3u8
