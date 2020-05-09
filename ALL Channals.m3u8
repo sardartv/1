@@ -489,129 +489,130 @@ http://livecdnh2.tvanywhere.ae/hls/arabica_music/04.m3u8
 
 
 
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/51.m3u8
-
-
-#EXTINF:-1 tvg-id="Al Emarat"
-http://163.172.28.43:9090/stream/2856804/d1d2e1ed1f0e10ef7cf18bcd6ff8b574/6267-.m3u8
-
-
 #EXTINF:-1   group-title="ARABIC CH",AR: 2MONDE
 http://streamxcode.ddns.net:25461/load/desiboyz150/6285.mpegts
-
 #EXTINF:-1   group-title="ARABIC CH",AR: ABU DHABI DRAMA
 http://streamxcode.ddns.net:25461/load/desiboyz150/6504.mpegts
-
 #EXTINF:-1   group-title="ARABIC CH",AR: ABU DHABI TV
 http://streamxcode.ddns.net:25461/load/desiboyz150/6505.mpegts
+#EXTINF:-1   group-title="ARABIC CH",AR: AD NAT GEO
+http://streamxcode.ddns.net:25461/load/desiboyz150/7572.mpegts
 
+#EXTINF:-1   group-title="ARABIC CH",AR: AL ARABIYA
+http://streamxcode.ddns.net:25461/load/desiboyz150/6388.mpegts
+#EXTINF:-1   group-title="ARABIC CH",AR: AL Emarat TV
+http://streamxcode.ddns.net:25461/load/desiboyz150/6267.mpegts
+#EXTINF:-1   group-title="ARABIC CH",AR: AL HADATH
+http://streamxcode.ddns.net:25461/load/desiboyz150/6286.mpegts
+#EXTINF:-1   group-title="ARABIC CH",AR: AL IKHBARIYA SYRIA
+http://streamxcode.ddns.net:25461/load/desiboyz150/7590.mpegts
+#EXTINF:-1   group-title="ARABIC CH",AR: AL JADEED
+http://streamxcode.ddns.net:25461/load/desiboyz150/6290.mpegts
+#EXTINF:-1   group-title="INLB1",1-IN: AL JAZEERA NEWS
+http://streamxcode.ddns.net:25461/load/desiboyz150/7634.mpegts
 #EXTINF:-1   group-title="ARABIC CH",AR: AL JAZEERA DOC
 http://streamxcode.ddns.net:25461/load/desiboyz150/7576.mpegts
-
+#EXTINF:-1   group-title="ARABIC CH",AR: AL MAJD
+http://streamxcode.ddns.net:25461/load/desiboyz150/6389.mpegts
+#EXTINF:-1   group-title="ARABIC CH",AR: AL MANAR
+http://streamxcode.ddns.net:25461/load/desiboyz150/6445.mpegts
 #EXTINF:-1   group-title="ARABIC CH",AR: AL MASRIYAH
 http://streamxcode.ddns.net:25461/load/desiboyz150/744.mpegts
-
+#EXTINF:-1   group-title="ARABIC CH",AR: AL MAYADEEN
+http://streamxcode.ddns.net:25461/load/desiboyz150/6446.mpegts
 #EXTINF:-1   group-title="ARABIC CH",AR: AL NAHAR
 http://streamxcode.ddns.net:25461/load/desiboyz150/6391.mpegts
-
 #EXTINF:-1   group-title="ARABIC CH",AR: AL NAHAR DRAMA
 http://streamxcode.ddns.net:25461/load/desiboyz150/6390.mpegts
-
+#EXTINF:-1   group-title="ARABIC CH",AR: AL RESALAH
+http://streamxcode.ddns.net:25461/load/desiboyz150/6268.mpegts
+#EXTINF:-1   group-title="ARABIC CH",AR: ALAM NEWS
+http://streamxcode.ddns.net:25461/load/desiboyz150/6450.mpegts
+#EXTINF:-1   group-title="ARABIC CH",AR: ALKASS TWO HD
+http://streamxcode.ddns.net:25461/load/desiboyz150/7628.mpegts
+#EXTINF:-1   group-title="ARABIC CH",AR: ALRAI TV
+http://streamxcode.ddns.net:25461/load/desiboyz150/7681.mpegts
 #EXTINF:-1   group-title="ARABIC CH",AR: ARABICA TV
 http://streamxcode.ddns.net:25461/load/desiboyz150/6506.mpegts
-
 #EXTINF:-1   group-title="ARABIC CH",AR: ART AFLAM 1
 http://streamxcode.ddns.net:25461/load/desiboyz150/6393.mpegts
-
 #EXTINF:-1   group-title="ARABIC CH",AR: ART AFLAM 2
 http://streamxcode.ddns.net:25461/load/desiboyz150/6394.mpegts
-
 #EXTINF:-1   group-title="ARABIC CH",AR: ART CINEMA
 http://streamxcode.ddns.net:25461/load/desiboyz150/6395.mpegts
-
 #EXTINF:-1   group-title="ARABIC CH",AR: ART HEKAYAT
 http://streamxcode.ddns.net:25461/load/desiboyz150/6397.mpegts
-
 #EXTINF:-1   group-title="ARABIC CH",AR: ART HEKAYAT 2
 http://streamxcode.ddns.net:25461/load/desiboyz150/6396.mpegts
-
 #EXTINF:-1   group-title="ARABIC CH",AR: Al Maghribia
 http://streamxcode.ddns.net:25461/load/desiboyz150/6392.mpegts
-
 #EXTINF:-1   group-title="ARABIC CH",AR: Algeria 3
 http://streamxcode.ddns.net:25461/load/desiboyz150/7578.mpegts
-
 #EXTINF:-1   group-title="ARABIC CH",AR: Aoula Moroco
 http://streamxcode.ddns.net:25461/load/desiboyz150/6258.mpegts
-
 #EXTINF:-1   group-title="ARABIC CH",AR: Arriadia Moroco
 http://streamxcode.ddns.net:25461/load/desiboyz150/6259.mpegts
-
 #EXTINF:-1   group-title="ARABIC CH",AR: Assadissa Moroco
 http://streamxcode.ddns.net:25461/load/desiboyz150/6260.mpegts
-
+#EXTINF:-1   group-title="ARABIC CH",AR: B4U AFLAM
+http://streamxcode.ddns.net:25461/load/desiboyz150/6398.mpegts
 #EXTINF:-1   group-title="ARABIC CH",AR: B4U PLUS
 http://streamxcode.ddns.net:25461/load/desiboyz150/6269.mpegts
-
 
 #EXTINF:-1   group-title="ARABIC CH",AR: BAHRAIN TV
 http://streamxcode.ddns.net:25461/load/desiboyz150/7610.mpegts
 
+#EXTINF:-1   group-title="ARABIC CH",AR: BBC ARABIA
+http://streamxcode.ddns.net:25461/load/desiboyz150/6400.mpegts
 
 #EXTINF:-1   group-title="ARABIC CH",AR: CAIRO CINEMA
 http://streamxcode.ddns.net:25461/load/desiboyz150/716.mpegts
-
 #EXTINF:-1   group-title="ARABIC CH",AR: CAIRO DRAMA
 http://streamxcode.ddns.net:25461/load/desiboyz150/715.mpegts
-
+#EXTINF:-1   group-title="ARABIC CH",AR: CARTOON NETWORK
+http://streamxcode.ddns.net:25461/load/desiboyz150/4681.mpegts
 #EXTINF:-1   group-title="ARABIC CH",AR: CBC
 http://streamxcode.ddns.net:25461/load/desiboyz150/6489.mpegts
-
 #EXTINF:-1   group-title="ARABIC CH",AR: CBC DRAMA
 http://streamxcode.ddns.net:25461/load/desiboyz150/713.mpegts
-
 #EXTINF:-1   group-title="ARABIC CH",AR: CBC EXTRA
 http://streamxcode.ddns.net:25461/load/desiboyz150/712.mpegts
-
 #EXTINF:-1   group-title="ARABIC CH",AR: CBC SOFRA
 http://streamxcode.ddns.net:25461/load/desiboyz150/714.mpegts
-
+#EXTINF:-1   group-title="ARABIC CH",AR: DUBAI SPORTS
+http://streamxcode.ddns.net:25461/load/desiboyz150/7612.mpegts
 #EXTINF:-1   group-title="ARABIC CH",AR: DUBAI TV
 http://streamxcode.ddns.net:25461/load/desiboyz150/7635.mpegts
-
 #EXTINF:-1   group-title="ARABIC CH",AR: DUBAI ZAMAN
 http://streamxcode.ddns.net:25461/load/desiboyz150/6508.mpegts
-
+#EXTINF:-1   group-title="ARABIC CH",AR: ECHOUROUK TV
+http://streamxcode.ddns.net:25461/load/desiboyz150/6272.mpegts
+#EXTINF:-1   group-title="ARABIC CH",AR: ENNAHAR TV
+http://streamxcode.ddns.net:25461/load/desiboyz150/6261.mpegts
+#EXTINF:-1   group-title="ARABIC CH",AR: Elhiwar
+http://streamxcode.ddns.net:25461/load/desiboyz150/6273.mpegts
 #EXTINF:-1   group-title="ARABIC CH",AR: FATAFEAT TV
 http://streamxcode.ddns.net:25461/load/desiboyz150/6401.mpegts
-
+#EXTINF:-1   group-title="ARABIC CH",AR: FRANCE 24
+http://streamxcode.ddns.net:25461/load/desiboyz150/6448.mpegts
 #EXTINF:-1   group-title="ARABIC CH",AR: FUNOON
 http://streamxcode.ddns.net:25461/load/desiboyz150/6274.mpegts
-
 #EXTINF:-1   group-title="ARABIC CH",AR: FUTURE
 http://streamxcode.ddns.net:25461/load/desiboyz150/6289.mpegts
-
 #EXTINF:-1   group-title="ARABIC CH",AR: IMAGINE MOVIES
 http://streamxcode.ddns.net:25461/load/desiboyz150/6474.mpegts
-
 #EXTINF:-1   group-title="ARABIC CH",AR: IQRA TV
 http://streamxcode.ddns.net:25461/load/desiboyz150/6275.mpegts
-
 #EXTINF:-1   group-title="ARABIC CH",AR: JORDAN TV
 http://streamxcode.ddns.net:25461/load/desiboyz150/6263.mpegts
-
 #EXTINF:-1   group-title="ARABIC CH",AR: JORDANROYA TV
 http://streamxcode.ddns.net:25461/load/desiboyz150/6262.mpegts
-
 #EXTINF:-1   group-title="ARABIC CH",AR: Kuwait 1
 http://streamxcode.ddns.net:25461/load/desiboyz150/6402.mpegts
-
 #EXTINF:-1   group-title="ARABIC CH",AR: Kuwait 2
 http://streamxcode.ddns.net:25461/load/desiboyz150/6403.mpegts
-
 #EXTINF:-1   group-title="ARABIC CH",AR: Kuwait Ethraa
 http://streamxcode.ddns.net:25461/load/desiboyz150/6404.mpegts
-
 #EXTINF:-1   group-title="ARABIC CH",AR: Kuwait Sport TV
 http://streamxcode.ddns.net:25461/load/desiboyz150/7604.mpegts
 #EXTINF:-1   group-title="ARABIC CH",AR: LBC
