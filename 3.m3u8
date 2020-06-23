@@ -237,10 +237,10 @@ http://player-api.new.livestream.com/accounts/4671269/events/4213685/live.m3u8
 #EXTINF:-1 tvg-id="Menbej TV" tvg-name="Menbej TV" tvg-logo="https://www.kijk.nl/static/images/default_editorialportrait.png" group-title="ARABI",Menbej TV
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/45.m3u8
 
-#EXTINF:-1 tvg-id="Al Hurra Iraq" tvg-name="Al Hurra Iraq" tvg-logo="https://www.alhurra.com/Content/responsive/MBN/ar-ALH/img/top_logo_news.png" group-title="ARABI",Al Hurra Iraq
+#EXTINF:-1 tvg-id="Al Hurra Iraq" tvg-name="Al Hurra Iraq" tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/51HUps%2Bo2jL._SL500_AA300_.png" group-title="ARABI",Al Hurra Iraq
 http://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master_2596.m3u8
 
-#EXTINF:-1 tvg-id="Al Hurra Iraq-News" tvg-name="Al Hurra Iraq-News" tvg-logo="https://www.alhurra.com/Content/responsive/MBN/ar-ALH/img/top_logo_news.png" group-title="ARABI",Al Hurra Iraq-News
+#EXTINF:-1 tvg-id="Al Hurra Iraq-News" tvg-name="Al Hurra Iraq-News" tvg-logo="https://www.usagm.gov/wp-content/uploads/2020/01/Al-Hurra-Iraq-Logo-JPEG.jpg" group-title="ARABI",Al Hurra Iraq-News
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 
 #EXTINF:-1 tvg-id="Alhiwar" tvg-name="Alhiwar" tvg-logo="https://photosarab.com/wp-content/uploads/mic_logo_bug.jpg" group-title="ARABI",Alhiwar
@@ -309,10 +309,10 @@ http://51.158.190.97/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Persiana 2 CINEMA" tvg-name="Persiana 2 CINEMA" tvg-logo="https://i.imgur.com/OUu7eyJ.png" group-title="FARSI",Persiana 2 CINEMA
 http://51.15.193.156/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="ifilm Farsi" tvg-name="ifilm Farsi" tvg-logo="https://i.imgur.com/GgmXZRU.png" group-title="FARSI",ifilm Farsi
+#EXTINF:-1 tvg-id="ifilm Farsi" tvg-name="ifilm Farsi" tvg-logo="https://fergusonlibrary.org/wp-content/uploads/2015/09/slashfilm-300x150.jpg" group-title="FARSI",ifilm Farsi
 https://live2.presstv.com/ifilmlive/smil:ifilmtv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ifilm-2 Farsi" tvg-name="ifilm-2 Farsi" tvg-logo="https://i.imgur.com/GgmXZRU.png" group-title="FARSI",ifilm-2 Farsi
+#EXTINF:-1 tvg-id="ifilm-2 Farsi" tvg-name="ifilm-2 Farsi" tvg-logo="https://media.mehrnews.com/d/2018/03/18/4/2744852.jpg" group-title="FARSI",ifilm-2 Farsi
 http://mn-nl.mncdn.com/ifilm/smil:ifilmfa2.smil/index.m3u8
 
 #EXTINF:-1 tvg-id="ifilm English" tvg-name="ifilm English" tvg-logo="https://i.imgur.com/GgmXZRU.png" group-title="AJNABI",ifilm English
