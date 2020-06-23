@@ -12,7 +12,7 @@ http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/40.m3u8
 #EXTINF:-1 tvg-id="NRT TV" tvg-name="NRT TV" tvg-logo="http://www.livenewson.com/wp-content/uploads/2015/12/NRT.png" group-title="KURDI",NRT TV
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/53.m3u8
 
-#EXTINF:-1 tvg-id="NRT 2 TV-2" tvg-name="NRT 2 TV-2" tvg-logo="https://kurdost.com/tv/wp-content/uploads/2018/01/NRT-2-TV.jpg" group-title="KURDI",NRT 2 TV-2
+#EXTINF:-1 tvg-id="NRT 2" tvg-name="NRT 2" tvg-logo="https://kurdost.com/tv/wp-content/uploads/2018/01/NRT-2-TV.jpg" group-title="KURDI",NRT 2
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/54.m3u8
 
 #EXTINF:-1 tvg-id="Net TV" tvg-name="Net TV" tvg-logo="https://www.netkurd.tv/images/logo.png" group-title="KURDI",Net TV
@@ -22,9 +22,6 @@ http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/39.m3u8
 http://wowzaprod219-i.akamaihd.net/hls/live/1003949/c9aa559e/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KurdMax" tvg-name="KurdMax" tvg-logo="https://pbs.twimg.com/profile_images/576732364073635840/Y2MTa6As.png" group-title="KURDI",KurdMax
-http://31.14.40.139:1935/liveTrans/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="KurdMax-2" tvg-name="KurdMax-2" tvg-logo="https://pbs.twimg.com/profile_images/576732364073635840/Y2MTa6As.png" group-title="KURDI",KurdMax-2
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/31.m3u8
 
 #EXTINF:-1 tvg-id="KurdMax-Kurmanji" tvg-name="KurdMax-Kurmanji" tvg-logo="https://pbs.twimg.com/profile_images/576732364073635840/Y2MTa6As.png" group-title="KURDI",KurdMax-Kurmanji
@@ -88,9 +85,6 @@ http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/60.m3u8
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/59.m3u8
 
 #EXTINF:-1 tvg-id="KurdMax Pepula-Sorani" tvg-name="KurdMax Pepula-Sorani" tvg-logo="http://www.kurdmaxpepule.tv/images/logo.png" group-title="KURDI",KurdMax Pepula-Sorani
-http://31.14.40.139:1935/liveTrans/Pepule/playlist.m3u8
-
-#EXTINF:-1 tvg-id="KurdMax Pepula-Sorani-2" tvg-name="KurdMax Pepula-Sorani-2" tvg-logo="http://www.kurdmaxpepule.tv/images/logo.png" group-title="KURDI",KurdMax Pepula-Sorani-2
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/62.m3u8
 
 #EXTINF:-1 tvg-id="KurdMax Pepula-Kurmanci" tvg-name="KurdMax Pepula-Kurmanci" tvg-logo="http://www.kurdmaxpepule.tv/images/logo.png" group-title="KURDI",KurdMax Pepula-Kurmanci
@@ -133,22 +127,10 @@ http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/57.m3u8
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/28.m3u8
 
 #EXTINF:-1 tvg-id="Babylon TV" tvg-name="Babylon TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgfZ282WxJhlUqpBe7H-lYab-YEpxWPRcjaP1Ebj2-4JOJSgis" group-title="ARABI",Babylon TV
-http://babylonlive.net/babylontv/kardokardo.m3u8
+https://iqlivestream.com/babylontv/kardokardo.m3u8
 
 #EXTINF:-1 tvg-id="ifilm Arabic" tvg-name="ifilm Arabic" tvg-logo="http://2.bp.blogspot.com/-RtHYuefALoY/UqC5sSIUmJI/AAAAAAAABcE/ABQM3xkQlaA/s1600/iFilm+Arabic+Channel+Icon.JPG" group-title="ARABI",ifilm Arabic
 https://live2.presstv.com/ifilmlive/smil:ifilmar.smil/index.m3u8
-
-#EXTINF:-1 tvg-id="ifilm English" tvg-name="ifilm English" tvg-logo="https://i.imgur.com/GgmXZRU.png" group-title="AJNABI",ifilm English
-http://mn-nl.mncdn.com/ifilm/smil:ifilmen.smil/index.m3u8
-
-#EXTINF:-1 tvg-id="ifilm English" tvg-name="ifilm English" tvg-logo="https://i.imgur.com/GgmXZRU.png" group-title="AJNABI",ifilm English
-https://bozztv.com/36bay2/gin/giniko_ifilmenglish_800kb_36bay2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="ifilm Farsi" tvg-name="ifilm Farsi" tvg-logo="https://i.imgur.com/GgmXZRU.png" group-title="FARSI",ifilm Farsi
-https://live2.presstv.com/ifilmlive/smil:ifilmtv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ifilm Farsi 2" tvg-name="ifilm Farsi 2" tvg-logo="https://i.imgur.com/GgmXZRU.png" group-title="FARSI",ifilm Farsi 2
-http://mn-nl.mncdn.com/ifilm/smil:ifilmfa2.smil/index.m3u8
 
 #EXTINF:-1 tvg-id="MAKAN 33" tvg-name="MAKAN 33" tvg-logo="http://webtvonlive.com/wp-content/uploads/Kan-33-webtvonlive-com.jpg" group-title="ARABI",MAKAN 33
 http://kanlivep2event-i.akamaihd.net/hls/live/747613/747613/master.m3u8
@@ -233,7 +215,6 @@ http://livecdnh3.tvanywhere.ae/hls/b4uaflam/index.m3u8
 
 #EXTINF:-1 tvg-id="B4U Aflam-2" tvg-name="B4U Aflam-2" tvg-logo="https://plsadaptive.s3.amazonaws.com/eco/images/partners/7DIoUsmRKd0XVgHEYUF5R1bUmaeSo9JGT3tBAXZh.png" group-title="ARABI",B4U Aflam-2
 http://163.172.28.43:9090/stream/2861096/d794a2dacd71e8a59e0461e95f5dda3d/6398-.m3u8
-
 
 #EXTINF:-1 tvg-id="B4U Plus" tvg-name="B4U Plus" tvg-logo="https://storage.googleapis.com/stateless-www-bizasialive-com/2019/02/b4uplus001.jpg" group-title="ARABI",B4U Plus
 http://streamxcode.ddns.net:25461/load/desiboyz150/6269.m3u8
@@ -608,6 +589,18 @@ http://51.158.190.97/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="Persiana 2 CINEMA" tvg-name="Persiana 2 CINEMA" tvg-logo="https://i.imgur.com/OUu7eyJ.png" group-title="FARSI",Persiana 2 CINEMA
 http://51.15.193.156/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="ifilm Farsi" tvg-name="ifilm Farsi" tvg-logo="https://i.imgur.com/GgmXZRU.png" group-title="FARSI",ifilm Farsi
+https://live2.presstv.com/ifilmlive/smil:ifilmtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ifilm-2 Farsi" tvg-name="ifilm-2 Farsi" tvg-logo="https://i.imgur.com/GgmXZRU.png" group-title="FARSI",ifilm-2 Farsi
+http://mn-nl.mncdn.com/ifilm/smil:ifilmfa2.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="ifilm English" tvg-name="ifilm English" tvg-logo="https://i.imgur.com/GgmXZRU.png" group-title="AJNABI",ifilm English
+http://mn-nl.mncdn.com/ifilm/smil:ifilmen.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="ifilm English-2" tvg-name="ifilm English-2" tvg-logo="https://i.imgur.com/GgmXZRU.png" group-title="AJNABI",ifilm English-2
+https://bozztv.com/36bay2/gin/giniko_ifilmenglish_800kb_36bay2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="24/7 Retro TV" tvg-name="24/7 Retro TV" tvg-logo="http://www.247retro.com/images/sidebar_logo_gradient.jpg" group-title="AJNABI",24/7 Retro TV
 http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_
