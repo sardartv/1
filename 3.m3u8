@@ -291,10 +291,10 @@ http://85.132.81.184:8080/atv/index.m3u8
 #EXTINF:-1 tvg-id="kanal D tv" tvg-name="kanal D tv" tvg-logo="https://res-5.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1490331120/ogyuranvogxqwnnfp2c0.png" group-title="TURKI",kanal D tv
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/66.m3u8
 
-#EXTINF:-1 tvg-id="GEM Onyx farsi" tvg-name="GEM Onyx farsi" tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/Onyx-icon.png" group-title="FARSI",GEM Onyx farsi
+#EXTINF:-1 tvg-id="GEM Onyx farsi" tvg-name="GEM Onyx farsi" tvg-logo="http://www.giniko.com/logos/190x110/362.png" group-title="FARSI",GEM Onyx farsi
 https://d2e40kvaojifd6.cloudfront.net/stream/onyx/chunklist_w1197922140.m3u8
 
-#EXTINF:-1 tvg-id="GEM Drama farsi" tvg-name="GEM Drama farsi"  tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/gemdrama-icon.png" group-title="FARSI",GEM Drama farsi
+#EXTINF:-1 tvg-id="GEM Drama farsi" tvg-name="GEM Drama farsi"  tvg-logo="https://www.giniko.com/logos/190x110/852.png" group-title="FARSI",GEM Drama farsi
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_drama/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Menoto TV farsi" tvg-name="Menoto TV farsi" tvg-logo="https://www.parsatv.com/index_files/channels/manotohd.png" group-title="FARSI",Menoto TV farsi
@@ -333,10 +333,10 @@ https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
 #EXTINF:-1 tvg-id="Thrill Movies Eglish" tvg-name="Thrill Movies Eglish" tvg-logo="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" group-title="AJNABI",Thrill Movies Eglish
 http://45.126.83.51/qwr9ew/s/s34/01.m3u8
 
-#EXTINF:-1 tvg-id="Wixlar Movies Eglish" tvg-name="Wixlar Movies Eglish" tvg-logo="https://i.imgur.com/hfia0wN.png" group-title="AJNABI",Wixlar Movies Eglish
+#EXTINF:-1 tvg-id="Wixlar Movies Eglish" tvg-name="Wixlar Movies Eglish" tvg-logo="https://pbs.twimg.com/profile_images/1076498384272412673/S9RyHHdY.jpg" group-title="AJNABI",Wixlar Movies Eglish
 http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Netmax Movies Eglish" tvg-name="Netmax Movies Eglish" tvg-logo="https://i.imgur.com/0sjticV.png" group-title="AJNABI",Netmax Movies Eglish
+#EXTINF:-1 tvg-id="Netmax Movies Eglish" tvg-name="Netmax Movies Eglish" tvg-logo="https://images.jdmagicbox.com/comp/delhi/e8/pwfl1515951829n4v6e8/catalogue/netmaxx-broadband-services-delhi-cthx7.jpg?clr=" group-title="AJNABI",Netmax Movies Eglish
 http://live.netmaxtv.com:8080/live/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Magic scence" tvg-name="Magic scence" tvg-logo="https://tv-english.club/wp-content/uploads/2019/06/Magic-Science2.jpg" group-title="AJNABI",Magic scence
