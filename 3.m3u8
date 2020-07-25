@@ -156,6 +156,9 @@ http://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_1.m3u8
 #EXTINF:-1 tvg-id="MBC Iraq" tvg-name="MBC Iraq" tvg-logo="https://vid.alarabiya.net/images/2019/01/26/e4734439-5725-4433-b095-1f8a7fa6bd22/e4734439-5725-4433-b095-1f8a7fa6bd22_16x9_788x442.jpg" group-title="ARABI",MBC Iraq
 http://shls-iraq-prod.shahid.net/iraq-prod_1.m3u8
 
+#EXTINF:-1 tvg-id="MBC Iraq-2" tvg-name="MBC Iraq-2" tvg-logo="https://vid.alarabiya.net/images/2019/01/26/e4734439-5725-4433-b095-1f8a7fa6bd22/e4734439-5725-4433-b095-1f8a7fa6bd22_16x9_788x442.jpg" group-title="ARABI",MBC Iraq-2
+http://37.235.38.131:4000/play/a02n/index.m3u8
+
 #EXTINF:-1 tvg-id="MBC2" tvg-name="MBC2" tvg-logo="https://4.bp.blogspot.com/-chfyUM9wFQQ/VrSLQvDZ2rI/AAAAAAAAAhY/Qm83AVtowX4/s1600/mbc2.png" group-title="ARABI",MBC2
 http://shls-mbc2-prod.shahid.net/mbc2-prod_1.m3u8
 
