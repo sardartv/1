@@ -151,49 +151,46 @@ http://gstream4.panet.co.il/edge/halaTV/chunks.m3u8
 http://htvpalsat.mada.ps:8888/musawa/index.m3u8
 
 #EXTINF:-1 tvg-id="Lana TV" tvg-name="Lana TV" tvg-logo="https://i.pinimg.com/originals/a7/47/86/a7478682d705dcbf53b1df30ab6aa066.png" group-title="ARABI",Lana TV
-http://svs.itworkscdn.net/lanatvlive/lana/chunks.m3u8
-
-#EXTINF:-1 tvg-id="Lana+ TV" tvg-name="Lana+ TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRwxXRNLpzFeN7CQGdqVEeaIht-tFlq9vYHk0B2wY4ktJO4OzYD&usqp=CAU" group-title="ARABI",Lana+ TV
-http://svs.itworkscdn.net/alminbartvlive/alminbar/playlist.m3u8
+https://stream.lanacanal.tv:444/live/5f8976fdc153f/index.m3u8
 
 #EXTINF:-1 tvg-id="Al Araby" tvg-name="Al Araby" tvg-logo="https://2.bp.blogspot.com/-O8UPEB_9WHw/WXSpaJ8aIYI/AAAAAAAANlY/FWqMwHeAu38y_9LJIFmu38c7zDm4hWWIwCLcBGAs/s1600/20246153_1977007455917734_5337068662698409573_n.jpg" group-title="ARABI",Al Araby
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MBC1" tvg-name="MBC1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Mbc1logo.png/220px-Mbc1logo.png" group-title="ARABI",MBC1
-http://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_1.m3u8
-
 #EXTINF:-1 tvg-id="MBC Iraq" tvg-name="MBC Iraq" tvg-logo="https://vid.alarabiya.net/images/2019/01/26/e4734439-5725-4433-b095-1f8a7fa6bd22/e4734439-5725-4433-b095-1f8a7fa6bd22_16x9_788x442.jpg" group-title="ARABI",MBC Iraq
-http://shls-iraq-prod.shahid.net/iraq-prod_1.m3u8
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_1.m3u8
 
-#EXTINF:-1 tvg-id="MBC Iraq-2" tvg-name="MBC Iraq-2" tvg-logo="https://vid.alarabiya.net/images/2019/01/26/e4734439-5725-4433-b095-1f8a7fa6bd22/e4734439-5725-4433-b095-1f8a7fa6bd22_16x9_788x442.jpg" group-title="ARABI",MBC Iraq-2
-http://37.235.38.131:4000/play/a02n/index.m3u8
+#EXTINF:-1 tvg-id="MBC1" tvg-name="MBC1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Mbc1logo.png/220px-Mbc1logo.png" group-title="ARABI",MBC1
+https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_1.m3u8
 
 #EXTINF:-1 tvg-id="MBC2" tvg-name="MBC2" tvg-logo="https://4.bp.blogspot.com/-chfyUM9wFQQ/VrSLQvDZ2rI/AAAAAAAAAhY/Qm83AVtowX4/s1600/mbc2.png" group-title="ARABI",MBC2
-http://shls-mbc2-prod.shahid.net/mbc2-prod_1.m3u8
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8
 
 #EXTINF:-1 tvg-id="MBC4" tvg-name="MBC4" tvg-logo="https://i.pinimg.com/originals/1b/32/05/1b3205a360d549927be0a0b7011d7602.jpg" group-title="ARABI",MBC4
-http://shls-mbc4-prod.shahid.net/mbc4-prod_1.m3u8
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_1.m3u8
 
 #EXTINF:-1 tvg-id="MBC5" tvg-name="MBC5" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5d/MBC5.png/revision/latest/scale-to-width-down/340?cb=20191207113549" group-title="ARABI",MBC5
-http://shls-mbc5-prod.shahid.net/mbc5-prod_1.m3u8
-
-#EXTINF:-1 tvg-id="MBC Masr1" tvg-name="MBC Masr1" tvg-logo="https://i.pinimg.com/originals/3d/e9/8e/3de98e6cd6e92d62838bf9a24830b05e.png" group-title="ARABI",MBC Masr1
-http://shls-masr-prod.shahid.net/masr-prod_1.m3u8
-
-#EXTINF:-1 tvg-id="MBC Masr2" tvg-name="MBC Masr2" tvg-logo="https://pbs.twimg.com/profile_images/531362651599687680/1Y4VkRed.jpeg" group-title="ARABI",MBC Masr2
-http://shls-masr2-prod.shahid.net/masr2-prod_1.m3u8
-
-#EXTINF:-1 tvg-id="MBC MAX" tvg-name="MBC MAX" tvg-logo="https://e-nautia.com/disk/thumb6736914.png" group-title="ARABI",MBC MAX
-http://shls-mbcmax-prod.shahid.net/mbcmax-prod_1.m3u8
-
-#EXTINF:-1 tvg-id="MBC Action" tvg-name="MBC Action" tvg-logo="https://www.nmisr.com/wp-content/uploads/2018/11/5566656.jpg" group-title="ARABI",MBC Action
-http://shls-mbcaction-prod.shahid.net/mbcaction-prod_1.m3u8
-
-#EXTINF:-1 tvg-id="MBC Drama" tvg-name="MBC Drama" tvg-logo="https://www.nmisr.com/wp-content/uploads/2018/11/%D9%82%D9%86%D9%88%D8%A7%D8%AA-MBC03.jpg" group-title="ARABI",MBC Drama
-http://shls-mbcdramaksa-prod.shahid.net/mbcdramaksa-prod_1.m3u8
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
 
 #EXTINF:-1 tvg-id="MBC BOLLYWOOD" tvg-name="MBC BOLLYWOOD" tvg-logo="https://pbs.twimg.com/profile_images/378800000502363621/fdd8dd8a31bf82c1dc16f2c927f88ac9_400x400.jpeg" group-title="ARABI",MBC BOLLYWOOD
-http://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod_1.m3u8
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
+
+#EXTINF:-1 tvg-id="MBC MAX" tvg-name="MBC MAX" tvg-logo="https://e-nautia.com/disk/thumb6736914.png" group-title="ARABI",MBC MAX
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_1.m3u8
+
+#EXTINF:-1 tvg-id="MBC Action" tvg-name="MBC Action" tvg-logo="https://www.nmisr.com/wp-content/uploads/2018/11/5566656.jpg" group-title="ARABI",MBC Action
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8
+
+#EXTINF:-1 tvg-id="MBC Masr1" tvg-name="MBC Masr1" tvg-logo="https://i.pinimg.com/originals/3d/e9/8e/3de98e6cd6e92d62838bf9a24830b05e.png" group-title="ARABI",MBC Masr1
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_1.m3u8
+
+#EXTINF:-1 tvg-id="MBC Masr2" tvg-name="MBC Masr2" tvg-logo="https://pbs.twimg.com/profile_images/531362651599687680/1Y4VkRed.jpeg" group-title="ARABI",MBC Masr2
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
+
+#EXTINF:-1 tvg-id="MBC Drama" tvg-name="MBC Drama" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt9rcDvk3crOc1FC2lodPW-embUK1YLZ4k6A&usqp=CAU" group-title="ARABI",MBC Drama
+https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index_2.m3u8
+
+#EXTINF:-1 tvg-id="MBC Drama Plus" tvg-name="MBC Drama Plus" tvg-logo="https://3.bp.blogspot.com/-XPUcnYi_hoY/V8GchfHu8YI/AAAAAAAAATM/huO-oWPZ-xIh4szT-iN4YKAGlBqpOVLGwCLcB/s1600/mbc%2Bdrama.png" group-title="ARABI",MBC Drama Plus
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
 
 #EXTINF:-1 tvg-id="Canadian Arab TV" tvg-name="Canadian Arab TV" tvg-logo="https://assets.streamtest.in/logo/398/41_canadian-arab-tv.jpg?v=1542799446" group-title="ARABI",Canadian Arab TV
 http://142.112.39.133:8080/catv.mp4
@@ -215,6 +212,9 @@ http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/playlist.m3
 
 #EXTINF:-1 tvg-id="Dubai Zaman" tvg-name="Dubai Zaman" tvg-logo="http://www.dmi.gov.ae/images/logos-new/Dubai-Zaman.png" group-title="ARABI",Dubai Zaman
 http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Halab Today TV" tvg-name="Halab Today TV" tvg-logo="https://icon2.cleanpng.com/20180619/fcl/kisspng-aleppo-today-syria-tv-television-bein-sports-fostak-halab-5b28fcb6637128.0492134115294127904073.jpg" group-title="ARABI",Halab Today TV
+http://streaming.tootvs.com:1935/8010/8010/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Baity TV" tvg-name="Baity TV" tvg-logo="https://miro.medium.com/max/660/0*OjKxlLf3wI7PeQCP." group-title="ARABI",Baity TV
 http://82.212.74.99:8000/live/8164.m3u8
@@ -281,6 +281,9 @@ http://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="OMAN Cultural TV" tvg-name="OMAN Cultural TV" tvg-logo="https://pbs.twimg.com/profile_images/1201142886269685760/-UAz-JUM_400x400.png" group-title="ARABI",OMAN Cultural TV
 http://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Jordan TV" tvg-name="Jordan TV" tvg-logo="https://lh3.googleusercontent.com/proxy/0maPzWeYon4ApvNkFJ0TaABYsZn44c8yW2dHru0Wm2yS5KkcJpYpMo5d2L_bMz_oVb2ErE8ddlYa3Fz1oqrkFcACvULiCQ" group-title="ARABI",Jordan TV
+https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
 
 #EXTINF:-1 tvg-id="CGTN Arabic" tvg-name="CGTN Arabic" tvg-logo="https://www.newslive.com/wp-content/uploads/2019/10/CGTN-Arabic.jpg" group-title="ARABI",CGTN Arabic
 http://livear.cgtn.com/1000a/prog_index.m3u8
