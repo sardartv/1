@@ -1,1 +1,5 @@
-https://github.com/iptv-org/iptv
+https://github.com/iptv-org/iptv              for all kanals
+
+https://ottplayer.es                          mijn TV
+
+
