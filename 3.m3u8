@@ -34,7 +34,10 @@ http://31.14.40.139:1935/liveTrans/SHOW1/playlist.m3u8
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/32.m3u8
 
 #EXTINF:-1 tvg-id="KurdMax Music" tvg-name="KurdMax Music" tvg-logo="http://karwan.tv//logo/tv/kurdmax-music.png" group-title="KURDI",KurdMax Music
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/33.m3u8
+http://31.14.40.139:1935/music/livestream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="MED TV" tvg-name="MED TV" tvg-logo="https://yt3.ggpht.com/a/AATXAJzmVsDmo9C9tXl93q8OFgMn0uj7luYQWwYXHn2C=s900-c-k-c0x00ffffff-no-rj" group-title="KURDI",MED TV
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/29.m3u8
 
 #EXTINF:-1 tvg-id="Zagros TV" tvg-name="Zagros TV" tvg-logo="https://2.bp.blogspot.com/-t-rsDjRSIrc/Wgws1YH0glI/AAAAAAAAL1w/E268hS89j_oc36wcxlRQ-WqluIGle8E5wCLcBGAs/s1600/zagros%2Btv.png" group-title="KURDI",Zagros TV
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
