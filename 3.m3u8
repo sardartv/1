@@ -22,7 +22,10 @@ http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/39.m3u8
 http://wowzaprod219-i.akamaihd.net/hls/live/1003949/c9aa559e/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KurdMax" tvg-name="KurdMax" tvg-logo="https://pbs.twimg.com/profile_images/576732364073635840/Y2MTa6As.png" group-title="KURDI",KurdMax
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/31.m3u8
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/54.m3u8
+
+#EXTINF:-1 tvg-id="KurdMax 2" tvg-name="KurdMax 2" tvg-logo="https://pbs.twimg.com/profile_images/576732364073635840/Y2MTa6As.png" group-title="KURDI",KurdMax 2
+http://31.14.40.139:1935/liveTrans/ngrp:myStream_all/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="KurdMax-Kurmanji" tvg-name="KurdMax-Kurmanji" tvg-logo="https://pbs.twimg.com/profile_images/576732364073635840/Y2MTa6As.png" group-title="KURDI",KurdMax-Kurmanji
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/30.m3u8
@@ -210,7 +213,10 @@ https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Emarat TV" tvg-name="Emarat TV" tvg-logo="https://admedia.ae/images/Brands/2020223115838103WJ.png" group-title="ARABI",Emarat TV
 https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Bahrain TV" tvg-name="Bahrain TV" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bahrain_tv_international.png" group-title="ARABI",Bahrain TV
+#EXTINF:-1 tvg-id="Bahrain TV" tvg-name="Bahrain TV" tvg-logo="https://i.imgur.com/XZcLqWk.jpg" group-title="ARABI",Bahrain TV
+http://185.105.4.106:1935/live/Bahrain%20TV/chunklist_w721264201.m3u8
+
+#EXTINF:-1 tvg-id="Bahrain International TV" tvg-name="Bahrain International TV" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bahrain_tv_international.png" group-title="ARABI",Bahrain International TV
 http://185.105.4.106:1935/live/Bahrain%20International/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ifilm Arabic" tvg-name="ifilm Arabic" tvg-logo="http://2.bp.blogspot.com/-RtHYuefALoY/UqC5sSIUmJI/AAAAAAAABcE/ABQM3xkQlaA/s1600/iFilm+Arabic+Channel+Icon.JPG" group-title="ARABI",ifilm Arabic
@@ -228,23 +234,35 @@ http://82.212.74.99:8000/live/8164.m3u8
 #EXTINF:-1 tvg-id="Future TV" tvg-name="Future TV" tvg-logo="https://yt3.ggpht.com/-06mS0mwhzno/AAAAAAAAAAI/AAAAAAAAAAA/6K-Wn_N0h98/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="ARABI",Future TV
 http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Tele Liban TV" tvg-name="Tele Liban TV" tvg-logo="http://www.teleliban.com.lb/images/telelogo.png" group-title="ARABI",Tele Liban TV
+http://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
+
 #EXTINF:-1 tvg-id="MEA TV" tvg-name="MEA TV" tvg-logo="http://naamami.com/wp-content/uploads/2013/01/MEA-TV.png" group-title="ARABI",MEA TV
 http://64.227.88.31/hls/yourstreamkey.m3u8
 
 #EXTINF:-1 tvg-id="Roya TV" tvg-name="Roya TV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81DTabPpEgL._SY355_.png" group-title="ARABI",Roya TV
 https://svs.itworkscdn.net/royalive/royatv.smil/royapublish/royatv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="AL Rai TV" tvg-name="AL Rai TV" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/kw-alrai-tv-7356.jpg" group-title="ARABI",AL Rai TV
+https://stream02.fasttelco.net/4/pub/asset/28/streams.m3u8
+
 #EXTINF:-1 tvg-id="Al Rayyan" tvg-name="Al Rayyan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%A7%D9%84%D9%82%D9%86%D8%A7%D8%A9_2014-03-24_07-56.png" group-title="ARABI",Al Rayyan
 http://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Al Rayyan Al Qadeem" tvg-name="Al Rayyan Al Qadeem" tvg-logo="https://i.imgur.com/mVwHGbc.png" group-title="ARABI",Al Rayyan Al Qadeem
+https://svs.itworkscdn.net/alrayyanqadeemlive/alrayyanqadeem.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Nahar tv" tvg-name="Nahar tv" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/eg-al-nahar-tv--2.jpg" group-title="ARABI",Nahar tv
+http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/chunks.m3u8
+
+#EXTINF:-1 tvg-id="National Geographic Arabic" tvg-name="National Geographic Arabic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTimsvgOZx1kKS3lKIrFJYhUJ2wrwydE8seYWiARsehjYnCu5-S&usqp=CAU" group-title="ARABI",National Geographic Arabic
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dijlah TV" tvg-name="Dijlah TV" tvg-logo="https://palsawa.com/img/ns0tn.jpg" group-title="ARABI",Dijlah TV
 https://ghaasiflu.online/Dijlah/index.m3u8
 
 #EXTINF:-1 tvg-id="Dijlah Tarab TV" tvg-name="Dijlah Tarab TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQppZ_2WtMohQmWfFedp68ZqlFfy5mP21TAkVbJfMFtqKfDh_ke&usqp=CAU" group-title="ARABI",Dijlah Tarab TV
 https://ghaasiflu.online/tarab/index.m3u8
-
-#EXTINF:-1 tvg-id="National Geographic Arabic" tvg-name="National Geographic Arabic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTimsvgOZx1kKS3lKIrFJYhUJ2wrwydE8seYWiARsehjYnCu5-S&usqp=CAU" group-title="ARABI",National Geographic Arabic
-https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Al Sharqiya" tvg-name="Al Sharqiya" tvg-logo="http://burathanews.com/uploads/image/article/388-0/2014-Jun-15-539d927d44be5.jpeg" group-title="ARABI",Al Sharqiya
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
@@ -256,16 +274,13 @@ http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
 http://player-api.new.livestream.com/accounts/4671269/events/4213685/live.m3u8
 
 #EXTINF:-1 tvg-id="Al Rafidain TV" tvg-name="Al Rafidain TV" tvg-logo="https://lh3.googleusercontent.com/proxy/dW5zNRY9Ui4v-WaoQOvMlPTCiVrcNv4WpdGt1EvPMwCN87HqjQ_LqW8oe3ryMvWA5FYUIegHWWGJKUS3lNRdkixJ4FQzRfEpRgZA-GL5ckyeM33H-0CtNg" group-title="ARABI",Al Rafidain TV
-http://cdn.edge.tmed.pw/arrafidaintv/abr_live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Al Rafidain TV 2" tvg-name="Al Rafidain TV 2" tvg-logo="https://lh3.googleusercontent.com/proxy/dW5zNRY9Ui4v-WaoQOvMlPTCiVrcNv4WpdGt1EvPMwCN87HqjQ_LqW8oe3ryMvWA5FYUIegHWWGJKUS3lNRdkixJ4FQzRfEpRgZA-GL5ckyeM33H-0CtNg" group-title="ARABI",Al Rafidain TV 2
 http://149.202.79.190:8081/arrafidaintv/publish/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Al Najah TV" tvg-name="Al Najah TV" tvg-logo="https://pbs.twimg.com/profile_images/1683631171/Najah_Logo_1_400x400.png" group-title="ARABI",Al Najah TV
-http://htvpalsat.mada.ps:8888/najah/index.m3u8?v=1559311573
+#EXTINF:-1 tvg-id="Al Iraqiya Al 3ama" tvg-name="Al Iraqiya Al 3ama" tvg-logo="http://imn.iq/wp-content/uploads/2018/03/Logo.jpg" group-title="ARABI",Al Iraqiya Al 3ama
+http://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Nahar tv" tvg-name="Nahar tv" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/eg-al-nahar-tv--2.jpg" group-title="ARABI",Nahar tv
-http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/chunks.m3u8
+#EXTINF:-1 tvg-id="Al Iraqiya News" tvg-name="Al Iraqiya News" tvg-logo="http://imn.iq/wp-content/uploads/2018/03/Logo.jpg" group-title="ARABI",Al Iraqiya News
+http://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Al Hurra" tvg-name="Al Hurra" tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/51HUps%2Bo2jL._SL500_AA300_.png" group-title="ARABI",Al Hurra
 https://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
@@ -278,6 +293,9 @@ http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 
 #EXTINF:-1 tvg-id="Al Hurra Iraq-News 2" tvg-name="Al Hurra Iraq-News 2" tvg-logo="https://www.usagm.gov/wp-content/uploads/2020/01/Al-Hurra-Iraq-Logo-JPEG.jpg" group-title="ARABI",Al Hurra Iraq-News 2
 http://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Al Najah TV" tvg-name="Al Najah TV" tvg-logo="https://pbs.twimg.com/profile_images/1683631171/Najah_Logo_1_400x400.png" group-title="ARABI",Al Najah TV
+http://htvpalsat.mada.ps:8888/najah/index.m3u8?v=1559311573
 
 #EXTINF:-1 tvg-id="Alhiwar" tvg-name="Alhiwar" tvg-logo="https://photosarab.com/wp-content/uploads/mic_logo_bug.jpg" group-title="ARABI",Alhiwar
 https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
@@ -305,6 +323,27 @@ http://qtv-i.akamaihd.net/hls/live/1020532/QTV2/master.m3u8
 
 #EXTINF:-1 tvg-id="Sharjah TV" tvg-name="Sharjah TV" tvg-logo="https://i.pinimg.com/736x/73/07/07/7307079054b509c325f697f430401b51.jpg" group-title="ARABI",Sharjah TV
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sharqiya from Kalba TV" tvg-name="Sharqiya from Kalba TV" tvg-logo="https://i.imgur.com/6Er1lh6.png" group-title="ARABI",Sharqiya from Kalba TV
+https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Yas TV" tvg-name="Yas TV" tvg-logo="https://i.imgur.com/ky1sNul.png" group-title="ARABI",Yas TV
+https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Ch4Teen TV" tvg-name="Ch4Teen TV" tvg-logo="https://i.imgur.com/JeG9K1y.png" group-title="ARABI",Ch4Teen TV
+https://dcunilive93-lh.akamaihd.net/i/dclive_1@835787/index_150_av-p.m3u8
+
+#EXTINF:-1 tvg-id="KTV 1" tvg-name="KTV 1" tvg-logo="http://www.freeetv.com/images/03_logo/KTV1_Kuwait.jpg" group-title="ARABI",KTV 1
+https://kwmedia.hibridmedia.com/kwmedia/kwtv1_dabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KTV 2" tvg-name="KTV 2" tvg-logo="http://www.freeetv.com/images/03_logo/ktv2_Kuwait.jpg" group-title="ARABI",KTV 2
+https://kwmedia.hibridmedia.com/kwmedia/kwtv2_dabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KTV Qurain" tvg-name="KTV Qurain" tvg-logo="http://i5.satexpat.com/cha/kw/ktvQuran-95x88.gif" group-title="ARABI",KTV Qurain
+https://kwmedia.hibridmedia.com/kwmedia/kwtvqurain_dabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KTV Arabi" tvg-name="KTV Arabi" tvg-logo="http://content.osn.com/bob/745x419/KTA.jpg" group-title="ARABI",KTV Arabi
+https://kwmedia.hibridmedia.com/kwmedia/kwtvarabi_dabr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Yaman TV" tvg-name="Yaman TV" tvg-logo="https://live.almouridiyyah.com/channels/logo/yemen-tv.png" group-title="ARABI",Yaman TV
 https://bozztv.com/36bay2/gin/giniko_yementv_900kb_36bay2/tracks-v1a1/mono.m3u8
@@ -348,6 +387,9 @@ https://rt-arab.secure.footprint.net/1104_2500Kb.m3u8
 #EXTINF:-1 tvg-id="Sky News" tvg-name="Sky News" tvg-logo="https://www.skynewsarabia.com/static/web-rev/img/app-banner/sna_logo_192_20_Pad.png" group-title="ARABI",Sky News
 https://stream.skynewsarabia.com/hls/sna.m3u8
 
+#EXTINF:-1 tvg-id="TRT Muzik" tvg-name="TRT Muzik" tvg-logo="https://i.ibb.co/Pmq7bGH/Bi8eMX9.jpg" group-title="TURKI",TRT Muzik
+https://tv-trtmuzik.live.trt.com.tr/master.m3u8
+
 #EXTINF:-1 tvg-id="Star tv" tvg-name="Star tv" tvg-logo="https://img.gecce.com.tr/2018/04/24/star-tv-reyt-103927AH.jpg" group-title="TURKI",Star tv
 http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
 
@@ -357,41 +399,14 @@ http://85.132.81.184:8080/atv/index.m3u8
 #EXTINF:-1 tvg-id="kanal D tv" tvg-name="kanal D tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSZlM9s5Xa0v6jPQYeXxceviNlJC3PQzBLtDA&usqp=CAU" group-title="TURKI",kanal D tv
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/66.m3u8
 
-#EXTINF:-1 tvg-id="GEM Onyx farsi" tvg-name="GEM Onyx farsi" tvg-logo="http://www.giniko.com/logos/190x110/362.png" group-title="FARSI",GEM Onyx farsi
-https://d2e40kvaojifd6.cloudfront.net/stream/onyx/chunklist_w1197922140.m3u8
-
 #EXTINF:-1 tvg-id="GEM Drama farsi" tvg-name="GEM Drama farsi"  tvg-logo="https://www.giniko.com/logos/190x110/852.png" group-title="FARSI",GEM Drama farsi
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_drama/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Menoto TV farsi" tvg-name="Menoto TV farsi" tvg-logo="https://www.parsatv.com/index_files/channels/manotohd.png" group-title="FARSI",Menoto TV farsi
 https://d2rwmwucnr0d10.cloudfront.net/live.m3u8
 
-#EXTINF:-1 tvg-id="Javan TV farsi" tvg-name="Javan TV farsi" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/q7sfukx2ckgz.png" group-title="FARSI",Javan TV farsi
-https://stream.rjtv.tv/live/smil:rjtv.smil/chunklist_w377323995_b1992000.m3u8
-
-#EXTINF:-1 tvg-id="24 Box TV farsi" tvg-name="24 Box TV farsi" tvg-logo="https://i.imgur.com/HGmC8ea.png" group-title="FARSI",24 Box TV farsi
-http://51.158.190.97/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="Persiana 2 CINEMA" tvg-name="Persiana 2 CINEMA" tvg-logo="https://i.imgur.com/OUu7eyJ.png" group-title="FARSI",Persiana 2 CINEMA
-http://51.15.193.156/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="ifilm Farsi" tvg-name="ifilm Farsi" tvg-logo="https://fergusonlibrary.org/wp-content/uploads/2015/09/slashfilm-300x150.jpg" group-title="FARSI",ifilm Farsi
-https://live2.presstv.com/ifilmlive/smil:ifilmtv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ifilm-2 Farsi" tvg-name="ifilm-2 Farsi" tvg-logo="https://media.mehrnews.com/d/2018/03/18/4/2744852.jpg" group-title="FARSI",ifilm-2 Farsi
-http://mn-nl.mncdn.com/ifilm/smil:ifilmfa2.smil/index.m3u8
-
-#EXTINF:-1 tvg-id="ifilm English" tvg-name="ifilm English" tvg-logo="https://i.imgur.com/GgmXZRU.png" group-title="AJNABI",ifilm English
-http://mn-nl.mncdn.com/ifilm/smil:ifilmen.smil/index.m3u8
-
 #EXTINF:-1 tvg-id="ifilm English-2" tvg-name="ifilm English-2" tvg-logo="https://i.imgur.com/GgmXZRU.png" group-title="AJNABI",ifilm English-2
 https://bozztv.com/36bay2/gin/giniko_ifilmenglish_800kb_36bay2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="24/7 Retro TV" tvg-name="24/7 Retro TV" tvg-logo="http://www.247retro.com/images/sidebar_logo_gradient.jpg" group-title="AJNABI",24/7 Retro TV
-http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b1928000_sleng.m3u8
-
-#EXTINF:-1 tvg-id="KTV HD-Eglish" tvg-name="KTV HD-Eglish" tvg-logo="http://www.sunnetwork.in/ChannelLogo/3ktv.jpg" group-title="AJNABI",KTV HD-Eglish
-https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytamcla.stream_all/chunklist_w798628189_b232000.m3u8
 
 #EXTINF:-1 tvg-id="Movie Kingdom Eglish" tvg-name="Movie Kingdom Eglish" tvg-logo="https://i.imgur.com/pIuJqYk.png" group-title="AJNABI",Movie Kingdom Eglish
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
