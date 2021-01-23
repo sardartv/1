@@ -222,7 +222,7 @@ http://185.105.4.106:1935/live/Bahrain%20International/playlist.m3u8
 #EXTINF:-1 tvg-id="ifilm Arabic" tvg-name="ifilm Arabic" tvg-logo="http://2.bp.blogspot.com/-RtHYuefALoY/UqC5sSIUmJI/AAAAAAAABcE/ABQM3xkQlaA/s1600/iFilm+Arabic+Channel+Icon.JPG" group-title="ARABI",ifilm Arabic
 https://live2.presstv.com/ifilmlive/smil:ifilmar.smil/index.m3u8
 
-#EXTINF:-1 tvg-id="Syria TV" tvg-name="Syria TV" tvg-logo="https://www.masralyoum.net/temp/thumb/900x450_uploads,2020,06,02,a5cceebbc0.jpg" group-title="ARABI",Syria TV
+#EXTINF:-1 tvg-id="Syria TV" tvg-name="Syria TV" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngjufkmJJNjgPzGkxcvo6HLBtgl0pIdPZcHLDja=s900-c-k-c0x00ffffff-no-rj" group-title="ARABI",Syria TV
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Halab Today TV" tvg-name="Halab Today TV" tvg-logo="https://icon2.cleanpng.com/20180619/fcl/kisspng-aleppo-today-syria-tv-television-bein-sports-fostak-halab-5b28fcb6637128.0492134115294127904073.jpg" group-title="ARABI",Halab Today TV
