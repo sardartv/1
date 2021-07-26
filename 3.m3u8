@@ -22,9 +22,6 @@ http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/39.m3u8
 http://wowzaprod219-i.akamaihd.net/hls/live/1003949/c9aa559e/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KurdMax" tvg-name="KurdMax" tvg-logo="https://pbs.twimg.com/profile_images/576732364073635840/Y2MTa6As.png" group-title="KURDI",KurdMax
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/54.m3u8
-
-#EXTINF:-1 tvg-id="KurdMax 2" tvg-name="KurdMax 2" tvg-logo="https://pbs.twimg.com/profile_images/576732364073635840/Y2MTa6As.png" group-title="KURDI",KurdMax 2
 http://31.14.40.139:1935/liveTrans/ngrp:myStream_all/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="KurdMax-Kurmanji" tvg-name="KurdMax-Kurmanji" tvg-logo="https://pbs.twimg.com/profile_images/576732364073635840/Y2MTa6As.png" group-title="KURDI",KurdMax-Kurmanji
