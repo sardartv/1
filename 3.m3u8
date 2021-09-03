@@ -856,11 +856,41 @@ https://s.vdo.ai/vhs/1.m3u8
 #EXTINF:-1 tvg-id="HISTORYChannelBestof.us" tvg-name="HISTORY Channel (Best of)" tvg-country="US" tvg-language="English" tvg-logo="http://i1.kym-cdn.com/entries/icons/original/000/019/322/photo.jpg" group-title="Documentary",HISTORY Channel (Best of) (720p)
 https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-id="HollywoodClassics.us" tvg-name="Hollywood Classics" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/HollywoodClassics_v2_290x290.png?raw=true" group-title="Classic",Hollywood Classics (1080p)
+https://vitor-hollywoodclassics-1.plex.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 tvg-id="HorrorMachine.us" tvg-name="Horror Machine" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605d16ea10396351a3042dd3" group-title="",Horror Machine (720p)
+https://linear-82.frequency.stream/dist/localnow/82/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Hungry.us" tvg-name="Hungry" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/MIUDYh0.png" group-title="Cooking",Hungry (720p)
+https://food.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TheKingdomSat.eg" tvg-name="The Kingdom Sat" tvg-country="EG" tvg-language="Arabic" tvg-logo="https://i.imgur.com/6xa14aQ.png" group-title="Religious",The Kingdom Sat (576p)
-https://bcovlive-a.akamaihd.net/87f7c114719b4646b7c4263c26515cf3/eu-central-1/6008340466001/profile_0/chunklist.m3u8
+#EXTINF:-1 tvg-id="InspirationTVEnglish.us" tvg-name="Inspiration TV (English)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/CQnD7yU.png" group-title="Religious",Inspiration TV (English) (288p)
+https://inspnetworks-lh.akamaihd.net/i/insp_2@393793/index_2_av-p.m3u8
+
+#EXTINF:-1 tvg-id="iFoodTV.us" tvg-name="iFood.TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/GnmHLNB.png" group-title="Cooking",iFood.TV (720p)
+https://ifood-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JustforLaughsGags.us" tvg-name="Just for Laughs Gags" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/OiMMkP3.jpg" group-title="Comedy",Just for Laughs Gags (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokujustforlaughsgags/CDN/master.m3u8
+
+#EXTINF:-1 tvg-id="MadeinHollywood.us" tvg-name="Made in Hollywood" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/AQK6GMj.png" group-title="Movies",Made in Hollywood (720p)
+https://connection3-ent.roku.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MadeinHollywoodAustralia.us" tvg-name="Made in Hollywood (Australia)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/AQK6GMj.png" group-title="Movies",Made in Hollywood (Australia) (720p)
+https://connection3-ent-au.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MadeinHollywoodSTIRR.us" tvg-name="Made in Hollywood (STIRR)" tvg-country="US" tvg-language="English" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/30a2f367-97f1-49e2-b9a7-0ae1a859e917-small3x1_STIRR_Logo_0320_MadeInHollywood_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="Movies",Made in Hollywood (STIRR) (720p)
+https://dai.google.com/linear/hls/event/Mteif75-SJeFi19Sk3-dGQ/master.m3u8
+
+#EXTINF:-1 tvg-id="MagellanTV.us" tvg-name="Magellan TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/oIy673i.png" group-title="Documentary",Magellan TV (720p)
+https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8
+
+#EXTINF:-1 tvg-id="MiamiCityTV.us" tvg-name="Miami City TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/HJohrzO.png" group-title="Local",Miami City TV (360p) [Not 24/7]
+https://granicusliveus9-a.akamaihd.net/miamifl/G2076_003/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MonsterMovies.us" tvg-name="Monster Movies" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/qwHxh55.png" group-title="Movies",Monster Movies (1080p)
+https://wownow-monstermovies-1.vizio.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Movie Kingdom Eglish" tvg-name="Movie Kingdom Eglish" tvg-logo="https://i.imgur.com/pIuJqYk.png" group-title="AJNABI",Movie Kingdom Eglish
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
@@ -871,6 +901,77 @@ http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
 #EXTINF:-1 tvg-id="Netmax Movies Eglish" tvg-name="Netmax Movies Eglish" tvg-logo="https://images.jdmagicbox.com/comp/delhi/e8/pwfl1515951829n4v6e8/catalogue/netmaxx-broadband-services-delhi-cthx7.jpg?clr=" group-title="AJNABI",Netmax Movies Eglish
 http://live.netmaxtv.com:8080/live/live/playlist.m3u8
 
+#EXTINF:-1 tvg-id="MovieMix.us" tvg-name="MovieMix" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/qcgXbuC.png" group-title="",MovieMix (720p)
+https://moviemix.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MovieMixSTIRR.us" tvg-name="MovieMix (STIRR)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/qcgXbuC.png" group-title="Movies",MovieMix (STIRR) (720p)
+https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
+
+#EXTINF:-1 tvg-id="MoviesCentral.fr" tvg-name="Movies Central" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/dwOoEmE.jpg" group-title="Movies",Movies Central (720p)
+https://alchimie-movies-central-2-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KVBCLP3.us" tvg-name="Movies! West (13.3 KVBC-LP2)" tvg-country="US" tvg-language="English" tvg-logo="https://media-usba.mybtv.net/logos/2.3.png" group-title="Entertainment",Movies! West (13.2 KVBC-LP2) (432p)
+https://cdn87.theus6tv.tk/locals/Fresno/kvbc-13.3.m3u8
+
+#EXTINF:-1 tvg-id="MovieSphere.us" tvg-name="MovieSphere" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjM1Njg1NTFf/MovieSphere_400x400.png" group-title="Movies",MovieSphere (1080p)
+https://moviesphere-plex.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NatureLiveAnimalLiveBumblebee.us" tvg-name="Nature Live Animal Live (Bumblebee)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/YbD8uHc.png" group-title="Relax",Nature Live Animal Live (Bumblebee) (1080p)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
+#EXTINF:-1 tvg-id="NatureLiveAuroraLiveBumblebee.us" tvg-name="Nature Live Aurora Live (Bumblebee)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/1WIEWK7.png" group-title="Relax",Nature Live Aurora Live (Bumblebee) (1080p)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NatureLiveMountainLiveBumblebee.us" tvg-name="Nature Live Mountain Live (Bumblebee)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/2Ipv14J.png" group-title="Relax",Nature Live Mountain Live (Bumblebee) (1080p)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NatureLiveWaterfallsLiveBumblebee.us" tvg-name="Nature Live Waterfalls Live (Bumblebee)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/i43l93j.png" group-title="Relax",Nature Live Waterfalls Live (Bumblebee) (1080p)
+https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5c953910932c837b4939735d/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVHorror.us" tvg-name="Pluto TV Horror" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/569546031a619b8f07ce6e25/colorLogoPNG.png" group-title="Movies",Pluto TV Horror (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=569546031a619b8f07ce6e25&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=75&terminate=false&userId=
+
+#EXTINF:-1 tvg-id="RakutenTVActionMoviesUK.es" tvg-name="Rakuten TV Action Movies UK" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="Movies",Rakuten TV Action Movies UK (720p)
+https://rakuten-actionmovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RakutenTVComedyMoviesUK.es" tvg-name="Rakuten TV Comedy Movies UK" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/eQKFgpa.png" group-title="Movies",Rakuten TV Comedy Movies UK (720p)
+https://rakuten-comedymovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RakutenTVDramaUK.es" tvg-name="Rakuten TV Drama UK" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/dWNxCqp.png" group-title="Movies",Rakuten TV Drama UK (720p)
+https://rakuten-tvshows-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RakutenTVFamilyMoviesUK.es" tvg-name="Rakuten TV Family Movies UK" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="Movies",Rakuten TV Family Movies UK (720p)
+https://rakuten-family-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RakutenTVSpotlightUK.es" tvg-name="Rakuten TV Spotlight UK" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/vbb3bjW.png" group-title="",Rakuten TV Spotlight UK (720p)
+https://rakuten-spotlight-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Redbox1Spotlight.us" tvg-name="Redbox 1: Spotlight" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/OrGCnPg.jpg" group-title="",Redbox 1: Spotlight (1080p)
+https://spotlight-redbox.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Redbox2Comedy.us" tvg-name="Redbox 2: Comedy" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" group-title="Comedy",Redbox 2: Comedy (1080p)
+https://comedy-redbox.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Redbox3Rush.us" tvg-name="Redbox 3: Rush" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/pA6g3iH.jpg" group-title="",Redbox 3: Rush (1080p)
+https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TheDesignNetwork.us" tvg-name="The Design Network" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/LoUGscj.png" group-title="Lifestyle",The Design Network (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxthedesignnetwork/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TheDesignNetwork.us" tvg-name="The Design Network" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/LoUGscj.png" group-title="Lifestyle",The Design Network (1080p)
+https://thedesignnetwork-tdn-2.roku.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TravelXP.in" tvg-name="Travel XP" tvg-country="IN" tvg-language="English" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="Travel",Travel XP (720p)
+https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVSHollywoodHistory.us" tvg-name="TVS Hollywood History" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="Classic",TVS Hollywood History (408p)
+https://rpn1.bozztv.com/36bay2/gusa-tvshollywoohistory/mono.m3u8
+
+#EXTINF:-1 tvg-id="TVSTravel.us" tvg-name="TVS Travel Network" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Bgqy4fL.jpg" group-title="Travel",TVS Travel Network (720p)
+https://rpn1.bozztv.com/36bay2/gusa-tvstravel/index.m3u8
+
+#EXTINF:-1 tvg-id="YoutooAmerica.us" tvg-name="Youtoo America" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/3se2VEB.png" group-title="Entertainment",Youtoo America (1080p)
+https://thegateway.app/YouToo/YTamerica/playlist.m3u8
+
 #EXTINF:-1 tvg-id="FashionTVEurope.fr" tvg-name="Fashion TV" tvg-country="FR" tvg-language="English" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="Lifestyle",Fashion TV (1080p)
 https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8
 
@@ -880,4 +981,5 @@ https://fash1043.cloudycdn.services/slive/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hl
 #EXTINF:-1 tvg-id="FashionTVUHD.fr" tvg-name="Fashion TV UHD" tvg-country="FR" tvg-language="English" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="Lifestyle",Fashion TV UHD (2160p)
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
-
+#EXTINF:-1 tvg-id="NASATV.us" tvg-name="NASA TV" tvg-country="US" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTupMmB3cw51YJqk8xVO8WZj3yDVr70ayrxkkLS0_SMNT7pR0t6" group-title="Science",NASA TV (720p)
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
