@@ -281,6 +281,9 @@ https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/play
 #EXTINF:-1 tvg-id="Babylon TV" tvg-name="Babylon TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgfZ282WxJhlUqpBe7H-lYab-YEpxWPRcjaP1Ebj2-4JOJSgis" group-title="ARABI",Babylon TV
 https://iqlivestream.com/babylontv/kardokardo.m3u8
 
+#EXTINF:-1 tvg-id="Babylon TV-2" tvg-name="Babylon TV-2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgfZ282WxJhlUqpBe7H-lYab-YEpxWPRcjaP1Ebj2-4JOJSgis" group-title="ARABI",Babylon TV-2
+https://iqlivestream.com/live/babylontv.flv
+
 #EXTINF:-1 tvg-id="Funoon.kw" tvg-name="Funoon" tvg-country="KW" tvg-language="Arabic" tvg-logo="" group-title="",Funoon (360p)
 https://gulfsat.cdn.easybroadcast.fr/live/FunoonHd_abr/playlist.m3u8
 
