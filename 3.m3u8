@@ -735,6 +735,130 @@ http://appavang.flashmediacast.com:1935/Appavang/livestream/palylist.m3u8
 
 -------------------------------------------------------------------AJNABI----------------------------------------------------------------------------------------
 
+#EXTINF:-1 tvg-id="24HourFreeMovies.us" tvg-name="24 Hour Free Movies" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/FiTdDp1.png" group-title="Movies",24 Hour Free Movies (720p)
+https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
+
+#EXTINF:-1 tvg-id="30ATheBeachShow.us" tvg-name="30A The Beach Show" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/0j5Aget.png" group-title="Local",30A The Beach Show (720p)
+https://30a-tv.com/beachy.m3u8
+
+#EXTINF:-1 tvg-id="AEBestof.us" tvg-name="A&E (Best of)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/zl7Gzwm.png" group-title="Entertainment",A&E (Best of) (1080p)
+https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KTNV.us" tvg-name="ABC 13 Las Vegas NV (KTNV)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/QbkW7zY.png" group-title="Local",ABC 13 Las Vegas NV (KTNV) (720p)
+https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
+
+#EXTINF:-1 tvg-id="ABPHindi.in" tvg-name="ABP Hindi" tvg-country="IN" tvg-language="English" tvg-logo="https://static.abplive.in/wp-content/themes/abp-hindi/images/logo/hindiLogoD.png" group-title="News",ABP Hindi (720p)
+https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8
+
+#EXTINF:-1 tvg-id="ActionMAX.us" tvg-name="ActionMAX" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Snba5W2.jpg" group-title="Movies",ActionMAX (360p)
+http://31.220.41.88:8081/live/us-cinemaxaction.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AllWeddings.us" tvg-name="All Weddings" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/d61oA0y.png" group-title="Entertainment",All Weddings (1080p)
+https://amc-allweddings-1.vizio.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AMCIFCFilmPicks.us" tvg-name="AMC IFC Film Picks" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="Movies",AMC IFC Film Picks (1080p)
+https://amc-ifc-films-picks-1.imdbtv.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cinemax.us" tvg-name="Cinemax" tvg-country="US" tvg-language="English" tvg-logo="https://static.epg.best/ph/Cinemax.ph.png" group-title="Movies",Cinemax (360p) [Not 24/7]
+http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cinemax.us" tvg-name="Cinemax" tvg-country="US" tvg-language="English;Vietnamese" tvg-logo="https://static.epg.best/ph/Cinemax.ph.png" group-title="Movies",Cinemax (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ClassicCinema.us" tvg-name="Classic Cinema" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/tC4AePW.png" group-title="Classic",Classic Cinema (240p)
+https://rpn1.bozztv.com/36bay2/gusa-classiccinema/mono.m3u8
+
+#EXTINF:-1 tvg-id="ClassicMoviesChannel.us" tvg-name="Classic Movies Channel" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/pltVS6t.png" group-title="Classic",Classic Movies Channel (480p)
+https://b83608fe932143099bb8b25a66857730.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f86075a0d552957bf5aa4dd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ElectricNow.us" tvg-name="Electric Now" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjgzOTI0NjRf/ElectricNow_300x300.png" group-title="Entertainment",Electric Now (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-electricnow/CDN/master.m3u8
+
+#EXTINF:-1 tvg-id="EverydayHeroes.us" tvg-name="Everyday Heroes" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Iam3ol3.png" group-title="",Everyday Heroes (720p)
+https://a.jsrdn.com/broadcast/7b1451fa52/+0000/c.m3u8
+
+#EXTINF:-1 tvg-id="FilmHub.us" tvg-name="Film Hub" tvg-country="US" tvg-language="English" tvg-logo="http://cdn-images-1.medium.com/max/280/1*7zB_9kQDvR3fa_IIk8fhQg@2x.png" group-title="Movies",Film Hub (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FilmRiseAction.us" tvg-name="FilmRise Action" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise-Action_442x442.png?raw=true" group-title="",FilmRise Action (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmriseaction/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FilmRiseClassicTV.us" tvg-name="FilmRise Classic TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/GvqmzPn.jpg" group-title="Classic",FilmRise Classic TV (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FilmRiseClassicTV.us" tvg-name="FilmRise Classic TV" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise_Classic-TV_300x300.png?raw=true" group-title="Classic",FilmRise Classic TV (432p)
+https://hls.xumo.com/channel-hls/v1/9fe012a9926c4e91/9999400/master.m3u8
+
+#EXTINF:-1 tvg-id="FilmRiseClassicTV.us" tvg-name="FilmRise Classic TV (STIRR)" tvg-country="US" tvg-language="English" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/0cc80229-e631-4ab5-b9e6-cab62f841ab5-small3x1_STIRR_Logo_0320_FilmriseClassicTV_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="Classic",FilmRise Classic TV (STIRR) (720p)
+https://dai.google.com/linear/hls/event/hW5jMh7dTRK1UXW5fTH07A/master.m3u8
+
+#EXTINF:-1 tvg-id="FilmRiseClassicTV.us" tvg-name="FilmRise Classic TV" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" group-title="Classic",FilmRise Classic TV on Redbox (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmriseclassictv/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FilmRiseForensicFiles.us" tvg-name="FilmRise Forensic Files" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise_ForensicFiles_398x398.png?raw=true" group-title="",FilmRise Forensic Files (360p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuforensicfiles/CDN/master.m3u8
+
+#EXTINF:-1 tvg-id="FilmRiseForensicFilesXUMO.us" tvg-name="FilmRise Forensic Files (XUMO)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/fX1PNxl.png" group-title="",FilmRise Forensic Files (XUMO) (432p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FilmRiseFreeMovies.us" tvg-name="FilmRise Free Movies" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/X7U7ikq.png" group-title="Movies",FilmRise Free Movies (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FilmRiseFreeMoviesSTIRR.us" tvg-name="FilmRise Free Movies (STIRR)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/X7U7ikq.png" group-title="Movies",FilmRise Free Movies (STIRR) (720p)
+https://dai.google.com/linear/hls/event/Va1QEor0SWO_x_SQNyaF0w/master.m3u8
+
+#EXTINF:-1 tvg-id="FilmRiseFreeMoviesonRedbox.us" tvg-name="FilmRise Free Movies on Redbox" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/X7U7ikq.png" group-title="Movies",FilmRise Free Movies on Redbox (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FilmRiseMysteriesXUMO.us" tvg-name="FilmRise Mysteries (XUMO)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/FeWgF1h.png" group-title="Series",FilmRise Mysteries (XUMO) (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmrisemystery/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FilmRiseMysteries247XUMO.us" tvg-name="FilmRise Mysteries 24/7 (XUMO)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/FeWgF1h.png" group-title="",FilmRise Mysteries 24/7 (XUMO) (720p)
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FilmRiseSciFiXUMO.us" tvg-name="FilmRise Sci-Fi (XUMO)" tvg-country="US" tvg-language="English" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/815Fp3E0LcL.png" group-title="",FilmRise Sci-Fi (XUMO) (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FilmRiseTrueCrime.us" tvg-name="FilmRise True Crime" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/suxN191.png" group-title="Movies",FilmRise True Crime (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisecrime/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FilmRiseWestern.us" tvg-name="FilmRise Western" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/7cTXYNk.png" group-title="",FilmRise Western (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmrisewestern/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Filmstreams.us" tvg-name="Filmstreams" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/cFbzgED.jpg" group-title="",Filmstreams (720p)
+https://spi-filmstream-1-au.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FilmStreams.us" tvg-name="FilmStreams" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/cFbzgED.jpg" group-title="",FilmStreams (720p)
+https://spi-filmstream-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Filmstreams.us" tvg-name="Filmstreams" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/cFbzgED.jpg" group-title="",Filmstreams (720p)
+https://spi-filmstream-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FilmStreams.us" tvg-name="FilmStreams" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/cFbzgED.jpg" group-title="",FilmStreams (1080p)
+https://spi-filmstream-1.plex.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FilmstreamsIndia.us" tvg-name="Filmstreams (India)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/cFbzgED.jpg" group-title="",Filmstreams (India) (720p)
+https://spi-filmstream-1-in.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Filmzie.uk" tvg-name="Filmzie" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/jUWffic.png" group-title="",Filmzie (720p)
+https://filmzie-filmzie-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Food52.us" tvg-name="Food 52" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/BVrMQch.png" group-title="Cooking",Food 52 (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfood52A/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HBOMalaysia.us" tvg-name="HBO Malaysia" tvg-country="MY" tvg-language="English" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="Movies",HBO Malaysia (720p)
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HBOPREMIUM.us" tvg-name="HBO PREMIUM" tvg-country="US" tvg-language="English" tvg-logo="https://www.intersatelital.com.bo/wp-content/uploads/2017/04/hbo-premium.png" group-title="",HBO PREMIUM (360p)
+https://s.vdo.ai/vhs/1.m3u8
+
+#EXTINF:-1 tvg-id="HISTORYChannelBestof.us" tvg-name="HISTORY Channel (Best of)" tvg-country="US" tvg-language="English" tvg-logo="http://i1.kym-cdn.com/entries/icons/original/000/019/322/photo.jpg" group-title="Documentary",HISTORY Channel (Best of) (720p)
+https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+
+
+
+
 #EXTINF:-1 tvg-id="TheKingdomSat.eg" tvg-name="The Kingdom Sat" tvg-country="EG" tvg-language="Arabic" tvg-logo="https://i.imgur.com/6xa14aQ.png" group-title="Religious",The Kingdom Sat (576p)
 https://bcovlive-a.akamaihd.net/87f7c114719b4646b7c4263c26515cf3/eu-central-1/6008340466001/profile_0/chunklist.m3u8
 
@@ -746,4 +870,14 @@ http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Netmax Movies Eglish" tvg-name="Netmax Movies Eglish" tvg-logo="https://images.jdmagicbox.com/comp/delhi/e8/pwfl1515951829n4v6e8/catalogue/netmaxx-broadband-services-delhi-cthx7.jpg?clr=" group-title="AJNABI",Netmax Movies Eglish
 http://live.netmaxtv.com:8080/live/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FashionTVEurope.fr" tvg-name="Fashion TV" tvg-country="FR" tvg-language="English" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="Lifestyle",Fashion TV (1080p)
+https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FashionTVTokyo.fr" tvg-name="Fashion TV Tokyo (PG13)" tvg-country="FR" tvg-language="English" tvg-logo="https://i.imgur.com/auHH1Ig.png" group-title="Lifestyle",Fashion TV Tokyo (PG13)
+https://fash1043.cloudycdn.services/slive/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FashionTVUHD.fr" tvg-name="Fashion TV UHD" tvg-country="FR" tvg-language="English" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="Lifestyle",Fashion TV UHD (2160p)
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+
 
