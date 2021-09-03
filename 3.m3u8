@@ -983,3 +983,6 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 
 #EXTINF:-1 tvg-id="NASATV.us" tvg-name="NASA TV" tvg-country="US" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTupMmB3cw51YJqk8xVO8WZj3yDVr70ayrxkkLS0_SMNT7pR0t6" group-title="Science",NASA TV (720p)
 http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FoodFood.in" tvg-name="Food Food" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/J930pA1.png" group-title="Entertainment",Food Food (576p)
+http://14.199.164.20:4001/play/a0qx/index.m3u8
