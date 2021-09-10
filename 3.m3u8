@@ -350,10 +350,6 @@ http://streaming.tootvs.com:1935/8010/8010/playlist.m3u8
 #EXTINF:-1 tvg-id="Future TV" tvg-name="Future TV" tvg-logo="https://yt3.ggpht.com/-06mS0mwhzno/AAAAAAAAAAI/AAAAAAAAAAA/6K-Wn_N0h98/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="ARABI",Future TV
 https://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/chunklist_b650000.m3u8
 
-#EXTINF:-1 tvg-id="TeleLiban.lb" tvg-name="Tele Liban" tvg-country="LB" tvg-language="Arabic" tvg-logo="http://www.teleliban.com.lb/images/telelogo.png" group-title="ARABI",Tele Liban (576p)
-#EXTVLCOPT:http-referrer=https://www.teleliban.com.lb/live
-https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
-
 #EXTINF:-1 tvg-id="CharityTV.lb" tvg-name="CharityTV" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://kreim-storage.fra1.digitaloceanspaces.com/APP%20Logo%20PNG.png" group-title="ARABI",CharityTV (1080p)
 http://185.105.4.236:1935/live/ngrp:livestream_all/live.m3u8
 
@@ -492,7 +488,7 @@ https://iptv-all.lanesh4d0w.codes/emirates/ajman
 -------------------------------------------------------------------TURKI----------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="Star tv" tvg-name="Star tv" tvg-logo="https://img.gecce.com.tr/2018/04/24/star-tv-reyt-103927AH.jpg" group-title="TURKI",Star tv
-chrome-extension://ckblfoghkjhaclegefojbgllenffajdc/player.html#http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/69.m3u8
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/69.m3u8
 
 #EXTINF:-1 tvg-id="kanal D tv" tvg-name="kanal D tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSZlM9s5Xa0v6jPQYeXxceviNlJC3PQzBLtDA&usqp=CAU" group-title="TURKI",kanal D tv
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/66.m3u8
@@ -761,10 +757,6 @@ https://amc-ifc-films-picks-1.imdbtv.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cinemax.us" tvg-name="Cinemax" tvg-country="US" tvg-language="English" tvg-logo="https://static.epg.best/ph/Cinemax.ph.png" group-title="AJNABI",Cinemax (360p) [Not 24/7]
 http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Cinemax.us" tvg-name="Cinemax" tvg-country="US" tvg-language="English;Vietnamese" tvg-logo="https://static.epg.best/ph/Cinemax.ph.png" group-title="AJNABI",Cinemax (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ClassicCinema.us" tvg-name="Classic Cinema" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/tC4AePW.png" group-title="AJNABI",Classic Cinema (240p)
 https://rpn1.bozztv.com/36bay2/gusa-classiccinema/mono.m3u8
