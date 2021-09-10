@@ -486,8 +486,44 @@ http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8
 
 -------------------------------------------------------------------FARSI----------------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-id="Menoto TV farsi" tvg-name="Menoto TV farsi" tvg-logo="https://www.parsatv.com/index_files/channels/manotohd.png" group-title="FARSI",Menoto TV farsi
-https://d2rwmwucnr0d10.cloudfront.net/live.m3u8
+#EXTINF:-1 tvg-id="ITCTV.ca" tvg-name="ITC TV" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",ITC TV (480p)
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/f05d55e42dc746c8bd36edafbace7cc1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PMC.ir" tvg-name="PMC" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/srVaOna.png" group-title="FARSI",PMC (1080p)
+https://hls.pmchd.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="EBC1TV.ir" tvg-name="EBC1 TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.livefarsi.com/uploads/tv_image/ebc1-tv.jpg" group-title="FARSI",EBC1 TV (720p) [Not 24/7]
+https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KhaterehTV.ir" tvg-name="Khatereh TV" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",Khatereh TV (368p)
+https://5caf24a595d94.streamlock.net:1937/8130/8130/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CaltexTV.ir" tvg-name="Caltex TV" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",Caltex TV (720p)
+https://vid1.caltexmusic.com/hls/caltextv.m3u8
+
+#EXTINF:-1 tvg-id="MBCPersia.ae" tvg-name="MBC Persia" tvg-country="IR" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/MBC_Persia_Logo.png" group-title="FARSI",MBC Persia (1080p)
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
+
+#EXTINF:-1 tvg-id="PersianaCinema.fr" tvg-name="Persiana Cinema" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",Persiana Cinema (720p)
+http://51.210.199.15/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="PersianFilm.ir" tvg-name="Persian Film" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",Persian Film (720p)
+http://51.210.227.135/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="PersianaBillboard.fr" tvg-name="Persiana Billboard" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",Persiana Billboard (720p) [Not 24/7]
+http://51.210.199.10/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="PersianaFamily.fr" tvg-name="Persiana Family" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",Persiana Family (720p)
+http://51.210.199.19/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="PersianaComedy.fr" tvg-name="Persiana Comedy" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",Persiana Comedy (720p)
+http://51.210.199.27/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="AVAFamily.ir" tvg-name="AVA Family" tvg-logo="" group-title="FARSI",AVA Family [Not 24/7]
+http://51.210.199.5/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="AVASeries.ir" tvg-name="AVA Series" tvg-logo="" group-title="FARSI",AVA Series (720p)
+http://51.210.199.4/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="4UTV" tvg-name="4U TV" tvg-logo="https://i.imgur.com/Icob3E3.jpg" group-title="FARSI",4U TV
 http://116.202.255.113:1935/4utv/livehd/playlist.m3u8
@@ -498,128 +534,14 @@ https://1-215-11778-1.b.cdn13.com/onetvpersia001.m3u8?bandwidth=3196&playlistlen
 #EXTINF:-1 tvg-id="Film 1" tvg-name="Film 1" tvg-logo="" group-title="FARSI",Film 1
 http://159.69.58.154/film1/film1tv.m3u8
 
-#EXTINF:-1 tvg-id="ALBORZ" tvg-name="ALBORZ" tvg-logo="" group-title="FARSI",ALBORZ
-https://sdm.telewebion.com/live/alborz/playlist.m3u8
+#EXTINF:-1 tvg-id="VOX1.ir" tvg-name="VOX1" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/OFuIRFI.jpg" group-title="FARSI",VOX1 (720p)
+http://51.210.199.8/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="AVAFamily.ir" tvg-name="AVA Family" tvg-logo="" group-title="FARSI",AVA Family [Not 24/7]
-http://51.210.199.5/hls/stream.m3u8
+#EXTINF:-1 tvg-id="VOX2.ir" tvg-name="VOX2" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/DN5wvFg.jpg" group-title="FARSI",VOX2 (720p)
+http://51.210.199.9/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="AVASeries.ir" tvg-name="AVA Series" tvg-logo="" group-title="FARSI",AVA Series (720p)
-http://51.210.199.4/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="AzstarTV.ca" tvg-name="Azstar TV" tvg-country="CA" tvg-language="Persian" tvg-logo="https://i.imgur.com/iqraNYV.jpg" group-title="FARSI",Azstar TV [Not 24/7]
-http://live.livestreamtv.ca/azstar/smil:azstar.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Baran" tvg-name="Baran" tvg-logo="" group-title="FARSI",Baran
-https://sdm.telewebion.com/live/baran/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BazmeAsheghan.nl" tvg-name="Bazme Asheghan" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",Bazme Asheghan (720p)
-https://5dc143936e9ae.streamlock.net/saeed_nl/saeed_nl/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="Channel1.ir" tvg-name="Channel 1" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",Channel 1 (480p)
-https://2nbyjjx7y53k-hls-live.5centscdn.com/cls040317/0070c5b7ef083bdc8de09065c61a34d8.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="FarazTV.ir" tvg-name="Faraz TV" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",Faraz TV (720p) [Not 24/7]
-https://faraztv.net/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="FARS.ir" tvg-name="FARS" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",FARS (240p)
-http://cdn1.live.irib.ir:1935/epg-live/smil:fars/playlist.m3u8
-
-#EXTINF:-1 tvg-id="GEMMifa.ir" tvg-name="GEM Mifa" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.gemonline.tv/Assets/channels-box/mifa.png" group-title="FARSI",GEM Mifa (1080p)
-http://159.69.58.154/radio_javan/gem_mifa.m3u8
-
-#EXTINF:-1 tvg-id="GOLESTAN.ir" tvg-name="GOLESTAN" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",GOLESTAN (240p)
-http://cdn1.live.irib.ir:1935/epg-live/smil:golestan/playlist.m3u8
-
-#EXTINF:-1 tvg-id="HastiTV.ir" tvg-name="Hasti TV" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",Hasti TV (1080p)
-https://live.hastitv.com/hls/livetv.m3u8
-
-#EXTINF:-1 tvg-id="HealthMedia.uk" tvg-name="Health Media" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",Health Media (720p) [Not 24/7]
-https://j78dpkrjlq5r-hls-live.5centscdn.com/HMN/271ddf829afeece44d8732757fba1a66.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="HighVision.us" tvg-name="High Vision" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",High Vision (1080p)
-https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="HodHodTV.fr" tvg-name="HodHod TV" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",HodHod TV (720p)
-http://51.210.199.12/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="iFILMPersian2.ir" tvg-name="iFILM Persian 2" tvg-country="IR" tvg-language="Persian" tvg-logo="https://fa2.ifilmtv.com/img/test-final02.png" group-title="FARSI",iFILM Persian 2
-https://live1.presstv.ir/live/ifilm2.m3u8
-
-#EXTINF:-1 tvg-id="INTVSimayeAzadi.ir" tvg-name="INTV Simaye Azadi" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/CTIINTk.png" group-title="FARSI",INTV Simaye Azadi (1080p)
-https://sima-i.akamaihd.net/hls/live/624111/sima/index.m3u8
-
-#EXTINF:-1 tvg-id="ITCTV.ca" tvg-name="ITC TV" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",ITC TV (480p)
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/f05d55e42dc746c8bd36edafbace7cc1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ITN.ir" tvg-name="ITN" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",ITN (720p)
-http://51.210.199.31/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="KERMAN.ir" tvg-name="KERMAN" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",KERMAN (576p)
-https://sdm.telewebion.com/live/kerman/playlist.m3u8
-
-#EXTINF:-1 tvg-id="KhaterehTV.ir" tvg-name="Khatereh TV" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",Khatereh TV (368p)
-https://5caf24a595d94.streamlock.net:1937/8130/8130/playlist.m3u8
-
-#EXTINF:-1 tvg-id="KHOOZESTAN.ir" tvg-name="KHOOZESTAN" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",KHOOZESTAN (576p)
-https://sdm.telewebion.com/live/khoozestan/playlist.m3u8
-
-#EXTINF:-1 tvg-id="KISH.ir" tvg-name="KISH" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",KISH (576p)
-https://sdm.telewebion.com/live/kish/playlist.m3u8
-
-#EXTINF:-1 tvg-id="KORDESTAN.ir" tvg-name="KORDESTAN" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",KORDESTAN (576p)
-https://sdm.telewebion.com/live/kordestan/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MAHABAD.ir" tvg-name="MAHABAD" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",MAHABAD (576p)
-https://sdm.telewebion.com/live/mahabad/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MBCPersia.ae" tvg-name="MBC Persia" tvg-country="IR" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/MBC_Persia_Logo.png" group-title="FARSI",MBC Persia (1080p)
-https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
-
-#EXTINF:-1 tvg-id="MihanTV.ir" tvg-name="Mihan TV" tvg-country="IR" tvg-language="Persian" tvg-logo="http://mihantv.com/wp-content/themes/mihantv/images/logo.png" group-title="FARSI",Mihan TV (360p)
-https://iptv.mihantv.com/live/playlist1/index.m3u8
-
-#EXTINF:-1 tvg-id="NAMAYESH.ir" tvg-name="NAMAYESH" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",NAMAYESH (720p)
-https://sdm.telewebion.com/live/namayesh/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NASIM.ir" tvg-name="NASIM" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",NASIM (720p)
-https://sdm.telewebion.com/live/nasim/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NAVAHANG.ir" tvg-name="NAVAHANG" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",NAVAHANG (720p)
-http://51.210.227.130/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="OFOGH.ir" tvg-name="OFOGH" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",OFOGH (720p)
-https://sdm.telewebion.com/live/ofogh/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Parsiland.ir" tvg-name="Parsiland" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",Parsiland (540p)
-http://vps.parsiland.net/hls/ParsiLand.m3u8
-
-#EXTINF:-1 tvg-id="PayamJavanTV.ir" tvg-name="Payam Javan TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://payamjavan.com/wp-content/uploads/2019/05/logo-Payam-Javan.png" group-title="FARSI",Payam Javan TV (720p)
-https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="PBCTapeshTV.ir" tvg-name="PBC Tapesh TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/J0Oj78g.jpg" group-title="FARSI",PBC Tapesh TV (720p)
-http://iptv.tapesh.tv/tapesh/playlist.m3u8
-
-#EXTINF:-1 tvg-id="PersianBazar.ir" tvg-name="Persian Bazar" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",Persian Bazar (720p)
-https://stream.persiantv1.com/ptv1/playlist1/index.m3u8
-
-#EXTINF:-1 tvg-id="PersianFilm.ir" tvg-name="Persian Film" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",Persian Film (720p)
-http://51.210.227.135/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="PersianaBillboard.fr" tvg-name="Persiana Billboard" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",Persiana Billboard (720p) [Not 24/7]
-http://51.210.199.10/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="PersianaCinema.fr" tvg-name="Persiana Cinema" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",Persiana Cinema (720p)
-http://51.210.199.15/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="PersianaComedy.fr" tvg-name="Persiana Comedy" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",Persiana Comedy (720p)
-http://51.210.199.27/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="PersianaFamily.fr" tvg-name="Persiana Family" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",Persiana Family (720p)
-http://51.210.199.19/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="PersianaGameTech.fr" tvg-name="Persiana Game & Tech" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",Persiana Game & Tech (720p) [Not 24/7]
-http://51.210.199.25/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Tapesh2Movies.ir" tvg-name="Tapesh 2 Movies" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",Tapesh 2 Movies (720p) [Not 24/7]
+http://159.69.58.154/t2_movies/master.m3u8
 
 #EXTINF:-1 tvg-id="PersianaIranian.fr" tvg-name="Persiana Iranian" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",Persiana Iranian (720p)
 http://51.210.199.22/hls/stream.m3u8
@@ -639,50 +561,26 @@ http://51.210.199.20/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PersianaPlus.fr" tvg-name="Persiana Plus" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",Persiana Plus (576p)
 http://51.210.199.21/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="PersianaSonati.fr" tvg-name="Persiana Sonati" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",Persiana Sonati (576p)
-http://51.210.199.59/hls/stream.m3u8
+#EXTINF:-1 tvg-id="BazmeAsheghan.nl" tvg-name="Bazme Asheghan" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",Bazme Asheghan (720p)
+https://5dc143936e9ae.streamlock.net/saeed_nl/saeed_nl/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="PMC.ir" tvg-name="PMC" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/srVaOna.png" group-title="FARSI",PMC (1080p)
-https://hls.pmchd.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="FarazTV.ir" tvg-name="Faraz TV" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",Faraz TV (720p) [Not 24/7]
+https://faraztv.net/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="RangarangTV.ir" tvg-name="Rangarang TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/s5yF9aU.jpg" group-title="FARSI",Rangarang TV (720p)
-https://iptv.rangarang.us/live/playlist.m3u8
+#EXTINF:-1 tvg-id="HastiTV.ir" tvg-name="Hasti TV" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",Hasti TV (1080p)
+https://live.hastitv.com/hls/livetv.m3u8
 
-#EXTINF:-1 tvg-id="SAHAND.ir" tvg-name="SAHAND" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",SAHAND (240p)
-http://cdn1.live.irib.ir:1935/epg-live/smil:sahand/playlist.m3u8
+#EXTINF:-1 tvg-id="ITN.ir" tvg-name="ITN" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",ITN (720p)
+http://51.210.199.31/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="SepanjTV.ir" tvg-name="Sepanj TV" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",Sepanj TV (720p)
-http://51.210.199.30/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Parsiland.ir" tvg-name="Parsiland" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",Parsiland (540p)
+http://vps.parsiland.net/hls/ParsiLand.m3u8
 
-#EXTINF:-1 tvg-id="SL1.ir" tvg-name="SL 1" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/n9cuM2W.jpg" group-title="FARSI",SL 1 (720p)
-http://51.210.199.3/hls/stream.m3u8
+#EXTINF:-1 tvg-id="NAVAHANG.ir" tvg-name="NAVAHANG" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",NAVAHANG (720p)
+http://51.210.227.130/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="SL2.ir" tvg-name="SL 2" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/BVuUx5R.jpg" group-title="FARSI",SL 2 (720p)
-http://51.210.199.2/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="Tapesh2Movies.ir" tvg-name="Tapesh 2 Movies" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",Tapesh 2 Movies (720p) [Not 24/7]
-http://159.69.58.154/t2_movies/master.m3u8
-
-#EXTINF:-1 tvg-id="TBNNejatTV.ir" tvg-name="TBN Nejat TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://nejattv.org/assets/img/tbn-nejat-logo.png" group-title="FARSI",TBN Nejat TV (540p)
-https://api.new.livestream.com/accounts/27460990/events/8266913/live.m3u8
-
-#EXTINF:-1 tvg-id="TehranTV24.ir" tvg-name="TehranTV 24" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",TehranTV 24 (720p)
-http://51.210.227.132/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="TinTV.ir" tvg-name="Tin TV" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",Tin TV (720p)
-https://bozztv.com/1gbw5/tintv/tintv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Toonix.ir" tvg-name="Toonix" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",Toonix (720p)
-http://51.210.227.134/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="VOX1.ir" tvg-name="VOX1" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/OFuIRFI.jpg" group-title="FARSI",VOX1 (720p)
-http://51.210.199.8/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="VOX2.ir" tvg-name="VOX2" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/DN5wvFg.jpg" group-title="FARSI",VOX2 (720p)
-http://51.210.199.9/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="YAZD.ir" tvg-name="YAZD" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",YAZD (576p)
-https://sdm.telewebion.com/live/taban/playlist.m3u8
+#EXTINF:-1 tvg-id="PBCTapeshTV.ir" tvg-name="PBC Tapesh TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/J0Oj78g.jpg" group-title="FARSI",PBC Tapesh TV (720p)
+http://iptv.tapesh.tv/tapesh/playlist.m3u8
 
 #EXTINF:-1 tvg-id="T2TV.ir" tvg-name="T2 TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/BwyQR6n.png" group-title="FARSI",T2 TV (720p)
 http://208.113.204.104:8123/live/tapesh-live-stream/index.m3u8
@@ -690,23 +588,89 @@ http://208.113.204.104:8123/live/tapesh-live-stream/index.m3u8
 #EXTINF:-1 tvg-id="ParnianTV.ca" tvg-name="Parnian TV" tvg-country="CA" tvg-language="Persian" tvg-logo="https://i.imgur.com/eNGthNI.jpg" group-title="FARSI",Parnian TV (720p)
 https://live2.parnian.tv/hls/.m3u8
 
-#EXTINF:-1 tvg-id="MohabatTV.ir" tvg-name="Mohabat TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/espyPNl.png" group-title="FARSI",Mohabat TV (540p)
-http://204.11.235.251:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
-
-#EXTINF:-1 tvg-id="EBC1TV.ir" tvg-name="EBC1 TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.livefarsi.com/uploads/tv_image/ebc1-tv.jpg" group-title="FARSI",EBC1 TV (720p) [Not 24/7]
-https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
-
 #EXTINF:-1 tvg-id="EcranTV.ir" tvg-name="Ecran TV" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",Ecran TV (720p)
 http://51.210.199.40/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="EkranMovie.ir" tvg-name="Ekran Movie" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",Ekran Movie (720p)
 http://159.69.58.154/ekran/ekrantv.m3u8
 
-#EXTINF:-1 tvg-id="CaltexTV.ir" tvg-name="Caltex TV" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",Caltex TV (720p)
-https://vid1.caltexmusic.com/hls/caltextv.m3u8
+#EXTINF:-1 tvg-id="TinTV.ir" tvg-name="Tin TV" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",Tin TV (720p)
+https://bozztv.com/1gbw5/tintv/tintv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TehranTV24.ir" tvg-name="TehranTV 24" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",TehranTV 24 (720p)
+http://51.210.227.132/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="SL1.ir" tvg-name="SL 1" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/n9cuM2W.jpg" group-title="FARSI",SL 1 (720p)
+http://51.210.199.3/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="SL2.ir" tvg-name="SL 2" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/BVuUx5R.jpg" group-title="FARSI",SL 2 (720p)
+http://51.210.199.2/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="SAHAND.ir" tvg-name="SAHAND" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",SAHAND (240p)
+http://cdn1.live.irib.ir:1935/epg-live/smil:sahand/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RangarangTV.ir" tvg-name="Rangarang TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/s5yF9aU.jpg" group-title="FARSI",Rangarang TV (720p)
+https://iptv.rangarang.us/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PersianBazar.ir" tvg-name="Persian Bazar" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",Persian Bazar (720p)
+https://stream.persiantv1.com/ptv1/playlist1/index.m3u8
+
+#EXTINF:-1 tvg-id="PayamJavanTV.ir" tvg-name="Payam Javan TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://payamjavan.com/wp-content/uploads/2019/05/logo-Payam-Javan.png" group-title="FARSI",Payam Javan TV (720p)
+https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GOLESTAN.ir" tvg-name="GOLESTAN" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",GOLESTAN (240p)
+http://cdn1.live.irib.ir:1935/epg-live/smil:golestan/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FARS.ir" tvg-name="FARS" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",FARS (240p)
+http://cdn1.live.irib.ir:1935/epg-live/smil:fars/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Channel1.ir" tvg-name="Channel 1" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",Channel 1 (480p)
+https://2nbyjjx7y53k-hls-live.5centscdn.com/cls040317/0070c5b7ef083bdc8de09065c61a34d8.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Menoto TV farsi" tvg-name="Menoto TV farsi" tvg-logo="https://www.parsatv.com/index_files/channels/manotohd.png" group-title="FARSI",Menoto TV farsi
+https://d2rwmwucnr0d10.cloudfront.net/live.m3u8
+
+#EXTINF:-1 tvg-id="AzstarTV.ca" tvg-name="Azstar TV" tvg-country="CA" tvg-language="Persian" tvg-logo="https://i.imgur.com/iqraNYV.jpg" group-title="FARSI",Azstar TV [Not 24/7]
+http://live.livestreamtv.ca/azstar/smil:azstar.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HighVision.us" tvg-name="High Vision" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",High Vision (1080p)
+https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="MihanTV.ir" tvg-name="Mihan TV" tvg-country="IR" tvg-language="Persian" tvg-logo="http://mihantv.com/wp-content/themes/mihantv/images/logo.png" group-title="FARSI",Mihan TV (360p)
+https://iptv.mihantv.com/live/playlist1/index.m3u8
+
+#EXTINF:-1 tvg-id="Toonix.ir" tvg-name="Toonix" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",Toonix (720p)
+http://51.210.227.134/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="SepanjTV.ir" tvg-name="Sepanj TV" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",Sepanj TV (720p)
+http://51.210.199.30/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="MAHABAD.ir" tvg-name="MAHABAD" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",MAHABAD (576p)
+https://sdm.telewebion.com/live/mahabad/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KORDESTAN.ir" tvg-name="KORDESTAN" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",KORDESTAN (576p)
+https://sdm.telewebion.com/live/kordestan/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KISH.ir" tvg-name="KISH" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",KISH (576p)
+https://sdm.telewebion.com/live/kish/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HodHodTV.fr" tvg-name="HodHod TV" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",HodHod TV (720p)
+http://51.210.199.12/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="INTVSimayeAzadi.ir" tvg-name="INTV Simaye Azadi" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/CTIINTk.png" group-title="FARSI",INTV Simaye Azadi (1080p)
+https://sima-i.akamaihd.net/hls/live/624111/sima/index.m3u8
+
+#EXTINF:-1 tvg-id="iFILMPersian2.ir" tvg-name="iFILM Persian 2" tvg-country="IR" tvg-language="Persian" tvg-logo="https://fa2.ifilmtv.com/img/test-final02.png" group-title="FARSI",iFILM Persian 2
+https://live1.presstv.ir/live/ifilm2.m3u8
 
 #EXTINF:-1 tvg-id="AvangTV.us" tvg-name="Avang TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/aa/avang-tv-us.png" group-title="FARSI",Avang TV (1080p)
 http://appavang.flashmediacast.com:1935/Appavang/livestream/palylist.m3u8
+
+#EXTINF:-1 tvg-id="ALBORZ" tvg-name="ALBORZ" tvg-logo="" group-title="FARSI",ALBORZ
+https://sdm.telewebion.com/live/alborz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Baran" tvg-name="Baran" tvg-logo="" group-title="FARSI",Baran
+https://sdm.telewebion.com/live/baran/playlist.m3u8
 
 -------------------------------------------------------------------AJNABI----------------------------------------------------------------------------------------
 
