@@ -21,9 +21,6 @@ http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/54.m3u8
 #EXTINF:-1 tvg-id="Net TV" tvg-name="Net TV" tvg-logo="https://www.netkurd.tv/images/logo.png" group-title="KURDI",Net TV
 http://nettvstreampaid.flashmediacast.com:1935/nettvstreampaid/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Net TV-2" tvg-name="Net TV-2" tvg-logo="https://www.netkurd.tv/images/logo.png" group-title="KURDI",Net TV-2
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/39.m3u8
-
 #EXTINF:-1 tvg-id="AVA TV" tvg-name="AVA TV" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/dc/99/9c/dc999c2f-ebdf-81f9-c6a6-e6b1612b9fd4/source/512x512bb.jpg" group-title="KURDI",AVA TV
 http://wowzaprod219-i.akamaihd.net/hls/live/1003949/c9aa559e/playlist.m3u8
 
@@ -148,9 +145,6 @@ http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/57.m3u8
 
 #EXTINF:-1 tvg-id="MAKAN 33" tvg-name="MAKAN 33" tvg-logo="http://webtvonlive.com/wp-content/uploads/Kan-33-webtvonlive-com.jpg" group-title="ARABI",MAKAN 33
 http://kanlivep2event-i.akamaihd.net/hls/live/747613/747613/master.m3u8
-
-#EXTINF:-1 tvg-id="Hala TV" tvg-name="Hala TV" tvg-logo="https://nadsoft.net/images/hala.png" group-title="ARABI",Hala TV
-http://gstream4.panet.co.il/edge/halaTV/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Al Araby" tvg-name="Al Araby" tvg-logo="https://2.bp.blogspot.com/-O8UPEB_9WHw/WXSpaJ8aIYI/AAAAAAAANlY/FWqMwHeAu38y_9LJIFmu38c7zDm4hWWIwCLcBGAs/s1600/20246153_1977007455917734_5337068662698409573_n.jpg" group-title="ARABI",Al Araby
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
@@ -287,12 +281,6 @@ https://dmiffthvll.cdn.mgmlcdn.com/dubaizaman/smil:dubaizaman.stream.smil/chunkl
 #EXTINF:-1 tvg-id="Dubai Zaman2" tvg-name="Dubai Zaman2" tvg-logo="http://www.dmi.gov.ae/images/logos-new/Dubai-Zaman.png" group-title="ARABI",Dubai Zaman2
 https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Babylon TV" tvg-name="Babylon TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgfZ282WxJhlUqpBe7H-lYab-YEpxWPRcjaP1Ebj2-4JOJSgis" group-title="ARABI",Babylon TV
-https://iqlivestream.com/babylontv/kardokardo.m3u8
-
-#EXTINF:-1 tvg-id="Babylon TV-2" tvg-name="Babylon TV-2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgfZ282WxJhlUqpBe7H-lYab-YEpxWPRcjaP1Ebj2-4JOJSgis" group-title="ARABI",Babylon TV-2
-https://iqlivestream.com/live/babylontv.flv
-
 #EXTINF:-1 tvg-id="Funoon.kw" tvg-name="Funoon" tvg-country="KW" tvg-language="Arabic" tvg-logo="" group-title="ARABI",Funoon (360p)
 https://gulfsat.cdn.easybroadcast.fr/live/FunoonHd_abr/playlist.m3u8
 
@@ -312,7 +300,7 @@ https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index_1.m3u8
 
 #EXTINF:-1 tvg-id="Aghani" tvg-name="Aghani" tvg-logo="https://i.imgur.com/PmX9Ca3.png" group-title="ARABI",Aghani
-https://svs.itworkscdn.net/aghanilive/aghanilive/playlist.m3u8
+https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dijlah Tarab TV" tvg-name="Dijlah Tarab TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQppZ_2WtMohQmWfFedp68ZqlFfy5mP21TAkVbJfMFtqKfDh_ke&usqp=CAU" group-title="ARABI",Dijlah Tarab TV
 https://ghaasiflu.online/tarab/index.m3u8
@@ -437,12 +425,6 @@ https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Ch4Teen TV" tvg-name="Ch4Teen TV" tvg-logo="https://i.imgur.com/JeG9K1y.png" group-title="ARABI",Ch4Teen TV
 https://dcunilive93-lh.akamaihd.net/i/dclive_1@835787/index_150_av-p.m3u8
 
-#EXTINF:-1 tvg-id="Yaman TV" tvg-name="Yaman TV" tvg-logo="https://live.almouridiyyah.com/channels/logo/yemen-tv.png" group-title="ARABI",Yaman TV
-https://bozztv.com/36bay2/gin/giniko_yementv_900kb_36bay2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Adan TV" tvg-name="Adan TV" tvg-logo="https://i.ytimg.com/vi/iR3qWEdYrT8/maxresdefault.jpg" group-title="ARABI",Adan TV
-https://master.starmena-cloud.com/hls/aden.m3u8
-
 #EXTINF:-1 tvg-id="Menbej TV" tvg-name="Menbej TV" tvg-logo="https://www.kijk.nl/static/images/default_editorialportrait.png" group-title="ARABI",Menbej TV
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/45.m3u8
 
@@ -475,9 +457,6 @@ http://static.france24.com:80/live/F24_AR_HI_HLS/live_tv.m3u8
 
 #EXTINF:-1 tvg-id="DW Arabic" tvg-name="DW Arabic" tvg-logo="http://3.bp.blogspot.com/-3UrCnZu37XM/VJFdMjNhnjI/AAAAAAAAA-A/9fHvjEllmLU/s1600/DWTV-Arabic_o.jpg" group-title="ARABI",DW Arabic
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream04/streamPlaylist.m3u8
-
-#EXTINF:-1 tvg-id="RT Arabic" tvg-name="RT Arabic" tvg-logo="http://www.4k.tn/wp-content/uploads/2015/12/hqdefault.jpg" group-title="ARABI",RT Arabic
-https://rt-arab.secure.footprint.net/1104_2500Kb.m3u8
 
 #EXTINF:-1 tvg-id="Sky News" tvg-name="Sky News" tvg-logo="https://www.skynewsarabia.com/static/web-rev/img/app-banner/sna_logo_192_20_Pad.png" group-title="ARABI",Sky News
 https://stream.skynewsarabia.com/hls/sna.m3u8
