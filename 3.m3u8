@@ -7,22 +7,16 @@ http://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/rudawtv_360p_chunks.m3u8
 
 #EXTINF:-1 tvg-id="Kurdistan 24" tvg-name="Kurdistan 24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgw3swvdh5qUVZ2U-unB5OF4oN4ULvlTupFObkuJ4C63KHeYbx" group-title="KURDI",Kurdistan 24
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/40.m3u8
-
-#EXTINF:-1 tvg-id="Kurdistan 24-2" tvg-name="Kurdistan 24-2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgw3swvdh5qUVZ2U-unB5OF4oN4ULvlTupFObkuJ4C63KHeYbx" group-title="KURDI",Kurdistan 24-2
 https://d1x82nydcxndze.cloudfront.net/live/index_360p25.m3u8
 
 #EXTINF:-1 tvg-id="NRT TV" tvg-name="NRT TV" tvg-logo="http://www.livenewson.com/wp-content/uploads/2015/12/NRT.png" group-title="KURDI",NRT TV
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/53.m3u8
+https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NRT 2" tvg-name="NRT 2" tvg-logo="https://kurdost.com/tv/wp-content/uploads/2018/01/NRT-2-TV.jpg" group-title="KURDI",NRT 2
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/54.m3u8
 
 #EXTINF:-1 tvg-id="Net TV" tvg-name="Net TV" tvg-logo="https://www.netkurd.tv/images/logo.png" group-title="KURDI",Net TV
 http://nettvstreampaid.flashmediacast.com:1935/nettvstreampaid/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Net TV2" tvg-name="Net TV2" tvg-logo="https://www.netkurd.tv/images/logo.png" group-title="KURDI",Net TV2
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/39.m3u8
 
 #EXTINF:-1 tvg-id="AVA TV" tvg-name="AVA TV" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/dc/99/9c/dc999c2f-ebdf-81f9-c6a6-e6b1612b9fd4/source/512x512bb.jpg" group-title="KURDI",AVA TV
 http://wowzaprod219-i.akamaihd.net/hls/live/1003949/c9aa559e/playlist.m3u8
@@ -35,6 +29,9 @@ http://31.14.40.139:1935/liveTrans/SHOW1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KurdMax Music" tvg-name="KurdMax Music" tvg-logo="http://karwan.tv//logo/tv/kurdmax-music.png" group-title="KURDI",KurdMax Music
 http://31.14.40.139:1935/music/livestream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="KurdMax Music2" tvg-name="KurdMax Music2" tvg-logo="http://karwan.tv//logo/tv/kurdmax-music.png" group-title="KURDI",KurdMax Music2
+https://5aa8c7549bfa9.streamlock.net/music/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="4Kurd" tvg-name="4 Kurd" tvg-logo="" group-title="KURDI",4 Kurd
 http://51.210.199.28/hls/stream.m3u8
@@ -60,11 +57,8 @@ http://51.75.66.91:8080/hls/gksat/1_2/index.m3u8
 #EXTINF:-1 tvg-id="Gali Kurdistan-2" tvg-name="Gali Kurdistan-2" tvg-logo="http://www.mecast.com/images/GKSAT.jpg" group-title="KURDI",Gali Kurdistan-2
 http://51.75.66.91:8080/gksat.mp4
 
-#EXTINF:-1 tvg-id="Gali Kurdistan-3" tvg-name="Gali Kurdistan-3" tvg-logo="http://www.mecast.com/images/GKSAT.jpg" group-title="KURDI",Gali Kurdistan-3
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/37.m3u8
-
 #EXTINF:-1 tvg-id="Kurdsat TV" tvg-name="Kurdsat TV" tvg-logo="https://gulf365.co/content/uploads/2019/02/03/f5bcbb977e.jpg" group-title="KURDI",Kurdsat TV
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/35.m3u8
+http://ikomg2.s.llnwi.net/kurdsathd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Kurdsat News" tvg-name="Kurdsat News" tvg-logo="https://gulf365.co/content/uploads/2019/02/03/f5bcbb977e.jpg" group-title="KURDI",Kurdsat News
 http://ikomg2.s.llnwi.net/kurdsatnewshd/playlist.m3u8
@@ -81,11 +75,14 @@ https://5ab29cc78f681.streamlock.net/PayamTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="Sahar TV" tvg-name="Sahar TV" tvg-logo="https://bundletvinternet.com/wp-content/uploads/sahar-tv-kurdish.jpg" group-title="KURDI",Sahar TV
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/56.m3u8
 
-#EXTINF:-1 tvg-id="Bangawaz TV" tvg-name="Bangawaz TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQTdwB7uDYIwHRswzpY9QT1tHTnNCA2lheFpGLliPzyCTy_vmiT&usqp=CAU" group-title="KURDI",Bangawaz TV
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/46.m3u8
+#EXTINF:-1 tvg-id="Amozhgary TV" tvg-name="Amozhgary TV" tvg-logo="https://www.bing.com/images/search?view=detailV2&ccid=ZpsMIESn&id=AD9219BC0D7F6D358052A9BF43DDB98698333644&thid=OIP.ZpsMIESnfIUh3INtOHPzSQHaEK&mediaurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.669b0c2044a77c8521dc836d3873f349%3frik%3dRDYzmIa53UO%252fqQ%26riu%3dhttp%253a%252f%252fkurtcetvizle.com%252fwp-content%252fuploads%252f2014%252f02%252fAmozhgaryTv.jpg%26ehk%3dQCJ%252fA6xt2%252fBnsNxTqkS80MM%252b4IDsn6xMsHntwiCfUbs%253d%26risl%3d%26pid%3dImgRaw%26r%3d0&exph=348&expw=620&q=amozhgary+tv&simid=608006870647574417&FORM=IRPRST&ck=793091F8FB8A095CD19F4BAA92B86322&selectedIndex=4&ajaxhist=0&ajaxserp=0" group-title="KURDI",Amozhgary TV
+https://media.streambrothers.com:1936/8250/8250/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Zarok TV" tvg-name="Zarok TV" tvg-logo="https://i.ytimg.com/vi/gqHVd4tbXqU/hqdefault.jpg" group-title="KURDI",Zarok TV
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/59.m3u8
+
+#EXTINF:-1 tvg-id="Afarin TV" tvg-name="Afarin TV" tvg-logo="https://yt3.ggpht.com/a/AATXAJyNmQaoPVLDX25TJEdOjA0k1oDCkujA_9i4UA=s900-c-k-c0xffffffff-no-rj-mo" group-title="KURDI",Afarin TV
+https://5ab29cc78f681.streamlock.net/afarinTV/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KurdMax Pepula-Sorani" tvg-name="KurdMax Pepula-Sorani" tvg-logo="http://www.kurdmaxpepule.tv/images/logo.png" group-title="KURDI",KurdMax Pepula-Sorani
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/62.m3u8
@@ -103,10 +100,10 @@ http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/26.m3u8
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/27.m3u8
 
 #EXTINF:-1 tvg-id="Sterk TV" tvg-name="Sterk TV" tvg-logo="https://i.ytimg.com/vi/w3dwgM_bGPc/hqdefault_live.jpg" group-title="KURDI",Sterk TV
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/24.m3u8
+https://602ccc850c9bb.streamlock.net/sterktv/smil:sterk.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Chira TV" tvg-name="Chira TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQtPeOg4FfZ8ay2Qy0yV3RiJY8vAT5eV7CraT1ABuYh-19DC6Nr&usqp=CAU" group-title="KURDI",Chira TV
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/25.m3u8
+http://176.10.117.18:8000/play/a00f/index.m3u8
 
 #EXTINF:-1 tvg-id="Aryen TV" tvg-name="Aryen TV" tvg-logo="https://i.ytimg.com/vi/vjutmhNBeSw/hqdefault_live.jpg" group-title="KURDI",Aryen TV
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/47.m3u8
@@ -115,7 +112,7 @@ http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/47.m3u8
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/23.m3u8
 
 #EXTINF:-1 tvg-id="MED Muzik" tvg-name="MED Muzik" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRobv-eVmSQaAjjvGneE9G2I6Znf3gFk-PzGasuJZSvaMy5nKlE&usqp=CAU" group-title="KURDI",MED Muzik
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/29.m3u8
+http://137.74.205.201/medmuzik/MedStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TRT KURDI" tvg-name="TRT KURDI" tvg-logo="https://yt3.ggpht.com/-KIZfdNLeSsA/AAAAAAAAAAI/AAAAAAAAAAA/rcxImzP5npE/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="KURDI",TRT KURDI
 http://tv-trtkurdi.live.trt.com.tr/master.m3u8
