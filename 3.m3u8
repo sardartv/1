@@ -18,6 +18,9 @@ http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/54.m3u8
 #EXTINF:-1 tvg-id="Net TV" tvg-name="Net TV" tvg-logo="https://www.netkurd.tv/images/logo.png" group-title="KURDI",Net TV
 http://nettvstreampaid.flashmediacast.com:1935/nettvstreampaid/livestream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Net TV2" tvg-name="Net TV2" tvg-logo="https://www.netkurd.tv/images/logo.png" group-title="KURDI",Net TV2
+https://live.karwan.tv/karwan.tv/net-tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="AVA TV" tvg-name="AVA TV" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/dc/99/9c/dc999c2f-ebdf-81f9-c6a6-e6b1612b9fd4/source/512x512bb.jpg" group-title="KURDI",AVA TV
 http://wowzaprod219-i.akamaihd.net/hls/live/1003949/c9aa559e/playlist.m3u8
 
@@ -42,8 +45,11 @@ https://5aa8c7549bfa9.streamlock.net/music/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="4Kurd" tvg-name="4 Kurd" tvg-logo="" group-title="KURDI",4 Kurd
 http://51.210.199.28/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="Kurd Channel" tvg-name="Kurd Channel" tvg-logo="https://www.bing.com/images/search?view=detailV2&ccid=xT%2FL37C2&id=A0270604138E099A4BC2DE832CC035271E7062E2&thid=OIP.xT_L37C2DScCTcM7jj_kDAHaHa&mediaurl=https%3A%2F%2Fsc01.alicdn.com%2Fkf%2FHf3c6f9b5d718460ea67790fa186f44b3C%2F239088977%2FHf3c6f9b5d718460ea67790fa186f44b3C.jpg&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.c53fcbdfb0b60d27024dc33b8e3fe40c%3Frik%3D4mJwHic1wCyD3g%26pid%3DImgRaw%26r%3D0&exph=750&expw=750&q=Kurd+Channel&form=IRPRST&ck=3725F7572ECB33F270231333843C8046&selectedindex=6&ajaxhist=0&ajaxserp=0&pivotparams=insightsToken%3Dccid_D%252FyxaxmY*cp_805D46B7ED38352D3FE85F1084A6D290*mid_F3897650E56FEA8766CF561CA6A12A74301FBA1E*thid_OIP.D!_yxaxmYnQwb0qUs1u2vwAHaHa&vt=0&sim=11&iss=VSI&simid=608041281923390090&ajaxhist=0&ajaxserp=0" group-title="KURDI",Kurd Channel
+#EXTINF:-1 tvg-id="Kurd Channel" tvg-name="Kurd Channel" tvg-logo="" group-title="KURDI",Kurd Channel
 https://server12.ikomg.live/hls/kurd.m3u8
+
+#EXTINF:-1 tvg-id="VOA Kurd" tvg-name="VOA Kurd" tvg-logo="" group-title="KURDI",VOA Kurd
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/index_0360_av-b.m3u8
 
 #EXTINF:-1 tvg-id="Zagros TV" tvg-name="Zagros TV" tvg-logo="https://2.bp.blogspot.com/-t-rsDjRSIrc/Wgws1YH0glI/AAAAAAAAL1w/E268hS89j_oc36wcxlRQ-WqluIGle8E5wCLcBGAs/s1600/zagros%2Btv.png" group-title="KURDI",Zagros TV
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
