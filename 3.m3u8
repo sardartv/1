@@ -37,10 +37,10 @@ http://31.14.40.139:1935/liveTrans/SHOW1/playlist.m3u8
 https://5aa8c7549bfa9.streamlock.net/liveTrans/ngrp:SHOW1_all/chunklist_w1392315624_b1667072.m3u8
 
 #EXTINF:-1 tvg-id="KurdMax Music" tvg-name="KurdMax Music" tvg-logo="http://karwan.tv//logo/tv/kurdmax-music.png" group-title="KURDI",KurdMax Music
-http://31.14.40.139:1935/music/livestream/chunklist.m3u8
+https://5aa8c7549bfa9.streamlock.net/music/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KurdMax Music2" tvg-name="KurdMax Music2" tvg-logo="http://karwan.tv//logo/tv/kurdmax-music.png" group-title="KURDI",KurdMax Music2
-https://5aa8c7549bfa9.streamlock.net/music/livestream/playlist.m3u8
+http://31.14.40.139:1935/music/livestream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="4Kurd" tvg-name="4 Kurd" tvg-logo="" group-title="KURDI",4 Kurd
 http://51.210.199.28/hls/stream.m3u8
