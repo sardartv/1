@@ -179,6 +179,9 @@ https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e4
 #EXTINF:-1 tvg-id="MBC Drama Plus" tvg-name="MBC Drama Plus" tvg-logo="https://3.bp.blogspot.com/-XPUcnYi_hoY/V8GchfHu8YI/AAAAAAAAATM/huO-oWPZ-xIh4szT-iN4YKAGlBqpOVLGwCLcB/s1600/mbc%2Bdrama.png" group-title="ARABI",MBC Drama Plus
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
 
+#EXTINF:-1 tvg-id="OMG channel" tvg-name="OMG channel" tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/hd.png" group-title="ARABI",OMG channel
+http://media6.smc-host.com:1935/omgchannel.net/omgtv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RotanaPlus" tvg-name="Rotana+" tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/hd.png" group-title="ARABI",Rotana+ (1080p)
 https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8
 
@@ -208,6 +211,9 @@ https://iptv--iptv.repl.co/Arabic/SBC
 
 #EXTINF:-1 tvg-id="Canadian Arab TV" tvg-name="Canadian Arab TV" tvg-logo="https://assets.streamtest.in/logo/398/41_canadian-arab-tv.jpg?v=1542799446" group-title="ARABI",Canadian Arab TV
 http://142.112.39.133:8080/catv.mp4
+
+#EXTINF:-1 tvg-id="Ten TV" tvg-name="Ten TV" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/yazkC4P.png" group-title="ARABI",Ten TV
+https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
 
 #EXTINF:-1 tvg-id="WeyyakAction.ae" tvg-name="Weyyak Action" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://content.weyyak.com/207c8580-318d-ea11-831d-02d662556796/poster-image" group-title="ARABI",Weyyak Action (720p)
 https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
@@ -294,7 +300,7 @@ http://82.212.74.3:8000/live/7514.m3u8
 https://stream-speed.extremesolution.mobi/nogoumfm/nogoumfmlive/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NojoumTV.jo" tvg-name="Nojoum TV" tvg-country="JO" tvg-language="Arabic" tvg-logo="https://i.imgur.com/6ttWNu0.jpg" group-title="ARABI",Nojoum TV (720p)
-http://51.210.199.41/hls/stream.m3u8
+https://stream-speed.extremesolution.mobi/nogoumfm/nogoumfmlive/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Abu Dhabi" tvg-name="Abu Dhabi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdG201ou-3b2shULilHQN-M80IZJR0xbTReg&usqp=CAU" group-title="ARABI",Abu Dhabi
 https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
