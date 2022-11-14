@@ -55,7 +55,7 @@ http://51.210.199.28/hls/stream.m3u8
 https://server12.ikomg.live/hls/kurd.m3u8
 
 #EXTINF:-1 tvg-id="Kurd Channel" tvg-name="Kurd Channel" tvg-logo="" group-title="KURDI",Kurd Channel
-https://server12.ikomg.live/hls/kurd.m3u8
+https://kurd-channel.ikoflix.com/hls/kurd-channel.m3u8
 
 #EXTINF:-1 tvg-id="VOA Kurd" tvg-name="VOA Kurd" tvg-logo="" group-title="KURDI",VOA Kurd
 https://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/index_0360_av-b.m3u8
@@ -73,21 +73,12 @@ http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/52.m3u8
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/58.m3u8
 
 #EXTINF:-1 tvg-id="Gali Kurdistan" tvg-name="Gali Kurdistan" tvg-logo="http://www.mecast.com/images/GKSAT.jpg" group-title="KURDI",Gali Kurdistan
-http://51.75.66.91:8080/hls/gksat/1_2/index.m3u8
-
-#EXTINF:-1 tvg-id="Gali Kurdistan-2" tvg-name="Gali Kurdistan-2" tvg-logo="http://www.mecast.com/images/GKSAT.jpg" group-title="KURDI",Gali Kurdistan-2
-http://51.75.66.91:8080/gksat.mp4
+https://live.bradosti.net/live/GaliKurdistan/index.m3u8
 
 #EXTINF:-1 tvg-id="Kurdsat TV" tvg-name="Kurdsat TV" tvg-logo="https://gulf365.co/content/uploads/2019/02/03/f5bcbb977e.jpg" group-title="KURDI",Kurdsat TV
-http://ikomg2.s.llnwi.net/kurdsathd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Kurdsat TV2" tvg-name="Kurdsat TV2" tvg-logo="https://gulf365.co/content/uploads/2019/02/03/f5bcbb977e.jpg" group-title="KURDI",Kurdsat TV2
 http://ikomg2.mmdlive.lldns.net/ikomg2/366ca61db4c646a2bf9cd9f92dd6321c/chunklist_b3128000.m3u8
 
 #EXTINF:-1 tvg-id="Kurdsat News" tvg-name="Kurdsat News" tvg-logo="https://gulf365.co/content/uploads/2019/02/03/f5bcbb977e.jpg" group-title="KURDI",Kurdsat News
-http://ikomg2.s.llnwi.net/kurdsatnewshd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Kurdsat News-2" tvg-name="Kurdsat News-2" tvg-logo="https://gulf365.co/content/uploads/2019/02/03/f5bcbb977e.jpg" group-title="KURDI",Kurdsat News-2
 https://ikomg2.mmdlive.lldns.net/ikomg2/107b7df8f5444d778f349100739a09cd/manifest.m3u8
 
 #EXTINF:-1 tvg-id="Speda TV" tvg-name="Speda TV" tvg-logo="https://tvtolive.com/wp-content/uploads/Speda-TV-tvtolive.com_.jpg" group-title="KURDI",Speda TV
@@ -121,7 +112,7 @@ http://cdn.liveshell.net:1935/live/cihann/chunklist_w1313404272.m3u8
 http://137.74.205.201/medmuzik/MedStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TRT KURDI" tvg-name="TRT KURDI" tvg-logo="https://yt3.ggpht.com/-KIZfdNLeSsA/AAAAAAAAAAI/AAAAAAAAAAA/rcxImzP5npE/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="KURDI",TRT KURDI
-http://tv-trtkurdi.live.trt.com.tr/master.m3u8
+https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 
 -------------------------------------------------------------------ARABI----------------------------------------------------------------------------------------
 
