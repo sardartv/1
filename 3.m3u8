@@ -227,6 +227,9 @@ https://webcam.mosaiquefm.net:1936/mosatv/studio/playlist.m3u8
 #EXTINF:-1 tvg-id="Wanasah" tvg-name="Wanasah" tvg-logo="https://3.bp.blogspot.com/-p0nrWsiVb-4/WRDxpEFgL2I/AAAAAAAAF5w/V5X4GPrUcSwrUJ9drEpi6_ayUgEO1OJXACLcB/s1600/wanasah_tv.png" group-title="ARABI",Wanasah
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index_1.m3u8
 
+#EXTINF:-1 tvg-id="Arabica" tvg-name="Arabica" tvg-logo="" group-title="ARABI",Arabica
+http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Abu Dhabi" tvg-name="Abu Dhabi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdG201ou-3b2shULilHQN-M80IZJR0xbTReg&usqp=CAU" group-title="ARABI",Abu Dhabi
 https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
 
