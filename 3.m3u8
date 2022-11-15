@@ -155,9 +155,6 @@ http://188.247.86.66/RadioFann/Audio32/playlist.m3u8
 #EXTINF:-1 tvg-id="Canadian Arab TV" tvg-name="Canadian Arab TV" tvg-logo="https://assets.streamtest.in/logo/398/41_canadian-arab-tv.jpg?v=1542799446" group-title="ARABI",Canadian Arab TV
 http://live.catvmedia.ca:8080/hls/catv/index.m3u8
 
-#EXTINF:-1 tvg-id="Canadian Arab TV2" tvg-name="Canadian Arab TV2" tvg-logo="https://assets.streamtest.in/logo/398/41_canadian-arab-tv.jpg?v=1542799446" group-title="ARABI",Canadian Arab TV2
-http://142.112.39.133:8080/catv.mp4
-
 #EXTINF:-1 tvg-id="Ten TV" tvg-name="Ten TV" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/yazkC4P.png" group-title="ARABI",Ten TV
 https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
 
