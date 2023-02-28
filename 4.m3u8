@@ -9,3 +9,13 @@ https://stream.alkafeel.net/live/alkafeel/rAa5PGot1/manifest.m3u8
 #EXTINF:-1 tvg-id="Al-Naeem TV" tvg-name="Al-Naeem TV" tvg-logo="" group-title="Farsi",Al-Naeem TV
 https://nl2.livekadeh.com/hls2/alnaeem_high.m3u8
 
+#EXTINF:-1 tvg-id="Al-Bayyinat TV" tvg-name="Al-Bayyinat TV" tvg-logo="" group-title="Farsi",Al-Bayyinat TV
+https://nl2.livekadeh.com/hls2/Bayyinat_high.m3u8
+
+#EXTINF:-1 tvg-id="BeitolAbbas TV" tvg-name="BeitolAbbas TV" tvg-logo="" group-title="Farsi",BeitolAbbas TV
+https://live.beitolabbas.tv/live/beitolabbastv.m3u8
+
+#EXTINF:-1 tvg-id="Hadi TV" tvg-name="Hadi TV" tvg-logo="" group-title="Farsi",Hadi TV
+https://live.ishiacloud.com/haditv.co.uk/haditv4.m3u8
+
+
