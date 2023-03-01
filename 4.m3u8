@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-id="Imam Hussein TV 1" tvg-name="Imam Hussein TV 1" tvg-logo="" group-title="Farsi",Imam Hussein TV 1
 https://mn-nl.mncdn.com/ihtv1/ihtv1_hd.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Imam Hussein TV 2" tvg-name="Imam Hussein TV 2" tvg-logo="" group-title="Farsi",Imam Hussein TV 2
+https://mn-nl.mncdn.com/ihtv2/ihtv2_hd.smil/chunklist_b708000.m3u8
+
 #EXTINF:-1 tvg-id="Al-Kafeel TV" tvg-name="Al-Kafeel TV" tvg-logo="" group-title="Farsi",Al-Kafeel TV
 https://stream.alkafeel.net/live/alkafeel/rAa5PGot1/manifest.m3u8
 
@@ -18,4 +21,5 @@ https://live.beitolabbas.tv/live/beitolabbastv.m3u8
 #EXTINF:-1 tvg-id="Hadi TV" tvg-name="Hadi TV" tvg-logo="" group-title="Farsi",Hadi TV
 https://live.ishiacloud.com/haditv.co.uk/haditv4.m3u8
 
-
+#EXTINF:-1 tvg-id="Al-Quran TV" tvg-name="Al-Quran TV" tvg-logo="" group-title="Farsi",Al-Quran TV
+https://ktv.imamhussain.org/stream/hls/ch1.m3u8
