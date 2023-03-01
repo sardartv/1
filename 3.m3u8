@@ -84,7 +84,7 @@ https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 -------------------------------------------------------------------ARABI----------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="MAKAN 33" tvg-name="MAKAN 33" tvg-logo="http://webtvonlive.com/wp-content/uploads/Kan-33-webtvonlive-com.jpg" group-title="ARABI",MAKAN 33
-http://kanlivep2event-i.akamaihd.net/hls/live/747613/747613/master.m3u8
+https://makan.media.kan.org.il/hls/live/2024680/2024680/source1_4k/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Al Araby" tvg-name="Al Araby" tvg-logo="https://2.bp.blogspot.com/-O8UPEB_9WHw/WXSpaJ8aIYI/AAAAAAAANlY/FWqMwHeAu38y_9LJIFmu38c7zDm4hWWIwCLcBGAs/s1600/20246153_1977007455917734_5337068662698409573_n.jpg" group-title="ARABI",Al Araby
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
