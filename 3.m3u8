@@ -143,6 +143,9 @@ https://rotanastudios-rotanacomedy-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Rotana Khalijiah" tvg-name="Rotana Khalijiah" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/khalijiat.png" group-title="ARABI",Rotana Khalijia (1080p)
 https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index.m3u8
 
+#EXTINF:-1 tvg-id="Rotana Drama" tvg-name="Rotana Drama" tvg-logo="" group-title="ARABI",Rotana Drama
+https://dai.google.com/linear/hls/pa/event/LTh4MBRkRgaAb-mcTDJbJw/stream/b8afb50c-c80d-4aa3-ae66-6b0cbd7e036f:GRQ/variant/f87aaf9df66b02a1f13adfb603d70b0d/bandwidth/1482077.m3u8
+
 #EXTINF:-1 tvg-id="RotanaKids.sa" tvg-name="Rotana Kids" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/kids.png" group-title="ARABI",Rotana Kids (1080p)
 https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8
 
