@@ -6,20 +6,30 @@ https://mn-nl.mncdn.com/ihtv1/ihtv1_hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Imam Hussein TV 2" tvg-name="Imam Hussein TV 2" tvg-logo="" group-title="Farsi",Imam Hussein TV 2
 https://mn-nl.mncdn.com/ihtv2/ihtv2_hd.smil/chunklist_b708000.m3u8
 
+#EXTINF:-1 tvg-id="Beitolabbas TV" tvg-name="Beitolabbas TV" tvg-logo="" group-title="Farsi",Beitolabbas TV
+https://live.beitolabbas.tv/live/beitolabbastv.m3u8
+
 #EXTINF:-1 tvg-id="Al-Kafeel TV" tvg-name="Al-Kafeel TV" tvg-logo="" group-title="Farsi",Al-Kafeel TV
 https://stream.alkafeel.net/live/alkafeel/rAa5PGot1/manifest.m3u8
-
-#EXTINF:-1 tvg-id="Al-Naeem TV" tvg-name="Al-Naeem TV" tvg-logo="" group-title="Farsi",Al-Naeem TV
-https://nl2.livekadeh.com/hls2/alnaeem_high.m3u8
-
-#EXTINF:-1 tvg-id="Al-Bayyinat TV" tvg-name="Al-Bayyinat TV" tvg-logo="" group-title="Farsi",Al-Bayyinat TV
-https://nl2.livekadeh.com/hls2/Bayyinat_high.m3u8
-
-#EXTINF:-1 tvg-id="BeitolAbbas TV" tvg-name="BeitolAbbas TV" tvg-logo="" group-title="Farsi",BeitolAbbas TV
-https://live.beitolabbas.tv/live/beitolabbastv.m3u8
 
 #EXTINF:-1 tvg-id="Hadi TV" tvg-name="Hadi TV" tvg-logo="" group-title="Farsi",Hadi TV
 https://live.ishiacloud.com/haditv.co.uk/haditv4.m3u8
 
 #EXTINF:-1 tvg-id="Al-Quran TV" tvg-name="Al-Quran TV" tvg-logo="" group-title="Farsi",Al-Quran TV
 https://ktv.imamhussain.org/stream/hls/ch1.m3u8
+
+#EXTINF:-1 tvg-id="Al-Sirat TV" tvg-name="Al-Sirat TV" tvg-logo="" group-title="Farsi",Al-Sirat TV
+https://svs.itworkscdn.net/assiratvlive/assirat/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Al-Zahra TV" tvg-name="Al-Zahra TV" tvg-logo="" group-title="Farsi",Al-Zahra TV
+https://mn-nl.mncdn.com/alzahra/alzahra_hd.smil/chunklist_b708000.m3u8
+
+#EXTINF:-1 tvg-id="Al-Asil TV" tvg-name="Al-Asil TV" tvg-logo="" group-title="Farsi",Al-Asil TV
+http://212.86.76.85/live/asil.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="Al-Iman TV" tvg-name="Al-Iman TV" tvg-logo="" group-title="Farsi",Al-Iman TV
+https://svs.itworkscdn.net/alimanlive/imantv.smil/alimanpublish/imantv/chunks.m3u8
