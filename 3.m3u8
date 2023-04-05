@@ -147,7 +147,7 @@ https://rotanastudios-rotanacomedy-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Rotana Khalijiah" tvg-name="Rotana Khalijiah" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/khalijiat.png" group-title="ARABI",Rotana Khalijia (1080p)
 https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index.m3u8
 
-#EXTINF:-1 tvg-id="Rotana Drama" tvg-name="Rotana Drama" tvg-logo="" group-title="ARABI",Rotana Drama
+#EXTINF:-1 tvg-id="Rotana Drama TV" tvg-name="Rotana Drama TV" tvg-logo="" group-title="ARABI",Rotana Drama TV
 https://dai.google.com/linear/hls/pa/event/LTh4MBRkRgaAb-mcTDJbJw/stream/b8afb50c-c80d-4aa3-ae66-6b0cbd7e036f:GRQ/variant/f87aaf9df66b02a1f13adfb603d70b0d/bandwidth/1482077.m3u8
 
 #EXTINF:-1 tvg-id="RotanaKids.sa" tvg-name="Rotana Kids" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/kids.png" group-title="ARABI",Rotana Kids (1080p)
@@ -156,7 +156,7 @@ https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677
 #EXTINF:-1 tvg-id="RotanaRadio" tvg-name="Rotana Radio" tvg-logo="http://service.mobile.rotanaradio.jo/sites/default/files/studio.png" group-title="ARABI",Rotana Radio (220p)
 http://188.247.86.66/RotanaRadio/OnAirStudio1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Rotana Music" tvg-name="Rotana Music" tvg-logo="" group-title="ARABI",Rotana Music
+#EXTINF:-1 tvg-id="Rotana Music TV" tvg-name="Rotana Music TV" tvg-logo="" group-title="ARABI",Rotana Music TV
 https://dai.google.com/linear/hls/pa/event/zucIDa11STqipyr8-WPsTw/stream/847a5c9a-82b6-45f5-b27f-32952402d769:GRQ/variant/215021ca12f2da341b681f3b879db09a/bandwidth/1538470.m3u8
 
 #EXTINF:-1 tvg-id="Rotana Tarab Jordan" tvg-name="Rotana Tarab Jordan" tvg-logo="" group-title="ARABI",Rotana Tarab Jordan
@@ -206,6 +206,9 @@ https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunk
 
 #EXTINF:-1 tvg-id="Dubai Zaman" tvg-name="Dubai Zaman" tvg-logo="http://www.dmi.gov.ae/images/logos-new/Dubai-Zaman.png" group-title="ARABI",Dubai Zaman
 https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Aghani" tvg-name="Aghani" tvg-logo="" group-title="ARABI",Aghani
+http://149.62.177.115:8000/play/a035/index.m3u8
 
 #EXTINF:-1 tvg-id="MosaiqueFM.tn" tvg-name="Mosaïque FM" tvg-logo="https://www.mosaiquefm.net/images/front2020/logoar.png" group-title="ARABI",Mosaïque FM (480p)
 https://webcam.mosaiquefm.net:1936/mosatv/studio/playlist.m3u8
