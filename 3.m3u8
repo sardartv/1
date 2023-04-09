@@ -85,6 +85,10 @@ http://137.74.205.201/medmuzik/MedStream/playlist.m3u8
 #EXTINF:-1 tvg-id="TRT KURDI" tvg-name="TRT KURDI" tvg-logo="https://yt3.ggpht.com/-KIZfdNLeSsA/AAAAAAAAAAI/AAAAAAAAAAA/rcxImzP5npE/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="KURDI",TRT KURDI
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 
+#EXTINF:-1 tvg-id="Radio Muzieki Kurdi" tvg-name="Radio Muzieki Kurdi" tvg-logo="" group-title="KURDI",Radio Muzieki Kurdi
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681077216/ei/gN8yZNemNpi01gKRlIjgAw/ip/2001%3A1c00%3A250e%3A5f00%3A28f3%3A2f04%3Ab2dd%3Add08/id/rug0P1Eufzk.1/source/yt_live_broadcast/requiressl/yes/tx/24428418/txs/24428414%2C24428415%2C24428416%2C24428417%2C24428418%2C24428419%2C24428420/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAILXDX8PsNC_kqitFVpZFtZOFdplhSPf07_msrT5BkP0AiAddUJ6De9Hejcs20SKCYNoJ92YXhm7LSgYkMBNt-tSLg%3D%3D/file/index.m3u8
+
+
 -------------------------------------------------------------------ARABI----------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="MAKAN 33" tvg-name="MAKAN 33" tvg-logo="http://webtvonlive.com/wp-content/uploads/Kan-33-webtvonlive-com.jpg" group-title="ARABI",MAKAN 33
