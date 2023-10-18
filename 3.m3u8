@@ -19,14 +19,17 @@ http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/54.m3u8
 #EXTINF:-1 tvg-id="AVA TV" tvg-name="AVA TV" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/dc/99/9c/dc999c2f-ebdf-81f9-c6a6-e6b1612b9fd4/source/512x512bb.jpg" group-title="KURDI",AVA TV
 https://cdn3.wowza.com/1/OWNQVXVWc0dQclJz/RXJPdHJx/hls/live/playlist.m3u8
 
+#EXTINF:-1 tvg-id="KMC TV" tvg-name="KMC TV" tvg-logo="" group-title="KURDI",KMC TV
+https://kmchls.wns.live/hls/stream.m3u8
+
 #EXTINF:-1 tvg-id="Mix kurdish" tvg-name="Mix kurdish" tvg-logo="" group-title="KURDI",Mix kurdish
 http://217.74.16.163:9590/live/mixkurdish/video.m3u8
 
 #EXTINF:-1 tvg-id="KurdMax" tvg-name="KurdMax" tvg-logo="https://pbs.twimg.com/profile_images/576732364073635840/Y2MTa6As.png" group-title="KURDI",KurdMax
-https://5aa8c7549bfa9.streamlock.net/liveTrans/_definst_/KurdmaxS0rani!/chunklist_w342450717.m3u8
+https://6476e46b58f91.streamlock.net/liveTrans/KurdmaxS0rani!/chunklist_w863153518.m3u8
 
 #EXTINF:-1 tvg-id="KurdMax Show" tvg-name="KurdMax Show" tvg-logo="https://i.ytimg.com/vi/ZV-yXB9wgyA/hqdefault.jpg" group-title="KURDI",KurdMax Show
-http://31.14.40.139:1935/liveTrans/SHOW1/playlist.m3u8
+https://6476e46b58f91.streamlock.net/liveTrans/SHOW1/chunklist_w2067366114.m3u8
 
 #EXTINF:-1 tvg-id="KurdMax Music" tvg-name="KurdMax Music" tvg-logo="http://karwan.tv//logo/tv/kurdmax-music.png" group-title="KURDI",KurdMax Music
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681072477/ei/_cwyZPPbINqe1gLf26uoBA/ip/2001%3A1c00%3A250e%3A5f00%3A28f3%3A2f04%3Ab2dd%3Add08/id/9tdRzgWSdq4.1/source/yt_live_broadcast/requiressl/yes/tx/24428418/txs/24428414%2C24428415%2C24428416%2C24428417%2C24428418%2C24428419%2C24428420/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgPs3eD047swwA9IDEep-mQvncFug-Zd4ITIF-2jAXEPgCIQDLYU9rx52_BTd1QHA3aKzyyewb8LIH7w9TyG1lGHqadQ%3D%3D/file/index.m3u8
@@ -47,7 +50,7 @@ https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Waar TV" tvg-name="Waar TV" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/iq-waar-tv-6114.jpg" group-title="KURDI",Waar TV
-http://198.100.158.231:1935/live/waartv/chunklist_w496960662.m3u8
+https://ikomg4.s.llnwi.net/waarhd/waar-hd.m3u8
 
 #EXTINF:-1 tvg-id="Kirkuk TV" tvg-name="Kirkuk TV" tvg-logo="https://karwan.tv/wp-content/uploads/2020/03/kirkuk-tv-2.jpg" group-title="KURDI",Kirkuk TV
 https://5ab29cc78f681.streamlock.net/IHTV/livestream/playlist.m3u8
@@ -62,7 +65,7 @@ http://ikomg2.mmdlive.lldns.net/ikomg2/366ca61db4c646a2bf9cd9f92dd6321c/chunklis
 https://ikomg2.mmdlive.lldns.net/ikomg2/107b7df8f5444d778f349100739a09cd/manifest.m3u8
 
 #EXTINF:-1 tvg-id="Speda TV" tvg-name="Speda TV" tvg-logo="https://tvtolive.com/wp-content/uploads/Speda-TV-tvtolive.com_.jpg" group-title="KURDI",Speda TV
-http://cdn.dwasat.com:1935/live/speda084k/playlist.m3u8
+https://speda.dwasat.com/upload/images/spedahd.m3u8
 
 #EXTINF:-1 tvg-id="Payam TV" tvg-name="Payam TV" tvg-logo="https://pbs.twimg.com/profile_images/1114550938252062723/V9qxC9P3.png" group-title="KURDI",Payam TV
 https://5ab29cc78f681.streamlock.net/PayamTV/livestream/playlist.m3u8
@@ -75,6 +78,9 @@ https://live.ishiacloud.com/haditv.co.uk/haditv7.m3u8
 
 #EXTINF:-1 tvg-id="Afarin TV" tvg-name="Afarin TV" tvg-logo="https://yt3.ggpht.com/a/AATXAJyNmQaoPVLDX25TJEdOjA0k1oDCkujA_9i4UA=s900-c-k-c0xffffffff-no-rj-mo" group-title="KURDI",Afarin TV
 https://5ab29cc78f681.streamlock.net/afarinTV/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Ronahi TV" tvg-name="Ronahi TV" tvg-logo="https://ronahi.tv/wp-content/uploads/2019/10/R-LOGO.png" group-title="KURDI",Ronahi TV
+https://ikomg1.s.llnwi.net/ronahi-tv/ronahi-tv.m3u8
 
 #EXTINF:-1 tvg-id="Sterk TV" tvg-name="Sterk TV" tvg-logo="https://i.ytimg.com/vi/w3dwgM_bGPc/hqdefault_live.jpg" group-title="KURDI",Sterk TV
 https://muzkurd.com/sterktv/sterk/playlist.m3u8
