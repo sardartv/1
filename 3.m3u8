@@ -32,7 +32,7 @@ https://6476e46b58f91.streamlock.net/liveTrans/KurdmaxS0rani!/chunklist_w8631535
 https://6476e46b58f91.streamlock.net/liveTrans/SHOW1/chunklist_w2067366114.m3u8
 
 #EXTINF:-1 tvg-id="KurdMax Music" tvg-name="KurdMax Music" tvg-logo="http://karwan.tv//logo/tv/kurdmax-music.png" group-title="KURDI",KurdMax Music
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681072477/ei/_cwyZPPbINqe1gLf26uoBA/ip/2001%3A1c00%3A250e%3A5f00%3A28f3%3A2f04%3Ab2dd%3Add08/id/9tdRzgWSdq4.1/source/yt_live_broadcast/requiressl/yes/tx/24428418/txs/24428414%2C24428415%2C24428416%2C24428417%2C24428418%2C24428419%2C24428420/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgPs3eD047swwA9IDEep-mQvncFug-Zd4ITIF-2jAXEPgCIQDLYU9rx52_BTd1QHA3aKzyyewb8LIH7w9TyG1lGHqadQ%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1697675702/ei/ViUwZaf5D4qs6dsPpqW7mAk/ip/2a02%3Aa467%3A8d1a%3A1%3Aedb7%3A8741%3Acfe9%3A2a9f/id/Pm8bnJG-u90.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f0Wpa2Iy2_5BISRRuF27mQ8mzxdu4V3yf9X2NF6mYLQLYm8NoeU/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AGM4YrMwRQIhANxqtRSP_oYE4tR3-2f4t5UOi4Uf5KK45K26GYaQUNd7AiBiLkrgass4JUMHox-dvJ_Cz5gXTcTolnZpS89b6a-pVw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="KurdMax Music2" tvg-name="KurdMax Music2" tvg-logo="http://karwan.tv//logo/tv/kurdmax-music.png" group-title="KURDI",KurdMax Music2
 https://5aa8c7549bfa9.streamlock.net/music/livestream/playlist.m3u8
@@ -76,6 +76,10 @@ https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZ
 #EXTINF:-1 tvg-id="Hadi TV-Kurdi" tvg-name="Hadi TV-Kurdi" tvg-logo="https://pbs.twimg.com/profile_images/1114550938252062723/V9qxC9P3.png" group-title="KURDI",Hadi TV-Kurdi
 https://live.ishiacloud.com/haditv.co.uk/haditv7.m3u8
 
+#EXTINF:-1 tvg-id="Zarok TV" tvg-name="Zarok TV" tvg-logo="https://yt3.googleusercontent.com/Uv04dAMm9wZGKvRuKcPHmF70zOHLVKqFlEODjz4yzEX4x4mKS-B_Iqt-kNfRZaE2QYo44RZTtg=s900-c-k-c0x00ffffff-no-rj" group-title="KURDI",Zarok TV
+https://stream-10.ix7.dailymotion.com/sec(Xio92lQyFXPlwj6tYdjikguI1abR24Jje09fCNOIeDaMpN0AbdtQr1AA28DTPDFs)/dm/3/x63b9ty/s/live-1.m3u8
+
+
 #EXTINF:-1 tvg-id="Afarin TV" tvg-name="Afarin TV" tvg-logo="https://yt3.ggpht.com/a/AATXAJyNmQaoPVLDX25TJEdOjA0k1oDCkujA_9i4UA=s900-c-k-c0xffffffff-no-rj-mo" group-title="KURDI",Afarin TV
 https://5ab29cc78f681.streamlock.net/afarinTV/livestream/playlist.m3u8
 
@@ -83,17 +87,13 @@ https://5ab29cc78f681.streamlock.net/afarinTV/livestream/playlist.m3u8
 https://ikomg1.s.llnwi.net/ronahi-tv/ronahi-tv.m3u8
 
 #EXTINF:-1 tvg-id="Sterk TV" tvg-name="Sterk TV" tvg-logo="https://i.ytimg.com/vi/w3dwgM_bGPc/hqdefault_live.jpg" group-title="KURDI",Sterk TV
-https://muzkurd.com/sterktv/sterk/playlist.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1697670912/ei/oBIwZfSoAfSC4gH69p64Cg/ip/2a02%3Aa467%3A8d1a%3A1%3Aedb7%3A8741%3Acfe9%3A2a9f/id/s41PWdZK-_A.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f5NxGKzoPBDnXzOSRSIYuJ-79qmiihg4TcRkQHlXM3qp0BKA9iQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AGM4YrMwRQIgOF01Uh4qmuYTW_j80kjxSIEdybLcnqIP38R4IVz0YiwCIQD8irrQhA8U6Af_ghSzm9xzey6NZPcwFIb5z_01gP-TCQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="MED Muzik" tvg-name="MED Muzik" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRobv-eVmSQaAjjvGneE9G2I6Znf3gFk-PzGasuJZSvaMy5nKlE&usqp=CAU" group-title="KURDI",MED Muzik
 http://137.74.205.201/medmuzik/MedStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TRT KURDI" tvg-name="TRT KURDI" tvg-logo="https://yt3.ggpht.com/-KIZfdNLeSsA/AAAAAAAAAAI/AAAAAAAAAAA/rcxImzP5npE/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="KURDI",TRT KURDI
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-id="Radio Muzieki Kurdi" tvg-name="Radio Muzieki Kurdi" tvg-logo="" group-title="KURDI",Radio Muzieki Kurdi
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681077216/ei/gN8yZNemNpi01gKRlIjgAw/ip/2001%3A1c00%3A250e%3A5f00%3A28f3%3A2f04%3Ab2dd%3Add08/id/rug0P1Eufzk.1/source/yt_live_broadcast/requiressl/yes/tx/24428418/txs/24428414%2C24428415%2C24428416%2C24428417%2C24428418%2C24428419%2C24428420/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAILXDX8PsNC_kqitFVpZFtZOFdplhSPf07_msrT5BkP0AiAddUJ6De9Hejcs20SKCYNoJ92YXhm7LSgYkMBNt-tSLg%3D%3D/file/index.m3u8
-
 
 -------------------------------------------------------------------ARABI----------------------------------------------------------------------------------------
 
@@ -203,7 +203,7 @@ https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc2/m3u8/sdi2-720p.m3u8
 
 #EXTINF:-1 tvg-id="RoyaTV.jo" tvg-name="Roya TV" tvg-country="JO" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Sa2nBTP.png" group-title="ARABI",Roya TV (720p)
-https://weyyak-live.akamaized.net/weyyak_roya/index.m3u8
+https://royatv-live.daioncdn.net/royatv/royatv_480p.m3u8
 
 #EXTINF:-1 tvg-id="Dubai One" tvg-name="Dubai One" tvg-logo="http://www.digitalstudiome.com/pictures/Dubai%20One%20Logo.jpg" group-title="ARABI",Dubai One
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
