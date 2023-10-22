@@ -70,15 +70,8 @@ https://speda.dwasat.com/upload/images/spedahd.m3u8
 #EXTINF:-1 tvg-id="Payam TV" tvg-name="Payam TV" tvg-logo="https://pbs.twimg.com/profile_images/1114550938252062723/V9qxC9P3.png" group-title="KURDI",Payam TV
 https://5ab29cc78f681.streamlock.net/PayamTV/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Amozhgary TV" tvg-name="Amozhgary TV" tvg-logo="https://www.bing.com/images/search?view=detailV2&ccid=ZpsMIESn&id=AD9219BC0D7F6D358052A9BF43DDB98698333644&thid=OIP.ZpsMIESnfIUh3INtOHPzSQHaEK&mediaurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.669b0c2044a77c8521dc836d3873f349%3frik%3dRDYzmIa53UO%252fqQ%26riu%3dhttp%253a%252f%252fkurtcetvizle.com%252fwp-content%252fuploads%252f2014%252f02%252fAmozhgaryTv.jpg%26ehk%3dQCJ%252fA6xt2%252fBnsNxTqkS80MM%252b4IDsn6xMsHntwiCfUbs%253d%26risl%3d%26pid%3dImgRaw%26r%3d0&exph=348&expw=620&q=amozhgary+tv&simid=608006870647574417&FORM=IRPRST&ck=793091F8FB8A095CD19F4BAA92B86322&selectedIndex=4&ajaxhist=0&ajaxserp=0" group-title="KURDI",Amozhgary TV
-https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiJhMWIwMmMwZDY5MzlmZmY2ODc3NTg4YzE2MzdmNWFlYSIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNjY4NTkzNjA4LCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.hrkhW_TtzhCJ2wChjOHGQ4ADFIq_KgGu9rHe1GiPs4BP0pzPOjjBAZN-CjAHofiYGPPz4B0j-ad2q7Vgogio1o10RyDr3usJTs3biV4oJYqF9VWckAFQ89fIAPJgE6kGrwCAlQPVc2_wveK0F6K3O-0sGZ8r-cKPPC6ANwpkHdgi-jG5XYChnpH59iv_nOBY588V--WoqtgvGAEwgCotiWNySnOZu50BSRb_b0BVroUC2SYqCokKU6uUXETvSPJ_qWJUqG_pWpsCPLKk59k9t7qAXQLf-PVU3_rrH4ZD6iPApE3m2GXhnZNVstOuhrRKyq9wsys6rH_RHoCdvp0BKg/manifest/video.m3u8
-
 #EXTINF:-1 tvg-id="Hadi TV-Kurdi" tvg-name="Hadi TV-Kurdi" tvg-logo="https://pbs.twimg.com/profile_images/1114550938252062723/V9qxC9P3.png" group-title="KURDI",Hadi TV-Kurdi
 https://live.ishiacloud.com/haditv.co.uk/haditv7.m3u8
-
-#EXTINF:-1 tvg-id="Zarok TV" tvg-name="Zarok TV" tvg-logo="https://yt3.googleusercontent.com/Uv04dAMm9wZGKvRuKcPHmF70zOHLVKqFlEODjz4yzEX4x4mKS-B_Iqt-kNfRZaE2QYo44RZTtg=s900-c-k-c0x00ffffff-no-rj" group-title="KURDI",Zarok TV
-https://stream-10.ix7.dailymotion.com/sec(Xio92lQyFXPlwj6tYdjikguI1abR24Jje09fCNOIeDaMpN0AbdtQr1AA28DTPDFs)/dm/3/x63b9ty/s/live-1.m3u8
-
 
 #EXTINF:-1 tvg-id="Afarin TV" tvg-name="Afarin TV" tvg-logo="https://yt3.ggpht.com/a/AATXAJyNmQaoPVLDX25TJEdOjA0k1oDCkujA_9i4UA=s900-c-k-c0xffffffff-no-rj-mo" group-title="KURDI",Afarin TV
 https://5ab29cc78f681.streamlock.net/afarinTV/livestream/playlist.m3u8
@@ -87,10 +80,7 @@ https://5ab29cc78f681.streamlock.net/afarinTV/livestream/playlist.m3u8
 https://ikomg1.s.llnwi.net/ronahi-tv/ronahi-tv.m3u8
 
 #EXTINF:-1 tvg-id="Sterk TV" tvg-name="Sterk TV" tvg-logo="https://i.ytimg.com/vi/w3dwgM_bGPc/hqdefault_live.jpg" group-title="KURDI",Sterk TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1697670912/ei/oBIwZfSoAfSC4gH69p64Cg/ip/2a02%3Aa467%3A8d1a%3A1%3Aedb7%3A8741%3Acfe9%3A2a9f/id/s41PWdZK-_A.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f5NxGKzoPBDnXzOSRSIYuJ-79qmiihg4TcRkQHlXM3qp0BKA9iQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AGM4YrMwRQIgOF01Uh4qmuYTW_j80kjxSIEdybLcnqIP38R4IVz0YiwCIQD8irrQhA8U6Af_ghSzm9xzey6NZPcwFIb5z_01gP-TCQ%3D%3D/file/index.m3u8
-
-#EXTINF:-1 tvg-id="MED Muzik" tvg-name="MED Muzik" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRobv-eVmSQaAjjvGneE9G2I6Znf3gFk-PzGasuJZSvaMy5nKlE&usqp=CAU" group-title="KURDI",MED Muzik
-http://137.74.205.201/medmuzik/MedStream/playlist.m3u8
+https://muzkurd.com/sterktv/sterk/chunklist_w686573873.m3u8
 
 #EXTINF:-1 tvg-id="TRT KURDI" tvg-name="TRT KURDI" tvg-logo="https://yt3.ggpht.com/-KIZfdNLeSsA/AAAAAAAAAAI/AAAAAAAAAAA/rcxImzP5npE/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="KURDI",TRT KURDI
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
@@ -172,36 +162,6 @@ https://dai.google.com/linear/hls/pa/event/zucIDa11STqipyr8-WPsTw/stream/847a5c9
 #EXTINF:-1 tvg-id="Rotana Tarab Jordan" tvg-name="Rotana Tarab Jordan" tvg-logo="" group-title="ARABI",Rotana Tarab Jordan
 http://188.247.86.66/RadioFann/Audio32/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canadian Arab TV" tvg-name="Canadian Arab TV" tvg-logo="https://assets.streamtest.in/logo/398/41_canadian-arab-tv.jpg?v=1542799446" group-title="ARABI",Canadian Arab TV
-http://live.catvmedia.ca:8080/hls/catv/index.m3u8
-
-#EXTINF:-1 tvg-id="Ten TV" tvg-name="Ten TV" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/yazkC4P.png" group-title="ARABI",Ten TV
-https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
-
-#EXTINF:-1 tvg-id="WeyyakAction.ae" tvg-name="Weyyak Action" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://content.weyyak.com/207c8580-318d-ea11-831d-02d662556796/poster-image" group-title="ARABI",Weyyak Action (720p)
-https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
-
-#EXTINF:-1 tvg-id="WeyyakDrama.ae" tvg-name="Weyyak Drama" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://content.weyyak.com/d995517f-bc87-ea11-831d-02d662556796/poster-image" group-title="ARABI",Weyyak Drama (720p)
-https://weyyak-live.akamaized.net/weyyak_drama/index.m3u8
-
-#EXTINF:-1 tvg-id="WeyyakMix.ae" tvg-name="Weyyak Mix" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://content.weyyak.com/bc777336-328d-ea11-831d-02d662556796/poster-image" group-title="ARABI",Weyyak Mix (720p)
-https://weyyak-live.akamaized.net/weyyak_mix/index.m3u8
-
-#EXTINF:-1 tvg-id="WeyyakNawaem.ae" tvg-name="Weyyak Nawaem" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://content.weyyak.com/d867c2e9-328d-ea11-831d-02d662556796/poster-image" group-title="ARABI",Weyyak Nawaem (720p)
-https://weyyak-live.akamaized.net/weyyak_nawaem/index.m3u8
-
-#EXTINF:-1 tvg-id="ZeeAflam.ae" tvg-name="Zee Aflam" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://content.weyyak.com/5a7c9610-5562-407b-b711-f31ce6267786/poster-image" group-title="ARABI",Zee Aflam (720p)
-https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
-
-#EXTINF:-1 tvg-id="ZeeAlwan.ae" tvg-name="Zee Alwan" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://content.weyyak.com/25a860af-4bbc-4289-8e1f-b3bed0dcc64a/poster-image" group-title="ARABI",Zee Alwan (720p)
-https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
-
-#EXTINF:-1 tvg-id="LanaTV.sy" tvg-name="Lana TV" tvg-country="SY" tvg-language="Arabic" tvg-logo="https://lanacanal.tv/lana/wp-content/uploads/2021/07/LTV-final-logo-150x150.png" group-title="ARABI",Lana TV (720p)
-https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3u8
-
-#EXTINF:-1 tvg-id="LanaTVPlus.sy" tvg-name="Lana TV Plus" tvg-country="SY" tvg-language="Arabic" tvg-logo="https://lanacanal.tv/LanaTVPlus/wp-content/uploads/2021/07/LTV-logo_Approved04-2-150x150.png" group-title="ARABI",Lana TV Plus (720p)
-https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc2/m3u8/sdi2-720p.m3u8
-
 #EXTINF:-1 tvg-id="RoyaTV.jo" tvg-name="Roya TV" tvg-country="JO" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Sa2nBTP.png" group-title="ARABI",Roya TV (720p)
 https://royatv-live.daioncdn.net/royatv/royatv_480p.m3u8
 
@@ -250,9 +210,6 @@ https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Dijlah TV" tvg-name="Dijlah TV" tvg-logo="https://palsawa.com/img/ns0tn.jpg" group-title="ARABI",Dijlah TV
 https://ghaasiflu.online/Dijlah/index.m3u8
 
-#EXTINF:-1 tvg-id="Dijlah TV2" tvg-name="Dijlah TV2" tvg-logo="https://palsawa.com/img/ns0tn.jpg" group-title="ARABI",Dijlah TV2
-http://91.134.145.75:10001/Dijlah/index.m3u8
-
 #EXTINF:-1 tvg-id="Al Sharqiya" tvg-name="Al Sharqiya" tvg-logo="http://burathanews.com/uploads/image/article/388-0/2014-Jun-15-539d927d44be5.jpeg" group-title="ARABI",Al Sharqiya
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
 
@@ -264,9 +221,6 @@ https://media1.livaat.com/AL-RASHEED-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="Alhiwar" tvg-name="Alhiwar" tvg-logo="https://photosarab.com/wp-content/uploads/mic_logo_bug.jpg" group-title="ARABI",Alhiwar
 https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Amman TV" tvg-name="Amman TV" tvg-logo="https://pbs.twimg.com/profile_images/1009020527002955776/Yvo8OyfR_400x400.jpg" group-title="ARABI",Amman TV
-https://ammantv.c.s73cdn.net/23153d43-375a-472a-bc5f-9827582b5d22/elemental/live/master.m3u8
 
 #EXTINF:-1 tvg-id="OMAN TV" tvg-name="OMAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Saghhjjdegh.jpg" group-title="ARABI",OMAN TV
 http://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/playlist.m3u8
