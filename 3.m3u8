@@ -35,7 +35,7 @@ https://6476e46b58f91.streamlock.net/liveTrans/SHOW1/chunklist_w2067366114.m3u8
 https://6476e46b58f91.streamlock.net/music/livestream/chunklist_w1204678438.m3u8
 
 #EXTINF:-1 tvg-id="4 Kurd" tvg-name="4 Kurd" tvg-logo="" group-title="KURDI",4 Kurd
-http://51.210.199.28/hls/stream.m3u8
+https://4kuhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="Kurd Channel" tvg-name="Kurd Channel" tvg-logo="" group-title="KURDI",Kurd Channel
 https://kurd-channel.ikoflix.com/hls/kurd-channel.m3u8
@@ -65,7 +65,7 @@ https://ikomg2.mmdlive.lldns.net/ikomg2/107b7df8f5444d778f349100739a09cd/manifes
 https://speda.dwasat.com/upload/images/spedahd.m3u8
 
 #EXTINF:-1 tvg-id="Payam TV" tvg-name="Payam TV" tvg-logo="https://pbs.twimg.com/profile_images/1114550938252062723/V9qxC9P3.png" group-title="KURDI",Payam TV
-https://5ab29cc78f681.streamlock.net/PayamTV/livestream/playlist.m3u8
+https://media2.streambrothers.com:1936/8218/8218/chunklist_w745300019.m3u8
 
 #EXTINF:-1 tvg-id="Hadi TV-Kurdi" tvg-name="Hadi TV-Kurdi" tvg-logo="https://pbs.twimg.com/profile_images/1114550938252062723/V9qxC9P3.png" group-title="KURDI",Hadi TV-Kurdi
 https://live.ishiacloud.com/haditv.co.uk/haditv7.m3u8
@@ -113,9 +113,6 @@ https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462
 
 #EXTINF:-1 tvg-id="MBC Masr1" tvg-name="MBC Masr1" tvg-logo="https://i.pinimg.com/originals/3d/e9/8e/3de98e6cd6e92d62838bf9a24830b05e.png" group-title="ARABI",MBC Masr1
 https://shls-live-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_34.m3u8
-
-#EXTINF:-1 tvg-id="MBC Masr1-USA" tvg-name="MBC Masr1-USA" tvg-logo="https://i.pinimg.com/originals/3d/e9/8e/3de98e6cd6e92d62838bf9a24830b05e.png" group-title="ARABI",MBC Masr1-USA
-https://shls-mbc-masr-usa-prod.shahid.net/out/v1/d4fded7d5df04b88b9ea1db61d00f095/index.m3u8
 
 #EXTINF:-1 tvg-id="MBC Masr2" tvg-name="MBC Masr2" tvg-logo="https://pbs.twimg.com/profile_images/531362651599687680/1Y4VkRed.jpeg" group-title="ARABI",MBC Masr2
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
