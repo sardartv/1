@@ -13,6 +13,9 @@ https://d1x82nydcxndze.cloudfront.net/live/index_360p25.m3u8
 #EXTINF:-1 tvg-id="NRT TV" tvg-name="NRT TV" tvg-logo="http://www.livenewson.com/wp-content/uploads/2015/12/NRT.png" group-title="KURDI",NRT TV
 https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
 
+#EXTINF:-1 tvg-id="NRT2 TV" tvg-name="NRT2 TV" tvg-logo="http://www.livenewson.com/wp-content/uploads/2015/12/NRT.png" group-title="KURDI",NRT2 TV
+https://glwizhhls22.glwiz.com/NRT2/NRT2_Low.m3u8?user=sgls4zvoosnlvwuic3owrofgukud&session=4a64b1669e48ae0e89b7e4c2995b0cdf9f882e68063d97978d97e17d49507573c941c47fe669dbd4a33248e7600c7193ff980221a1866aa5&hlsid=HTTP_ID_198660
+
 #EXTINF:-1 tvg-id="AVA TV" tvg-name="AVA TV" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/dc/99/9c/dc999c2f-ebdf-81f9-c6a6-e6b1612b9fd4/source/512x512bb.jpg" group-title="KURDI",AVA TV
 https://cdn3.wowza.com/1/OWNQVXVWc0dQclJz/RXJPdHJx/hls/live/playlist.m3u8
 
@@ -29,10 +32,7 @@ https://6476e46b58f91.streamlock.net/liveTrans/KurdmaxS0rani!/chunklist_w8631535
 https://6476e46b58f91.streamlock.net/liveTrans/SHOW1/chunklist_w2067366114.m3u8
 
 #EXTINF:-1 tvg-id="KurdMax Music" tvg-name="KurdMax Music" tvg-logo="http://karwan.tv//logo/tv/kurdmax-music.png" group-title="KURDI",KurdMax Music
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1697675702/ei/ViUwZaf5D4qs6dsPpqW7mAk/ip/2a02%3Aa467%3A8d1a%3A1%3Aedb7%3A8741%3Acfe9%3A2a9f/id/Pm8bnJG-u90.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f0Wpa2Iy2_5BISRRuF27mQ8mzxdu4V3yf9X2NF6mYLQLYm8NoeU/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AGM4YrMwRQIhANxqtRSP_oYE4tR3-2f4t5UOi4Uf5KK45K26GYaQUNd7AiBiLkrgass4JUMHox-dvJ_Cz5gXTcTolnZpS89b6a-pVw%3D%3D/file/index.m3u8
-
-#EXTINF:-1 tvg-id="KurdMax Music2" tvg-name="KurdMax Music2" tvg-logo="http://karwan.tv//logo/tv/kurdmax-music.png" group-title="KURDI",KurdMax Music2
-https://5aa8c7549bfa9.streamlock.net/music/livestream/playlist.m3u8
+https://6476e46b58f91.streamlock.net/music/livestream/chunklist_w1204678438.m3u8
 
 #EXTINF:-1 tvg-id="4 Kurd" tvg-name="4 Kurd" tvg-logo="" group-title="KURDI",4 Kurd
 http://51.210.199.28/hls/stream.m3u8
