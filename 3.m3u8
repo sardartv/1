@@ -13,9 +13,6 @@ https://d1x82nydcxndze.cloudfront.net/live/index_360p25.m3u8
 #EXTINF:-1 tvg-id="NRT TV" tvg-name="NRT TV" tvg-logo="http://www.livenewson.com/wp-content/uploads/2015/12/NRT.png" group-title="KURDI",NRT TV
 https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NRT 2" tvg-name="NRT 2" tvg-logo="https://kurdost.com/tv/wp-content/uploads/2018/01/NRT-2-TV.jpg" group-title="KURDI",NRT 2
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/54.m3u8
-
 #EXTINF:-1 tvg-id="AVA TV" tvg-name="AVA TV" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/dc/99/9c/dc999c2f-ebdf-81f9-c6a6-e6b1612b9fd4/source/512x512bb.jpg" group-title="KURDI",AVA TV
 https://cdn3.wowza.com/1/OWNQVXVWc0dQclJz/RXJPdHJx/hls/live/playlist.m3u8
 
@@ -115,7 +112,7 @@ https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/in
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 
 #EXTINF:-1 tvg-id="MBC Masr1" tvg-name="MBC Masr1" tvg-logo="https://i.pinimg.com/originals/3d/e9/8e/3de98e6cd6e92d62838bf9a24830b05e.png" group-title="ARABI",MBC Masr1
-https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_1.m3u8
+https://shls-live-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_34.m3u8
 
 #EXTINF:-1 tvg-id="MBC Masr1-USA" tvg-name="MBC Masr1-USA" tvg-logo="https://i.pinimg.com/originals/3d/e9/8e/3de98e6cd6e92d62838bf9a24830b05e.png" group-title="ARABI",MBC Masr1-USA
 https://shls-mbc-masr-usa-prod.shahid.net/out/v1/d4fded7d5df04b88b9ea1db61d00f095/index.m3u8
