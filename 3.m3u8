@@ -13,9 +13,6 @@ https://d1x82nydcxndze.cloudfront.net/live/index_360p25.m3u8
 #EXTINF:-1 tvg-id="NRT TV" tvg-name="NRT TV" tvg-logo="http://www.livenewson.com/wp-content/uploads/2015/12/NRT.png" group-title="KURDI",NRT TV
 https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NRT2 TV" tvg-name="NRT2 TV" tvg-logo="http://www.livenewson.com/wp-content/uploads/2015/12/NRT.png" group-title="KURDI",NRT2 TV
-https://glwizhhls22.glwiz.com/NRT2/NRT2_Low.m3u8?user=sgls4zvoosnlvwuic3owrofgukud&session=4a64b1669e48ae0e89b7e4c2995b0cdf9f882e68063d97978d97e17d49507573c941c47fe669dbd4a33248e7600c7193ff980221a1866aa5&hlsid=HTTP_ID_198660
-
 #EXTINF:-1 tvg-id="AVA TV" tvg-name="AVA TV" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/dc/99/9c/dc999c2f-ebdf-81f9-c6a6-e6b1612b9fd4/source/512x512bb.jpg" group-title="KURDI",AVA TV
 https://cdn3.wowza.com/1/OWNQVXVWc0dQclJz/RXJPdHJx/hls/live/playlist.m3u8
 
