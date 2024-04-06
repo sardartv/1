@@ -61,6 +61,9 @@ https://kurdsat.akamaized.net/hls/stream_2.m3u8
 #EXTINF:-1 tvg-id="Kurdsat News" tvg-name="Kurdsat News" tvg-logo="https://gulf365.co/content/uploads/2019/02/03/f5bcbb977e.jpg" group-title="KURDI",Kurdsat News
 https://kurdsat-news.akamaized.net/hls/stream_2.m3u8
 
+#EXTINF:-1 tvg-id="Assyrian TV" tvg-name="Assyrian TV" tvg-logo="https://ronahi.tv/wp-content/uploads/2019/10/R-LOGO.png" group-title="KURDI",Assyrian TV
+https://58cc65c534c67.streamlock.net/agnsat.com/agn2/chunklist_w234694361.m3u8
+
 #EXTINF:-1 tvg-id="Speda TV" tvg-name="Speda TV" tvg-logo="https://tvtolive.com/wp-content/uploads/Speda-TV-tvtolive.com_.jpg" group-title="KURDI",Speda TV
 https://speda.dwasat.com/upload/images/spedahd.m3u8
 
