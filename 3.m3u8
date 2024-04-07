@@ -16,12 +16,6 @@ https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
 #EXTINF:-1 tvg-id="AVA TV" tvg-name="AVA TV" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/dc/99/9c/dc999c2f-ebdf-81f9-c6a6-e6b1612b9fd4/source/512x512bb.jpg" group-title="KURDI",AVA TV
 https://cdn3.wowza.com/1/OWNQVXVWc0dQclJz/RXJPdHJx/hls/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="KMC TV" tvg-name="KMC TV" tvg-logo="" group-title="KURDI",KMC TV
-https://kmchls.wns.live/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="Mix kurdish" tvg-name="Mix kurdish" tvg-logo="" group-title="KURDI",Mix kurdish
-http://217.74.16.163:9590/live/mixkurdish/video.m3u8
-
 #EXTINF:-1 tvg-id="KurdMax" tvg-name="KurdMax" tvg-logo="https://pbs.twimg.com/profile_images/576732364073635840/Y2MTa6As.png" group-title="KURDI",KurdMax
 https://6476e46b58f91.streamlock.net/liveTrans/KurdmaxS0rani!/chunklist_w863153518.m3u8
 
@@ -29,7 +23,7 @@ https://6476e46b58f91.streamlock.net/liveTrans/KurdmaxS0rani!/chunklist_w8631535
 https://6476e46b58f91.streamlock.net/liveTrans/SHOW1/chunklist_w2067366114.m3u8
 
 #EXTINF:-1 tvg-id="KurdMax Music" tvg-name="KurdMax Music" tvg-logo="http://karwan.tv//logo/tv/kurdmax-music.png" group-title="KURDI",KurdMax Music
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1712376088/ei/uHQQZv-tG4nTi9oP6aOvqAQ/ip/2a02%3Aa467%3A8d1a%3A0%3A2420%3A9f40%3Aeffe%3Aeba2/id/xyj5yCIJAyA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f8R-xRtKh-qqKbR9JjRPdy8VFxAFsiWMdVpTavRGEHbMWKKCG0xIC76SGCgqbW8Jka0YRQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/51141542/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgBjAf_KUlKxiPIo8H9NSzx_dAsnEYNE5JjrI__9y9ZOYCIQCDi5cyghGUVljPQl9F4h6yopikDmqegqfKD5Ol2-FUHA%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1712521606/ei/Jq0SZuKWAr2Ci9oP-aWiKA/ip/2a02:a467:8d1a:0:b0e2:872:ca53:a866/id/xyj5yCIJAyA.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-32o-guh6.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/siu/1/spc/UWF9fw598mP0flbn5NXKm193DAGmDU-edx_kj7hOEDMNMPBalnMaPQjkAb2PtSiDvgecrplnVQ/vprv/1/playlist_type/DVR/mh/It/mm/44/mn/sn-32o-guh6/ms/lva/mv/u/mvi/1/pl/41/dover/11/pacing/0/keepalive/yes/fexp/51141542/mt/1712499579/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,siu,spc,vprv,playlist_type/sig/AJfQdSswRQIgXnex4Jnk_xsrhrAFx6ABFBpP8JQFlcEbTjKwe-hOh08CIQDPgd1y-yN0K1PRETOoWfRZl3w_Nbiu0ErnSCwh31h6fA%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRgIhAIqUBO6R3FcEPPsgbrie9ttbhnjZGMsKcRjer5PysHUXAiEA9lTwPIkokospWY5B4X53rswHK1eWjdxD24DXpfA0L8M%3D/playlist/index.m3u8
 
 #EXTINF:-1 tvg-id="Nohadra TV" tvg-name="Nohadra TV" tvg-logo="" group-title="KURDI",Nohadra TV
 https://ip.nohadraserver.com:3785/live/nohadratvlive.m3u8
@@ -47,7 +41,7 @@ https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Waar TV" tvg-name="Waar TV" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/iq-waar-tv-6114.jpg" group-title="KURDI",Waar TV
-https://ikomg4.s.llnwi.net/waarhd/waar-hd.m3u8
+https://ca-rt.onetv.app/Waar/index-0.m3u8
 
 #EXTINF:-1 tvg-id="Kirkuk TV" tvg-name="Kirkuk TV" tvg-logo="https://karwan.tv/wp-content/uploads/2020/03/kirkuk-tv-2.jpg" group-title="KURDI",Kirkuk TV
 https://5ab29cc78f681.streamlock.net/IHTV/livestream/playlist.m3u8
