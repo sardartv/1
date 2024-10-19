@@ -4,9 +4,6 @@
 #EXTINF:-1 tvg-id="Rudaw TV" tvg-name="Rudaw TV" tvg-logo="http://desty2.com/logo/rudaw.png" group-title="KURDI",Rudaw TV
 http://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Rudaw TV-2" tvg-name="Rudaw TV-2" tvg-logo="http://desty2.com/logo/rudaw.png" group-title="KURDI",Rudaw TV-2
-https://svs.itworkscdn.net/rudawlive/rudawlive.smil/rudawtv_360p_chunks.m3u8
-
 #EXTINF:-1 tvg-id="Kurdistan 24" tvg-name="Kurdistan 24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgw3swvdh5qUVZ2U-unB5OF4oN4ULvlTupFObkuJ4C63KHeYbx" group-title="KURDI",Kurdistan 24
 https://d1x82nydcxndze.cloudfront.net/live/index_360p25.m3u8
 
@@ -69,6 +66,9 @@ https://live.ishiacloud.com/haditv.co.uk/haditv7.m3u8
 
 #EXTINF:-1 tvg-id="Afarin TV" tvg-name="Afarin TV" tvg-logo="https://yt3.ggpht.com/a/AATXAJyNmQaoPVLDX25TJEdOjA0k1oDCkujA_9i4UA=s900-c-k-c0xffffffff-no-rj-mo" group-title="KURDI",Afarin TV
 https://5ab29cc78f681.streamlock.net/afarinTV/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Nubar TV" tvg-name="Nubar TV" tvg-logo="https://pbs.twimg.com/profile_images/1114550938252062723/V9qxC9P3.png" group-title="KURDI",Nubar TV
+http://stream.nubar.tv:1935/private/NUBARPlus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Ronahi TV" tvg-name="Ronahi TV" tvg-logo="https://ronahi.tv/wp-content/uploads/2019/10/R-LOGO.png" group-title="KURDI",Ronahi TV
 https://ikomg1.s.llnwi.net/ronahi-tv/ronahi-tv.m3u8
