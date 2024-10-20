@@ -117,17 +117,6 @@ http://188.247.86.66/RadioFann/Audio32/playlist.m3u8
 #EXTINF:-1 tvg-id="RoyaTV.jo" tvg-name="Roya TV" tvg-country="JO" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Sa2nBTP.png" group-title="ARABI",Roya TV (720p)
 https://royatv-live.daioncdn.net/royatv/royatv_480p.m3u8
 
-
-
-
-
-
-#EXTINF:-1 tvg-id="Dubai Zaman" tvg-name="Dubai Zaman" tvg-logo="http://www.dmi.gov.ae/images/logos-new/Dubai-Zaman.png" group-title="ARABI",Dubai Zaman
-https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Aghani" tvg-name="Aghani" tvg-logo="" group-title="ARABI",Aghani
-http://149.62.177.115:8000/play/a035/index.m3u8
-
 #EXTINF:-1 tvg-id="MosaiqueFM.tn" tvg-name="Mosaïque FM" tvg-logo="https://www.mosaiquefm.net/images/front2020/logoar.png" group-title="ARABI",Mosaïque FM (480p)
 https://webcam.mosaiquefm.net:1936/mosatv/studio/playlist.m3u8
 
@@ -137,23 +126,8 @@ https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6
 #EXTINF:-1 tvg-id="Arabica" tvg-name="Arabica" tvg-logo="" group-title="ARABI",Arabica
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Abu Dhabi" tvg-name="Abu Dhabi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdG201ou-3b2shULilHQN-M80IZJR0xbTReg&usqp=CAU" group-title="ARABI",Abu Dhabi
-https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="Syria TV" tvg-name="Syria TV" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngjufkmJJNjgPzGkxcvo6HLBtgl0pIdPZcHLDja=s900-c-k-c0x00ffffff-no-rj" group-title="ARABI",Syria TV
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Syria Drama" tvg-name="Syria Drama" tvg-country="SY" tvg-language="Arabic" tvg-logo="https://i.imgur.com/5EnxvkU.png" group-title="ARABI",Syria Drama (160p) [Not 24/7]
-http://82.137.248.16:1935/Drama/stream19042021/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Al Rayyan" tvg-name="Al Rayyan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%A7%D9%84%D9%82%D9%86%D8%A7%D8%A9_2014-03-24_07-56.png" group-title="ARABI",Al Rayyan
-http://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Al Rayyan Al Qadeem" tvg-name="Al Rayyan Al Qadeem" tvg-logo="https://i.imgur.com/mVwHGbc.png" group-title="ARABI",Al Rayyan Al Qadeem
-https://svs.itworkscdn.net/alrayyanqadeemlive/alrayyanqadeem.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="National Geographic Arabic" tvg-name="National Geographic Arabic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTimsvgOZx1kKS3lKIrFJYhUJ2wrwydE8seYWiARsehjYnCu5-S&usqp=CAU" group-title="ARABI",National Geographic Arabic
-https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dijlah TV" tvg-name="Dijlah TV" tvg-logo="https://palsawa.com/img/ns0tn.jpg" group-title="ARABI",Dijlah TV
 https://ghaasiflu.online/Dijlah/index.m3u8
@@ -164,20 +138,8 @@ http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
 #EXTINF:-1 tvg-id="Al Sharqiya News" tvg-name="Al Sharqiya News" tvg-logo="http://livetvcentral.com/imgs/imgs/1668.jpg" group-title="ARABI",Al Sharqiya News
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AlRasheed.iq" tvg-name="Al Rasheed" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://alrasheedmedia.com/wp-content/themes/alrasheedv4/alr-logo.png" group-title="ARABI",Al Rasheed (408p)
-https://media1.livaat.com/AL-RASHEED-HD/index.m3u8
-
 #EXTINF:-1 tvg-id="Alhiwar" tvg-name="Alhiwar" tvg-logo="https://photosarab.com/wp-content/uploads/mic_logo_bug.jpg" group-title="ARABI",Alhiwar
 https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="OMAN TV" tvg-name="OMAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Saghhjjdegh.jpg" group-title="ARABI",OMAN TV
-http://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="OMAN Cultural TV" tvg-name="OMAN Cultural TV" tvg-logo="https://lh3.googleusercontent.com/proxy/1jZHmNApcSPy46VmEd8y09AhF4coFdsLC1CNbOnluMZGUtCgXEPna1tF4md29NITk_RVUWPD73atSX2CIK_RFkXYRL3FwMXVAv9VMCLSY6t9UGJwBEQyaA" group-title="ARABI",OMAN Cultural TV
-http://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="OMAN Mubashir TV" tvg-name="OMAN Mubashir TV" tvg-logo="https://lh3.googleusercontent.com/proxy/1jZHmNApcSPy46VmEd8y09AhF4coFdsLC1CNbOnluMZGUtCgXEPna1tF4md29NITk_RVUWPD73atSX2CIK_RFkXYRL3FwMXVAv9VMCLSY6t9UGJwBEQyaA" group-title="ARABI",OMAN Mubashir TV
-https://partwo.cdn.mangomolo.com/omlive/smil:omlive.stream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Jordan TV" tvg-name="Jordan TV" tvg-logo="https://lh3.googleusercontent.com/proxy/0maPzWeYon4ApvNkFJ0TaABYsZn44c8yW2dHru0Wm2yS5KkcJpYpMo5d2L_bMz_oVb2ErE8ddlYa3Fz1oqrkFcACvULiCQ" group-title="ARABI",Jordan TV
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
@@ -188,35 +150,17 @@ https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Sharqiya from Kalba TV" tvg-name="Sharqiya from Kalba TV" tvg-logo="https://i.imgur.com/6Er1lh6.png" group-title="ARABI",Sharqiya from Kalba TV
 https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Yas TV" tvg-name="Yas TV" tvg-logo="https://i.imgur.com/ky1sNul.png" group-title="ARABI",Yas TV
-https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CGTN Arabic" tvg-name="CGTN Arabic" tvg-logo="https://www.newslive.com/wp-content/uploads/2019/10/CGTN-Arabic.jpg" group-title="ARABI",CGTN Arabic
-http://livear.cgtn.com/1000a/prog_index.m3u8
-
-#EXTINF:-1 tvg-id="TRT Arabic" tvg-name="TRT Arabic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeM1Oj6sS4G_PCLSF556hA3WEaZO9p8vXJPw&usqp=CAU" group-title="ARABI",TRT Arabic
-https://tv-trtarabi.live.trt.com.tr/master.m3u8
-
 #EXTINF:-1 tvg-id="Aljazeera" tvg-name="Aljazeera" tvg-logo="https://pbs.twimg.com/profile_images/875639380781563906/b1J1YbIE_400x400.jpg" group-title="ARABI",Aljazeera
 https://live-hls-web-aja.getaj.net/AJA/01.m3u8
 
 #EXTINF:-1 tvg-id="Alarabiya" tvg-name="Al arabiya" tvg-logo="http://217.218.67.233/photo/20160525/568498bd-cd4d-4e82-9cb6-30cfc749f45d.jpg" group-title="ARABI",Alarabiya
 http://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BBCArabic.uk" tvg-name="BBC Arabic" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/oFGPG9Y.png" group-title="ARABI",BBC Arabic (720p)
-https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_dash_live.mpd
-
-#EXTINF:-1 tvg-id="Musawa TV" tvg-name="Musawa TV" tvg-logo="https://www.livetvcentral.com/imgs/tvs/1282.jpg" group-title="ARABI",Musawa TV
-http://htvpalsat.mada.ps:8888/musawa/index.m3u8
-
 #EXTINF:-1 tvg-id="DW Arabic" tvg-name="DW Arabic" tvg-logo="http://3.bp.blogspot.com/-3UrCnZu37XM/VJFdMjNhnjI/AAAAAAAAA-A/9fHvjEllmLU/s1600/DWTV-Arabic_o.jpg" group-title="ARABI",DW Arabic
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream04/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-id="Sky News" tvg-name="Sky News" tvg-logo="https://www.skynewsarabia.com/static/web-rev/img/app-banner/sna_logo_192_20_Pad.png" group-title="ARABI",Sky News
 https://stream.skynewsarabia.com/hls/sna.m3u8
-
-#EXTINF:-1 tvg-id="Izkar TV" tvg-name="Izkar TV" tvg-logo="https://www.livetvcentral.com/imgs/tvs/1282.jpg" group-title="ARABI",Izkar TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681080053/ei/leoyZMjIAe_Tx_APx7GPgA4/ip/2001%3A1c00%3A250e%3A5f00%3A28f3%3A2f04%3Ab2dd%3Add08/id/iz9qT-WOuJY.1/source/yt_live_broadcast/requiressl/yes/tx/24428418/txs/24428414%2C24428415%2C24428416%2C24428417%2C24428418%2C24428419%2C24428420/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgGrFscRVuC9Opt0AOrO4A0pzMDEEpieAYQwXmGjpT0CACIGi4c8pQBjQHADr_tWKc_hI9onX9af5hUNvQyhwxySre/file/index.m3u8
 
 #EXTINF:-1 tvg-id="Iqraa TV" tvg-name="Iqraa TV" tvg-logo="https://www.livetvcentral.com/imgs/tvs/1282.jpg" group-title="ARABI",Iqraa TV
 https://iqraa-live.ercdn.net/iqraa/iqraa_576p.m3u8
@@ -226,11 +170,6 @@ https://iqraa-live.ercdn.net/iqraa/iqraa_576p.m3u8
 #EXTINF:-1 tvg-id="Can TV" tvg-name="Can TV" tvg-logo="https://i.ibb.co/qdBr2fH/kgwc6oT.jpg" group-title="TURKI",Can TV
 http://canbroadcast.com:7000/canlican/tv.m3u8
 
-#EXTINF:-1 tvg-id="Cay TV" tvg-name="Cay TV" tvg-logo="https://i.ibb.co/80d40Qb/e2K5ixJ.png" group-title="TURKI",Cay TV
-http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
-
-#EXTINF:-1 tvg-id="Kanal 3" tvg-name="Kanal 3" tvg-logo="https://i.ibb.co/Jq49Y1g/uHAGsRk.png" group-title="TURKI",Kanal 3
-http://stream.taksimbilisim.com:1935/kanal3/bant1/Kanal3.m3u8
 
 -------------------------------------------------------------------FARSI----------------------------------------------------------------------------------------
 
@@ -240,50 +179,8 @@ https://hls.pmchd.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="MBCPersia.ae" tvg-name="MBC Persia" tvg-country="IR" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/MBC_Persia_Logo.png" group-title="FARSI",MBC Persia (1080p)
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
 
-#EXTINF:-1 tvg-id="PersianFilm.ir" tvg-name="Persian Film" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",Persian Film (720p)
-http://51.210.227.135/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="PersianaFamily.fr" tvg-name="Persiana Family" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",Persiana Family (720p)
-http://51.210.199.19/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="PersianaComedy.fr" tvg-name="Persiana Comedy" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",Persiana Comedy (720p)
-http://51.210.199.27/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="AVAFamily.ir" tvg-name="AVA Family" tvg-logo="" group-title="FARSI",AVA Family [Not 24/7]
-http://51.210.199.5/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="AVASeries.ir" tvg-name="AVA Series" tvg-logo="" group-title="FARSI",AVA Series (720p)
-http://51.210.199.4/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="VOX1.ir" tvg-name="VOX1" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/OFuIRFI.jpg" group-title="FARSI",VOX1 (720p)
-http://51.210.199.8/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="PersianaIranian.fr" tvg-name="Persiana Iranian" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",Persiana Iranian (720p)
-http://51.210.199.22/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="PersianaJunior.fr" tvg-name="Persiana Junior" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",Persiana Junior (720p)
-http://51.210.199.18/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="PersianaKorea.fr" tvg-name="Persiana Korea" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",Persiana Korea (720p)
-http://51.210.199.14/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="PersianaMusic.fr" tvg-name="Persiana Music" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",Persiana Music (720p)
-http://51.210.199.24/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="PersianaNostalgia.fr" tvg-name="Persiana Nostalgia" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",Persiana Nostalgia (720p)
-http://51.210.199.20/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="PersianaPlus.fr" tvg-name="Persiana Plus" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",Persiana Plus (576p)
-http://51.210.199.21/hls/stream.m3u8
-
 #EXTINF:-1 tvg-id="HastiTV.ir" tvg-name="Hasti TV" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",Hasti TV (1080p)
 https://live.hastitv.com/hls/livetv.m3u8
-
-#EXTINF:-1 tvg-id="Parsiland.ir" tvg-name="Parsiland" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",Parsiland (540p)
-http://vps.parsiland.net/hls/ParsiLand.m3u8
-
-#EXTINF:-1 tvg-id="NAVAHANG.ir" tvg-name="NAVAHANG" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",NAVAHANG (720p)
-http://51.210.227.130/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="PBCTapeshTV.ir" tvg-name="PBC Tapesh TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/J0Oj78g.jpg" group-title="FARSI",PBC Tapesh TV (720p)
 http://iptv.tapesh.tv/tapesh/playlist.m3u8
@@ -294,88 +191,26 @@ https://live2.parnian.tv/hls/.m3u8
 #EXTINF:-1 tvg-id="TinTV.ir" tvg-name="Tin TV" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",Tin TV (720p)
 https://bozztv.com/1gbw5/tintv/tintv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SL1.ir" tvg-name="SL 1" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/n9cuM2W.jpg" group-title="FARSI",SL 1 (720p)
-http://51.210.199.3/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="SL2.ir" tvg-name="SL 2" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/BVuUx5R.jpg" group-title="FARSI",SL 2 (720p)
-http://51.210.199.2/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="SAHAND.ir" tvg-name="SAHAND" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",SAHAND (240p)
-http://cdn1.live.irib.ir:1935/epg-live/smil:sahand/playlist.m3u8
-
-#EXTINF:-1 tvg-id="PersianBazar.ir" tvg-name="Persian Bazar" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",Persian Bazar (720p)
-https://stream.persiantv1.com/ptv1/playlist1/index.m3u8
-
 #EXTINF:-1 tvg-id="PayamJavanTV.ir" tvg-name="Payam Javan TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://payamjavan.com/wp-content/uploads/2019/05/logo-Payam-Javan.png" group-title="FARSI",Payam Javan TV (720p)
 https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="GOLESTAN.ir" tvg-name="GOLESTAN" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",GOLESTAN (240p)
-http://cdn1.live.irib.ir:1935/epg-live/smil:golestan/playlist.m3u8
-
-#EXTINF:-1 tvg-id="FARS.ir" tvg-name="FARS" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",FARS (240p)
-http://cdn1.live.irib.ir:1935/epg-live/smil:fars/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AzstarTV.ca" tvg-name="Azstar TV" tvg-country="CA" tvg-language="Persian" tvg-logo="https://i.imgur.com/iqraNYV.jpg" group-title="FARSI",Azstar TV [Not 24/7]
 http://live.livestreamtv.ca/azstar/smil:azstar.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HighVision.us" tvg-name="High Vision" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",High Vision (1080p)
-https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Toonix.ir" tvg-name="Toonix" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",Toonix (720p)
-http://51.210.227.134/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="SepanjTV.ir" tvg-name="Sepanj TV" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",Sepanj TV (720p)
-http://51.210.199.30/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="HodHodTV.fr" tvg-name="HodHod TV" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",HodHod TV (720p)
-http://51.210.199.12/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="AvangTV.us" tvg-name="Avang TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/aa/avang-tv-us.png" group-title="FARSI",Avang TV (1080p)
-http://appavang.flashmediacast.com:1935/Appavang/livestream/palylist.m3u8
 
 -------------------------------------------------------------------AJNABI----------------------------------------------------------------------------------------
-
-#EXTINF:-1 tvg-id="24HourFreeMovies.us" tvg-name="24 Hour Free Movies" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/FiTdDp1.png" group-title="AJNABI",24 Hour Free Movies (720p)
-https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
 
 #EXTINF:-1 tvg-id="30ATheBeachShow.us" tvg-name="30A The Beach Show" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/0j5Aget.png" group-title="AJNABI",30A The Beach Show (720p)
 https://30a-tv.com/beachy.m3u8
 
-#EXTINF:-1 tvg-id="AEBestof.us" tvg-name="A&E (Best of)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/zl7Gzwm.png" group-title="AJNABI",A&E (Best of) (1080p)
-https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="KTNV.us" tvg-name="ABC 13 Las Vegas NV (KTNV)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/QbkW7zY.png" group-title="AJNABI",ABC 13 Las Vegas NV (KTNV) (720p)
-https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
-
-#EXTINF:-1 tvg-id="ActionMAX.us" tvg-name="ActionMAX" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Snba5W2.jpg" group-title="AJNABI",ActionMAX (360p)
-http://31.220.41.88:8081/live/us-cinemaxaction.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Cinemax.us" tvg-name="Cinemax" tvg-country="US" tvg-language="English" tvg-logo="https://static.epg.best/ph/Cinemax.ph.png" group-title="AJNABI",Cinemax (360p) [Not 24/7]
-http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ClassicCinema.us" tvg-name="Classic Cinema" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/tC4AePW.png" group-title="AJNABI",Classic Cinema (240p)
-https://rpn1.bozztv.com/36bay2/gusa-classiccinema/mono.m3u8
-
-#EXTINF:-1 tvg-id="ClassicMoviesChannel.us" tvg-name="Classic Movies Channel" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/pltVS6t.png" group-title="AJNABI",Classic Movies Channel (480p)
-https://b83608fe932143099bb8b25a66857730.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f86075a0d552957bf5aa4dd/playlist.m3u8
-
 #EXTINF:-1 tvg-id="ElectricNow.us" tvg-name="Electric Now" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjgzOTI0NjRf/ElectricNow_300x300.png" group-title="AJNABI",Electric Now (1080p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-electricnow/CDN/master.m3u8
-
-#EXTINF:-1 tvg-id="EverydayHeroes.us" tvg-name="Everyday Heroes" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Iam3ol3.png" group-title="AJNABI",Everyday Heroes (720p)
-https://a.jsrdn.com/broadcast/7b1451fa52/+0000/c.m3u8
 
 #EXTINF:-1 tvg-id="FilmHub.us" tvg-name="Film Hub" tvg-country="US" tvg-language="English" tvg-logo="http://cdn-images-1.medium.com/max/280/1*7zB_9kQDvR3fa_IIk8fhQg@2x.png" group-title="AJNABI",Film Hub (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FilmRiseClassicTV.us" tvg-name="FilmRise Classic TV (STIRR)" tvg-country="US" tvg-language="English" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/0cc80229-e631-4ab5-b9e6-cab62f841ab5-small3x1_STIRR_Logo_0320_FilmriseClassicTV_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="AJNABI",FilmRise Classic TV (STIRR) (720p)
-https://dai.google.com/linear/hls/event/hW5jMh7dTRK1UXW5fTH07A/master.m3u8
-
 #EXTINF:-1 tvg-id="FilmRiseClassicTV.us" tvg-name="FilmRise Classic TV" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" group-title="AJNABI",FilmRise Classic TV on Redbox (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmriseclassictv/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-id="FilmRiseFreeMoviesSTIRR.us" tvg-name="FilmRise Free Movies (STIRR)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/X7U7ikq.png" group-title="AJNABI",FilmRise Free Movies (STIRR) (720p)
-https://dai.google.com/linear/hls/event/Va1QEor0SWO_x_SQNyaF0w/master.m3u8
 
 #EXTINF:-1 tvg-id="FilmRiseFreeMoviesonRedbox.us" tvg-name="FilmRise Free Movies on Redbox" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/X7U7ikq.png" group-title="AJNABI",FilmRise Free Movies on Redbox (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8
@@ -383,68 +218,20 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/play
 #EXTINF:-1 tvg-id="HBOPREMIUM.us" tvg-name="HBO PREMIUM" tvg-country="US" tvg-language="English" tvg-logo="https://www.intersatelital.com.bo/wp-content/uploads/2017/04/hbo-premium.png" group-title="AJNABI",HBO PREMIUM (360p)
 https://s.vdo.ai/vhs/1.m3u8
 
-#EXTINF:-1 tvg-id="HISTORYChannelBestof.us" tvg-name="HISTORY Channel (Best of)" tvg-country="US" tvg-language="English" tvg-logo="http://i1.kym-cdn.com/entries/icons/original/000/019/322/photo.jpg" group-title="AJNABI",HISTORY Channel (Best of) (720p)
-https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
-
 #EXTINF:-1 tvg-id="HorrorMachine.us" tvg-name="Horror Machine" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605d16ea10396351a3042dd3" group-title="AJNABI",Horror Machine (720p)
 https://linear-82.frequency.stream/dist/localnow/82/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="iFoodTV.us" tvg-name="iFood.TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/GnmHLNB.png" group-title="AJNABI",iFood.TV (720p)
 https://ifood-vizio.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MagellanTV.us" tvg-name="Magellan TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/oIy673i.png" group-title="AJNABI",Magellan TV (720p)
-https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8
-
-#EXTINF:-1 tvg-id="Movie Kingdom Eglish" tvg-name="Movie Kingdom Eglish" tvg-logo="https://i.imgur.com/pIuJqYk.png" group-title="AJNABI",Movie Kingdom Eglish
-https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
-
-#EXTINF:-1 tvg-id="MovieSphere.us" tvg-name="MovieSphere" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjM1Njg1NTFf/MovieSphere_400x400.png" group-title="AJNABI",MovieSphere (1080p)
-https://moviesphere-plex.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NatureLiveAuroraLiveBumblebee.us" tvg-name="Nature Live Aurora Live (Bumblebee)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/1WIEWK7.png" group-title="AJNABI",Nature Live Aurora Live (Bumblebee) (1080p)
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NatureLiveMountainLiveBumblebee.us" tvg-name="Nature Live Mountain Live (Bumblebee)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/2Ipv14J.png" group-title="AJNABI",Nature Live Mountain Live (Bumblebee) (1080p)
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NatureLiveWaterfallsLiveBumblebee.us" tvg-name="Nature Live Waterfalls Live (Bumblebee)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/i43l93j.png" group-title="AJNABI",Nature Live Waterfalls Live (Bumblebee) (1080p)
-https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5c953910932c837b4939735d/playlist.m3u8
-
 #EXTINF:-1 tvg-id="PlutoTVHorror.us" tvg-name="Pluto TV Horror" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/569546031a619b8f07ce6e25/colorLogoPNG.png" group-title="AJNABI",Pluto TV Horror (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=569546031a619b8f07ce6e25&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=75&terminate=false&userId=
 
-#EXTINF:-1 tvg-id="Redbox1Spotlight.us" tvg-name="Redbox 1: Spotlight" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/OrGCnPg.jpg" group-title="AJNABI",Redbox 1: Spotlight (1080p)
-https://spotlight-redbox.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Redbox2Comedy.us" tvg-name="Redbox 2: Comedy" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" group-title="AJNABI",Redbox 2: Comedy (1080p)
-https://comedy-redbox.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Redbox3Rush.us" tvg-name="Redbox 3: Rush" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/pA6g3iH.jpg" group-title="AJNABI",Redbox 3: Rush (1080p)
-https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TheDesignNetwork.us" tvg-name="The Design Network" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/LoUGscj.png" group-title="AJNABI",The Design Network (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxthedesignnetwork/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVSHollywoodHistory.us" tvg-name="TVS Hollywood History" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="AJNABI",TVS Hollywood History (408p)
-https://rpn1.bozztv.com/36bay2/gusa-tvshollywoohistory/mono.m3u8
-
-#EXTINF:-1 tvg-id="TVSTravel.us" tvg-name="TVS Travel Network" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Bgqy4fL.jpg" group-title="AJNABI",TVS Travel Network (720p)
-https://rpn1.bozztv.com/36bay2/gusa-tvstravel/index.m3u8
-
 #EXTINF:-1 tvg-id="YoutooAmerica.us" tvg-name="Youtoo America" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/3se2VEB.png" group-title="AJNABI",Youtoo America (1080p)
 https://thegateway.app/YouToo/YTamerica/playlist.m3u8
-
-#EXTINF:-1 tvg-id="FashionTVEurope.fr" tvg-name="Fashion TV" tvg-country="FR" tvg-language="English" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="AJNABI",Fashion TV (1080p)
-https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-id="FashionTVTokyo.fr" tvg-name="Fashion TV Tokyo (PG13)" tvg-country="FR" tvg-language="English" tvg-logo="https://i.imgur.com/auHH1Ig.png" group-title="AJNABI",Fashion TV Tokyo (PG13)
-https://fash1043.cloudycdn.services/slive/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FashionTVUHD.fr" tvg-name="Fashion TV UHD" tvg-country="FR" tvg-language="English" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="AJNABI",Fashion TV UHD (2160p)
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NASATV.us" tvg-name="NASA TV" tvg-country="US" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTupMmB3cw51YJqk8xVO8WZj3yDVr70ayrxkkLS0_SMNT7pR0t6" group-title="AJNABI",NASA TV (720p)
 http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Euronews" tvg-name="Euronews" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="AJNABI",Euronews
-https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
